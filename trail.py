@@ -2,9 +2,9 @@ import json
 
 
 class Trail(object):
-    def __init__(self, name='undefined'):
+    def __init__(self, name='undefined', gpx_filename='undefined.json'):
         self.name = name
-        self.gpx_filename = 'amsterdam-amsterdam.gpx'
+        self.gpx_filename = gpx_filename
 
     def __str__(self):
         return self.name + ' - gpx: ' + self.gpx_filename
@@ -23,6 +23,9 @@ class Trail(object):
 class Trails(object):
     def __init__(self):
         self.trails = []
+
+    def __iter__(self):
+        return self.trails.__iter__()
 
     def append(self, trail):
         self.trails.append(trail)
@@ -50,8 +53,9 @@ class TrailJSONEncoder(json.JSONEncoder):
 def main():
     print('main() - START!')
     trails = Trails()
-    trails.append(Trail("test1"))
-    trails.append(Trail("test2"))
+    trails.append(Trail('Amsterdam - Amsterdam', 'amsterdam-amsterdam.gpx'))
+    trails.append(Trail('Bussum Zuid - Weesp', 'bussum_zuid-weesp.gpx'))
+    trails.append(Trail('Ede-Wageningen - Wageningen', 'ede-wageningen-wageningen.gpx'))
     filename = 'trails.json'
     trails.to_json(filename)
     trails.from_json(filename)
