@@ -29,15 +29,16 @@ map.addControl(new ol.control.FullScreen());
 // GPX tracks
 
 var style = {
+    // Points are hidden
     'Point': [new ol.style.Style({
         image: new ol.style.Circle({
             fill: new ol.style.Fill({
                 color: 'rgba(255,255,0,0.4)'
             }),
-            radius: 5,
+            radius: 0,
             stroke: new ol.style.Stroke({
                 color: '#ff0',
-                width: 1
+                width: 0
             })
         })
     })],
@@ -55,17 +56,30 @@ var style = {
     })]
 };
 
-var trackVector = new ol.layer.Vector({
-    source: new ol.source.Vector({
-        projection: 'EPSG:3857',
-        format: new ol.format.GPX(),
-        url: './data/gpx/amsterdam-amsterdam.gpx'
-    }),
-    style: function(feature, resolution) {
-        return style[feature.getGeometry().getType()];
+
+function createTrailLayer(json_trail)
+{
+    var trackVector = new ol.layer.Vector({
+        source: new ol.source.Vector({
+            projection: 'EPSG:3857',
+            format: new ol.format.GPX(),
+            url: './data/gpx/' + json_trail.gpx_filename
+        }),
+        style: function(feature, resolution) {
+            return style[feature.getGeometry().getType()];
+        }
+    });
+    return trackVector;
+}
+
+
+$.getJSON("./trails_downloaded.json", function(json) {
+    console.log(json.trails);
+    for (var i in json.trails)
+    {
+        var trail = json.trails[i];
+        console.log(trail)
+        trail = createTrailLayer(trail);
+        map.addLayer(trail);
     }
 });
-
-map.addLayer(trackVector);
-
-
