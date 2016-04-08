@@ -176,8 +176,13 @@ map.on('click', function(evt) {
 // Live location display
 
 var geolocation = new ol.Geolocation({
-    projection: view.getProjection()
+    projection: view.getProjection(),
+    trackingOptions: {
+        enableHighAccuracy: true,
+        maximumAge: 10000
+    }
 });
+
 
 // handle geolocation error.
 geolocation.on('error', function(error) {
@@ -219,3 +224,5 @@ var featuresOverlay = new ol.layer.Vector({
 });
 
 geolocation.setTracking(true);
+var trackingOptions = geolocation.getTrackingOptions();
+console.log(trackingOptions);
