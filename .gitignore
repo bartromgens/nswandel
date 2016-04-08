@@ -2,3 +2,5 @@
 lib/
 extract/
 data/gpx
+
+*.zip
