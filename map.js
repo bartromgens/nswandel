@@ -81,14 +81,32 @@ $.getJSON("./trails_downloaded.json", function(json) {
     for (var i in json.trails)
     {
         var trail = json.trails[i];
-        console.log(trail)
+        // console.log(trail)
         var trailLayer = createTrailLayer(trail);
         map.addLayer(trailLayer);
     }
 });
 
 
-// Tooltip
+// Select features
+
+var select = new ol.interaction.Select({
+    condition: ol.events.condition.click
+});
+
+// select.on('select', function(evt) {
+//     if (!evt.selected[0])
+//     {
+//         return;
+//     }
+//     var selected_trail_name = evt.selected[0].get('name')
+//     console.log(selected_trail_name);
+// });
+
+map.addInteraction(select);
+
+
+// Infobox and tooltip
 
 var info = $('#info');
 
@@ -110,7 +128,6 @@ var displayLayerTooltip = function(pixel) {
     }
 };
 
-var info_detail = $('#info-detail');
 
 var displayLayerDetailInfo = function(pixel) {
     var layer = map.forEachLayerAtPixel(pixel, function(layer) {
@@ -134,5 +151,9 @@ map.on('pointermove', function(evt) {
         return;
     }
     displayLayerTooltip(map.getEventPixel(evt.originalEvent));
+});
+
+map.on('click', function(evt) {
+
     displayLayerDetailInfo(map.getEventPixel(evt.originalEvent));
 });
