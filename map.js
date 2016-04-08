@@ -225,4 +225,3 @@ var featuresOverlay = new ol.layer.Vector({
 
 geolocation.setTracking(true);
 var trackingOptions = geolocation.getTrackingOptions();
-console.log(trackingOptions);
