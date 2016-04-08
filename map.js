@@ -58,14 +58,19 @@ var style = {
 };
 
 
+var vectorSources = [];
+var vectorLayers = [];
+
 function createTrailLayer(json_trail)
 {
+    var vectorSource = new ol.source.Vector({
+        projection: 'EPSG:3857',
+        format: new ol.format.GPX(),
+        url: './data/gpx/' + json_trail.gpx_filename
+    });
+    vectorSources.push(vectorSource)
     var trailVector = new ol.layer.Vector({
-        source: new ol.source.Vector({
-            projection: 'EPSG:3857',
-            format: new ol.format.GPX(),
-            url: './data/gpx/' + json_trail.gpx_filename
-        }),
+        source: vectorSource,
         style: function(feature, resolution) {
             return style[feature.getGeometry().getType()];
         },
@@ -73,13 +78,13 @@ function createTrailLayer(json_trail)
         url: './data/gpx/' + json_trail.gpx_filename,
         url_extern: json_trail.url_extern,
     });
+    vectorLayers.push(trailVector);
     return trailVector;
 }
 
 
 $.getJSON("./trails_downloaded.json", function(json) {
-    for (var i in json.trails)
-    {
+    for (var i in json.trails) {
         var trail = json.trails[i];
         // console.log(trail)
         var trailLayer = createTrailLayer(trail);
@@ -129,17 +134,27 @@ var displayLayerTooltip = function(pixel) {
 };
 
 
-var displayLayerDetailInfo = function(pixel) {
-    var layer = map.forEachLayerAtPixel(pixel, function(layer) {
+var displayLayerDetailInfo = function(evt) {
+    var layer = map.forEachLayerAtPixel(map.getEventPixel(evt.originalEvent), function(layer) {
         return layer;
     });
 
+    // var coordinates = map.getEventCoordinate(evt.originalEvent);
+    // var features = [];
+    // for (var i = 0; i < vectorSources.length; ++i){
+    //     var feature = vectorSources[i].getClosestFeatureToCoordinate(coordinates)
+    //     features.push(feature);
+    //     var center = ol.extent.getCenter(feature.getGeometry().getExtent());
+    //     var wgs84Sphere = new ol.Sphere(6378137);
+    //     var distance = wgs84Sphere.haversineDistance(coordinates, center);
+    //     console.log(vectorLayers[i].get('name'));
+    //     console.log(distance);
+    // }
+
     if (layer.get('name')) {
         document.getElementById("info-detail").innerText = layer.get('name');
-
         document.getElementById("url-extern").href = layer.get('url_extern');
         document.getElementById("url-extern").innerText = 'Meer info';
-
         document.getElementById("download-gpx").href = layer.get('url');
     }
 
@@ -154,6 +169,5 @@ map.on('pointermove', function(evt) {
 });
 
 map.on('click', function(evt) {
-
-    displayLayerDetailInfo(map.getEventPixel(evt.originalEvent));
+    displayLayerDetailInfo(evt);
 });
