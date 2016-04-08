@@ -104,13 +104,13 @@ def download_extract_gpx(url):
                 for filename in fnmatch.filter(filenames, '*.gpx'):
                     print(os.path.join(root, filename))
                     shutil.copyfile(os.path.join(root, filename), os.path.join('extract', filename))
-                    trails.append(Trail(name, filename))
+                    trails.append(Trail(name, filename, url))
         elif '.gpx' in zipurl:
             filename = os.path.join('extract', name + '.gpx')
             print('writing gpx to: ' + filename)
             with open(filename, 'w') as fileout:
                 fileout.write(str(resp.content))
-                trails.append(Trail(name, name + '.gpx'))
+                trails.append(Trail(name, name + '.gpx', url))
 
     return trails
 

@@ -2,9 +2,10 @@ import json
 
 
 class Trail(object):
-    def __init__(self, name='undefined', gpx_filename='undefined.json'):
+    def __init__(self, name='undefined', gpx_filename='undefined.json', url_extern='http://www.nlwandel.nl'):
         self.name = name
         self.gpx_filename = gpx_filename
+        self.url_extern = url_extern
 
     def __str__(self):
         return self.name + ' - gpx: ' + self.gpx_filename
@@ -15,6 +16,7 @@ class Trail(object):
             trail = Trail()
             trail.name = json_object['name']
             trail.gpx_filename = json_object['gpx_filename']
+            trail.url_extern = json_object['url_extern']
             return trail
         else:
             return json_object
