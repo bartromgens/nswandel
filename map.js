@@ -95,9 +95,9 @@ $.getJSON("./trails_downloaded.json", function(json) {
 
 // Select features
 
-var select = new ol.interaction.Select({
-    condition: ol.events.condition.click
-});
+// var select = new ol.interaction.Select({
+//     condition: ol.events.condition.click
+// });
 
 // select.on('select', function(evt) {
 //     if (!evt.selected[0])
@@ -108,7 +108,7 @@ var select = new ol.interaction.Select({
 //     console.log(selected_trail_name);
 // });
 
-map.addInteraction(select);
+// map.addInteraction(select);
 
 
 // Infobox and tooltip
@@ -171,3 +171,51 @@ map.on('pointermove', function(evt) {
 map.on('click', function(evt) {
     displayLayerDetailInfo(evt);
 });
+
+
+// Live location display
+
+var geolocation = new ol.Geolocation({
+    projection: view.getProjection()
+});
+
+// handle geolocation error.
+geolocation.on('error', function(error) {
+    var info = document.getElementById('info');
+    info.innerHTML = error.message;
+    info.style.display = '';
+});
+
+var accuracyFeature = new ol.Feature();
+geolocation.on('change:accuracyGeometry', function() {
+    accuracyFeature.setGeometry(geolocation.getAccuracyGeometry());
+});
+
+var positionFeature = new ol.Feature();
+positionFeature.setStyle(new ol.style.Style({
+    image: new ol.style.Circle({
+        radius: 6,
+        fill: new ol.style.Fill({
+            color: '#3399CC'
+        }),
+        stroke: new ol.style.Stroke({
+            color: '#fff',
+            width: 2
+        })
+    })
+}));
+
+geolocation.on('change:position', function() {
+    var coordinates = geolocation.getPosition();
+    positionFeature.setGeometry(coordinates ?
+        new ol.geom.Point(coordinates) : null);
+});
+
+var featuresOverlay = new ol.layer.Vector({
+    map: map,
+    source: new ol.source.Vector({
+        features: [accuracyFeature, positionFeature]
+    })
+});
+
+geolocation.setTracking(true);
