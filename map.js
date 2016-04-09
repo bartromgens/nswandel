@@ -93,6 +93,83 @@ $.getJSON("./trails_downloaded.json", function(json) {
 });
 
 
+function createStationLayer(typeScales, stations)
+{
+    var stationFeaturesSelectable = [];
+    var stationFeatures = [];
+
+    for (var i in stations) {
+        var station = stations[i];
+        var lat = parseFloat(station.lat);
+        lat = lat + 90.0;
+        var lonLat = [station.lon, lat.toString()];
+        var stationFeature = createStationFeature(station, lonLat);
+        stationFeatures.push(stationFeature);
+        stationFeaturesSelectable.push(stationFeature);
+    }
+
+    for (var j in stationFeatures)
+    {
+        stationFeatures[j].setStyle(getStationStyle(stationFeatures[j], 'white'));
+    }
+
+    var stationSelectableSource = new ol.source.Vector({
+        features: stationFeaturesSelectable
+    });
+
+    var stationsSelectableLayer = new ol.layer.Vector({
+        source: stationSelectableSource
+    });
+
+    stationsSelectableLayer.setZIndex(99);
+
+    map.addLayer(stationsSelectableLayer);
+}
+
+
+function createStationFeature(station, lonLat) {
+    return new ol.Feature({
+        geometry: new ol.geom.Point( ol.proj.fromLonLat(lonLat) ),
+        name: station.names.long,
+        id: station.id,
+        type: station.type,
+        text: station.names.short
+    });
+}
+
+
+var typeScales = {
+    'megastation': 6,
+    'intercitystation': 4,
+    'knooppuntIntercitystation': 4,
+    'sneltreinstation': 3,
+    'knooppuntSneltreinstation': 3,
+    'knooppuntStoptreinstation': 3,
+    'stoptreinstation': 2,
+    'facultatiefStation': 2,
+};
+
+
+function getStationStyle(feature, circleColor) {
+    var strokeColor = 'black';
+
+    var circleStyle = new ol.style.Circle(({
+        fill: new ol.style.Fill({color: circleColor}),
+        stroke: new ol.style.Stroke({color: strokeColor, width: 2}),
+        radius: typeScales[feature.get('type')]
+    }));
+
+    return new ol.style.Style({
+        image: circleStyle
+    });
+}
+
+
+$.getJSON("./data/stations.json", function(json) {
+    createStationLayer(typeScales, json.stations);
+});
+
+
 // Select features
 
 // var select = new ol.interaction.Select({
@@ -224,4 +301,3 @@ var featuresOverlay = new ol.layer.Vector({
 });
 
 geolocation.setTracking(true);
-var trackingOptions = geolocation.getTrackingOptions();
