@@ -66,7 +66,7 @@ function createTrailLayer(json_trail)
     var vectorSource = new ol.source.Vector({
         projection: 'EPSG:3857',
         format: new ol.format.GPX(),
-        url: './data/gpx/' + json_trail.gpx_filename
+        url: '/static/data/gpx/' + json_trail.gpx_filename
     });
     vectorSources.push(vectorSource)
     var trailVector = new ol.layer.Vector({
@@ -75,7 +75,7 @@ function createTrailLayer(json_trail)
             return style[feature.getGeometry().getType()];
         },
         name: json_trail.name,
-        url: './data/gpx/' + json_trail.gpx_filename,
+        url: '/static/data/gpx/' + json_trail.gpx_filename,
         url_extern: json_trail.url_extern,
     });
     vectorLayers.push(trailVector);
@@ -83,7 +83,7 @@ function createTrailLayer(json_trail)
 }
 
 
-$.getJSON("./trails_downloaded.json", function(json) {
+$.getJSON("/static/data/trails_downloaded.json", function(json) {
     for (var i in json.trails) {
         var trail = json.trails[i];
         // console.log(trail)
@@ -165,7 +165,7 @@ function getStationStyle(feature, circleColor) {
 }
 
 
-$.getJSON("./data/stations.json", function(json) {
+$.getJSON("/static/data/stations.json", function(json) {
     createStationLayer(typeScales, json.stations);
 });
 

@@ -15,15 +15,14 @@
 {# Load CSS and JavaScript #}
 {% bootstrap_css %}
 
-<style type="text/css">
-<!--
-@import url("{% static 'website/css/custom.css' %}");
--->
-</style>
+<link rel="stylesheet" href="http://openlayers.org/en/v3.12.1/css/ol.css" type="text/css">
+<link rel="stylesheet" href="{% static 'css/map.css' %}" type="text/css">
 
 <script src="{% bootstrap_jquery_url %}"></script>
 {% bootstrap_javascript %}
-{{ form.media }}
+
+<script src="http://openlayers.org/en/v3.12.1/build/ol.js" type="text/javascript"></script>
+<!--<script src="./lib/openlayers_v3.12.1/ol-debug.js" type="text/javascript"></script>-->
 
 {% block headcontent %}{% endblock %}
 
@@ -53,9 +52,11 @@
         </ul>
 
         <ul class="nav navbar-nav navbar-right">
+          <li><a href="/about/">About</a></li>
+          <li><a href="https://github.com/bartromgens/nswandelingen" target="_blank">Code</a></li>
         {% if not user.is_authenticated %}
-          <li><a href="/accounts/login"><b>Sign in</b></a></li>
-          <li><a href="/accounts/register"><b>Register</b></a></li>
+          <!--<li><a href="/accounts/login"><b>Sign in</b></a></li>-->
+          <!--<li><a href="/accounts/register"><b>Register</b></a></li>-->
         {% else %}
           {% if user.is_staff %}
           <li><a href="/admin">Admin</a></li>
@@ -68,13 +69,25 @@
     </div>
   </div>
 
+  <br/>
+  <br/>
+  <br/>
 
-  <div class="container-fluid">
-    {% block content %}Empty page{% endblock %}
-    <hr>
-    <footer class="row">
-    </footer>
+  <div class="container">
+      <h4 id="info-detail">Wandeling</h4>
+      <a class="btn btn-info" id="url-extern" href="/">Meer info</a>
+      <a class="btn btn-primary" id="download-gpx" href="/">Download GPX</a>
   </div>
+
+  <br/>
+
+  <div id="map-container">
+    <div id="map">
+      <div id="info"></div>
+    </div>
+  </div>
+
+  <script src="{% static 'js/map.js' %}"></script>
 
 </body>
 
