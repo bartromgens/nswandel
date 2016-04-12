@@ -2,7 +2,7 @@ from django.shortcuts import render
 
 from django.views.generic import TemplateView
 
-from nswandelingen.trails.models import Trail
+from nswandel.trails.models import Trail
 
 
 class TrailsView(TemplateView):

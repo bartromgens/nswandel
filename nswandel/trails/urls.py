@@ -1,7 +1,7 @@
 from django.conf.urls import url
 from django.contrib import admin
 
-from nswandelingen.trails.views import TrailsView
+from nswandel.trails.views import TrailsView
 
 
 urlpatterns = [

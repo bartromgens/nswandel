@@ -7,8 +7,8 @@ import shutil
 import string
 import tempfile
 
-LOCAL_SETTINGS_PATH = './nswandelingen/local_settings.py'
-LOCAL_SETTINGS_EXAMPLE_PATH = './nswandelingen/local_settings_example.py'
+LOCAL_SETTINGS_PATH = './nswandel/local_settings.py'
+LOCAL_SETTINGS_EXAMPLE_PATH = './nswandel/local_settings_example.py'
 
 
 def main():
