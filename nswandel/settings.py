@@ -24,10 +24,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'bootstrap3',
-    'nswandel.core',
-    'nswandel.trails',
     'rest_framework',
+    'bootstrap3',
+    'nswandel',
+    'nswandel.stations',
+    'nswandel.trails',
 ]
 
 MIDDLEWARE_CLASSES = [
@@ -141,3 +142,7 @@ REST_FRAMEWORK = {
     ]
 }
 
+# MIGRATION_MODULES = {
+#    'nswandel.stations': 'nswandel.stations.migrations',
+#    'nswandel.trails': 'nswandel.trails.migrations',
+# }

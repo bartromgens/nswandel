@@ -28,6 +28,7 @@ router.register(r'trails', TrailViewSet)
 urlpatterns = [
     url(r'^$', HomePageView.as_view(), name ='home'),
     url(r'^trails/', include('nswandel.trails.urls')),
+    url(r'^stations/', include('nswandel.stations.urls')),
     url(r'^admin/', admin.site.urls),
     url(r'^api/', include(router.urls)),
     url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework'))

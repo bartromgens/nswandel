@@ -1,0 +1,199 @@
+{
+    "trails": [
+        {
+            "gpx_filename": "Ankeveenseplassen deel 2.gpx",
+            "name": "Ankeveense Plassen",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/ankeveense-plassen/11146/"
+        },
+        {
+            "gpx_filename": "Ankeveenseplassen totaal.gpx",
+            "name": "Ankeveense Plassen",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/ankeveense-plassen/11146/"
+        },
+        {
+            "gpx_filename": "Ankeveenseplassen deel 1.gpx",
+            "name": "Ankeveense Plassen",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/ankeveense-plassen/11146/"
+        },
+        {
+            "gpx_filename": "NS-Belmonte.gpx",
+            "name": "Belmonte",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/belmonte/5025/"
+        },
+        {
+            "gpx_filename": "NS-Beukenburg.gpx",
+            "name": "Beukenburg",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/beukenburg/9138/"
+        },
+        {
+            "gpx_filename": "NS-DeHorsten.gpx",
+            "name": "De Horsten",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/de-horsten/6683/"
+        },
+        {
+            "gpx_filename": "Vuursche totaal.gpx",
+            "name": "De Vuursche",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/de-vuursche/6686/"
+        },
+        {
+            "gpx_filename": "Vuursche dl 1.gpx",
+            "name": "De Vuursche",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/de-vuursche/6686/"
+        },
+        {
+            "gpx_filename": "Vuursche dl 2.gpx",
+            "name": "De Vuursche",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/de-vuursche/6686/"
+        },
+        {
+            "gpx_filename": "NS-Elsterberg.gpx",
+            "name": "Elsterberg",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/elsterberg/6687/"
+        },
+        {
+            "gpx_filename": "NS-Heiligenbergerbeek.gpx",
+            "name": "Heiligenbergerbeek",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/heiligenbergerbeek/8246/"
+        },
+        {
+            "gpx_filename": "NS-HollandseKade.gpx",
+            "name": "Hollandse Kade",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/hollandse-kade/5056/"
+        },
+        {
+            "gpx_filename": "NS-Holterberg.gpx",
+            "name": "Holterberg",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/holterberg/5044/"
+        },
+        {
+            "gpx_filename": "NS-Hondsrug.gpx",
+            "name": "Hondsrug",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/hondsrug/8248/"
+        },
+        {
+            "gpx_filename": "NS-IJsselvallei.gpx",
+            "name": "IJsselvallei",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/ijsselvallei/5062/"
+        },
+        {
+            "gpx_filename": "Kampina dl 1.gpx",
+            "name": "Kampina",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/kampina/5010/"
+        },
+        {
+            "gpx_filename": "Kampina dl 2.gpx",
+            "name": "Kampina",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/kampina/5010/"
+        },
+        {
+            "gpx_filename": "Kampina totaal.gpx",
+            "name": "Kampina",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/kampina/5010/"
+        },
+        {
+            "gpx_filename": "NS-Kennemerduinen.gpx",
+            "name": "Kennemerduinen",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/kennemerduinen/5034/"
+        },
+        {
+            "gpx_filename": "NS-Groeneveld.gpx",
+            "name": "Landgoed Groeneveld",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/landgoed-groeneveld/5008/"
+        },
+        {
+            "gpx_filename": "NS-LangeDuinen.gpx",
+            "name": "Lange Duinen",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/lange-duinen/7749/"
+        },
+        {
+            "gpx_filename": "NS-MarkeloseBerg.gpx",
+            "name": "Markelose Berg",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/markelose-berg/9142/"
+        },
+        {
+            "gpx_filename": "NS-Meijendel.gpx",
+            "name": "Meijendel",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/meijendel/5018/"
+        },
+        {
+            "gpx_filename": "NS-Mookerheide.gpx",
+            "name": "Mookerhei",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/mookerhei/5013/"
+        },
+        {
+            "gpx_filename": "NS-Naardermeer.gpx",
+            "name": "Naardermeer",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/naardermeer/5041/"
+        },
+        {
+            "gpx_filename": "NS-Nijenhuis.gpx",
+            "name": "Nijenhuis",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/nijenhuis/5373/"
+        },
+        {
+            "gpx_filename": "Beerschoten_Bilthoven.gpx",
+            "name": "NS-wandeling Beerschoten",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/ns-wandeling-beerschoten/15613/"
+        },
+        {
+            "gpx_filename": "NS-wandeling De Bretten.gpx",
+            "name": "NS-wandeling De Bretten",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/ns-wandeling-de-bretten/16186/"
+        },
+        {
+            "gpx_filename": "NS-wandeling Fort de Roovere.gpx",
+            "name": "NS-wandeling Fort de Roovere",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/ns-wandeling-fort-de-roovere/16185/"
+        },
+        {
+            "gpx_filename": "NS-wandeling Land van Ravenstein.gpx",
+            "name": "NS-wandeling Land van Ravenstein",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/ns-wandeling-land-van-ravenstein/16184/"
+        },
+        {
+            "gpx_filename": "Mastbos_Breda.gpx",
+            "name": "NS-wandeling Mastbos",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/ns-wandeling-mastbos/15615/"
+        },
+        {
+            "gpx_filename": "NS-wandeling Park Lingezegen.gpx",
+            "name": "NS-wandeling Park Lingezegen",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/ns-wandeling-park-lingezegen/16183/"
+        },
+        {
+            "gpx_filename": "Paterswoldsemeer_Groningen.gpx",
+            "name": "NS-wandeling Paterswoldsemeer",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/ns-wandeling-paterswoldsemeer/15616/"
+        },
+        {
+            "gpx_filename": "Woldberg_Steenwijk.gpx",
+            "name": "NS-wandeling Woldberg",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/ns-wandeling-woldberg/15617/"
+        },
+        {
+            "gpx_filename": "NS-Savelsbos.gpx",
+            "name": "Savelsbos",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/savelsbos/5039/"
+        },
+        {
+            "gpx_filename": "NS-StrabrechtseHeide.gpx",
+            "name": "Strabrechtse Heide",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/strabrechtse-heide/5027/"
+        },
+        {
+            "gpx_filename": "NS-Heuvelrug.gpx",
+            "name": "Utrechtse Heuvelrug",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/utrechtse-heuvelrug/5024/"
+        },
+        {
+            "gpx_filename": "NS-Veluwezoom.gpx",
+            "name": "Veluwezoom",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/veluwezoom/5021/"
+        },
+        {
+            "gpx_filename": "NS-VughtseLunetten.gpx",
+            "name": "Vughtse Lunetten",
+            "url_extern": "http://www.wandelzoekpagina.nl/wandeling/vughtse-lunetten/5017/"
+        }
+    ]
+}

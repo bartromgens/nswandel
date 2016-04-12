@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% load bootstrap3 %}
+{% load staticfiles %}
+
+{% block content %}
+
+<div class="containter">
+    <div class="row" align="center">
+        <div class="col-md-12">
+            <h3>NS Stations</h3>
+        </div>
+    </div>
+
+    <div class="row" align="center">
+        {% for station in stations %}
+            <div class="col-sm-3">
+                <h5>{{ station.name_long }}</h5>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+
+{% endblock %}
