@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.5" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2007-03-12T13:07:31Z</time>
+    <bounds maxlat="51.582022" maxlon="5.236152" minlat="51.560484" minlon="5.193409"/>
+  </metadata>
+
+  <wpt lat="51.568807" lon="5.234277">
+    <time>2007-03-05T12:52:09Z</time>
+    <name>Belvertshoeve</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+
+  <wpt lat="51.580954" lon="5.196874">
+    <time>2007-03-05T13:11:44Z</time>
+    <name>horeca</name>
+    <cmt>Unknown Area</cmt>
+    <desc>Unknown Area</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+
+  <wpt lat="51.563661" lon="5.208675">
+    <time>2007-03-05T12:59:01Z</time>
+    <name>i 5 Goorven</name>
+    <cmt>Trail</cmt>
+    <desc>Trail</desc>
+    <sym>Number 5, Blue</sym>
+  </wpt>
+
+  <wpt lat="51.563709" lon="5.199473">
+    <time>2007-03-05T13:04:35Z</time>
+    <name>i 6 Bezoekerscentrum</name>
+    <cmt>Bezoekerscentrum Oisterwijk</cmt>
+    <desc>Bezoekerscentrum Oisterwijk</desc>
+    <sym>Number 6, Blue</sym>
+  </wpt>
+
+  <wpt lat="51.560484" lon="5.235436">
+    <time>2007-03-05T12:50:23Z</time>
+    <name>ka 42</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.562393" lon="5.236152">
+    <time>2007-03-05T12:50:36Z</time>
+    <name>ka 43</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.565497" lon="5.231939">
+    <time>2007-03-05T12:50:51Z</time>
+    <name>ka 44</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.567371" lon="5.234092">
+    <time>2007-03-05T12:51:07Z</time>
+    <name>ka 45</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.568934" lon="5.232734">
+    <time>2007-03-05T12:51:24Z</time>
+    <name>ka 46</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.567285" lon="5.229641">
+    <time>2007-03-05T12:52:34Z</time>
+    <name>ka 47</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.567753" lon="5.228615">
+    <time>2007-03-05T12:52:49Z</time>
+    <name>ka 48</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.568134" lon="5.226899">
+    <time>2007-03-05T12:53:02Z</time>
+    <name>ka 49</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.568835" lon="5.222603">
+    <time>2007-03-05T12:53:16Z</time>
+    <name>ka 50</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.569518" lon="5.221810">
+    <time>2007-03-05T12:53:30Z</time>
+    <name>ka 51</name>
+    <cmt>Trail</cmt>
+    <desc>Trail</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.569752" lon="5.221358">
+    <time>2007-03-05T12:53:44Z</time>
+    <name>ka 52</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.568956" lon="5.219958">
+    <time>2007-03-05T12:53:57Z</time>
+    <name>ka 53</name>
+    <cmt>Trail</cmt>
+    <desc>Trail</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.568222" lon="5.218845">
+    <time>2007-03-05T12:54:10Z</time>
+    <name>ka 54</name>
+    <cmt>Trail</cmt>
+    <desc>Trail</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.568386" lon="5.217300">
+    <time>2007-03-05T12:54:29Z</time>
+    <name>ka 55</name>
+    <cmt>Fietspad</cmt>
+    <desc>Fietspad</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.567797" lon="5.217799">
+    <time>2007-03-05T12:54:43Z</time>
+    <name>ka 56</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.567872" lon="5.215974">
+    <time>2007-03-05T12:55:00Z</time>
+    <name>ka 57</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.566921" lon="5.214107">
+    <time>2007-03-05T12:55:14Z</time>
+    <name>ka 58</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.566481" lon="5.214433">
+    <time>2007-03-05T12:55:27Z</time>
+    <name>ka 59</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.566018" lon="5.214916">
+    <time>2007-03-05T12:55:41Z</time>
+    <name>ka 60</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.565865" lon="5.215335">
+    <time>2007-03-05T12:55:55Z</time>
+    <name>ka 61</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.563620" lon="5.213109">
+    <time>2007-03-05T12:56:10Z</time>
+    <name>ka 62</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.563296" lon="5.209468">
+    <time>2007-03-05T12:56:34Z</time>
+    <name>ka 63</name>
+    <cmt>Trail</cmt>
+    <desc>Trail</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.563134" lon="5.207965">
+    <time>2007-03-05T12:58:06Z</time>
+    <name>ka 64</name>
+    <cmt>Stream</cmt>
+    <desc>Stream</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.561611" lon="5.206643">
+    <time>2007-03-05T12:59:47Z</time>
+    <name>ka 65</name>
+    <cmt>Stream</cmt>
+    <desc>Stream</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.562852" lon="5.202438">
+    <time>2007-03-05T13:03:20Z</time>
+    <name>ka 66</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.563332" lon="5.201932">
+    <time>2007-03-05T13:03:48Z</time>
+    <name>ka 67</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.565169" lon="5.202879">
+    <time>2007-03-05T13:05:01Z</time>
+    <name>ka 68</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.567168" lon="5.201318">
+    <time>2007-03-05T13:05:12Z</time>
+    <name>ka 69</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.570590" lon="5.204671">
+    <time>2007-03-05T13:05:25Z</time>
+    <name>ka 70</name>
+    <cmt>Fietspad</cmt>
+    <desc>Fietspad</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.572140" lon="5.203573">
+    <time>2007-03-05T13:05:41Z</time>
+    <name>ka 71</name>
+    <cmt>Fietspad</cmt>
+    <desc>Fietspad</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.572176" lon="5.203132">
+    <time>2007-03-05T13:05:53Z</time>
+    <name>ka 72</name>
+    <cmt>Fietspad</cmt>
+    <desc>Fietspad</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.574004" lon="5.200935">
+    <time>2007-03-05T13:06:06Z</time>
+    <name>ka 73</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.574269" lon="5.200884">
+    <time>2007-03-05T13:06:19Z</time>
+    <name>ka 74</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.576035" lon="5.199844">
+    <time>2007-03-05T13:06:30Z</time>
+    <name>ka 75</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.576816" lon="5.200921">
+    <time>2007-03-05T13:06:43Z</time>
+    <name>ka 76</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.577925" lon="5.199866">
+    <time>2007-03-05T13:06:54Z</time>
+    <name>ka 77</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.578393" lon="5.199627">
+    <time>2007-03-05T13:07:07Z</time>
+    <name>ka 78</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.578528" lon="5.199461">
+    <time>2007-03-05T13:07:20Z</time>
+    <name>ka 79</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.580738" lon="5.198652">
+    <time>2007-03-05T13:08:35Z</time>
+    <name>ka 80</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.580611" lon="5.195096">
+    <time>2007-03-05T13:07:37Z</time>
+    <name>ka 81</name>
+    <cmt>Road</cmt>
+    <desc>Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="51.582022" lon="5.193409">
+    <time>2007-03-05T13:08:12Z</time>
+    <name>ka 82 NS Oisterwijk</name>
+    <cmt>Railroad</cmt>
+    <desc>Railroad</desc>
+    <sym>Flag, Red</sym>
+  </wpt>
+
+  <wpt lat="51.561411" lon="5.206478">
+    <time>2007-03-05T13:03:02Z</time>
+    <name>Venkraai</name>
+    <cmt>Stream</cmt>
+    <desc>Stream</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+
+  <rte>
+    <name>NS Kamp. dl2</name>
+    <rtept lat="51.560484" lon="5.235436">
+      <time>2007-03-05T12:50:23Z</time>
+      <name>ka 42</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.562393" lon="5.236152">
+      <time>2007-03-05T12:50:36Z</time>
+      <name>ka 43</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.565497" lon="5.231939">
+      <time>2007-03-05T12:50:51Z</time>
+      <name>ka 44</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.567371" lon="5.234092">
+      <time>2007-03-05T12:51:07Z</time>
+      <name>ka 45</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.568934" lon="5.232734">
+      <time>2007-03-05T12:51:24Z</time>
+      <name>ka 46</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.567285" lon="5.229641">
+      <time>2007-03-05T12:52:34Z</time>
+      <name>ka 47</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.567753" lon="5.228615">
+      <time>2007-03-05T12:52:49Z</time>
+      <name>ka 48</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.568134" lon="5.226899">
+      <time>2007-03-05T12:53:02Z</time>
+      <name>ka 49</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.568835" lon="5.222603">
+      <time>2007-03-05T12:53:16Z</time>
+      <name>ka 50</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.569518" lon="5.221810">
+      <time>2007-03-05T12:53:30Z</time>
+      <name>ka 51</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.569752" lon="5.221358">
+      <time>2007-03-05T12:53:44Z</time>
+      <name>ka 52</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.568956" lon="5.219958">
+      <time>2007-03-05T12:53:57Z</time>
+      <name>ka 53</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.568222" lon="5.218845">
+      <time>2007-03-05T12:54:10Z</time>
+      <name>ka 54</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.568386" lon="5.217300">
+      <time>2007-03-05T12:54:29Z</time>
+      <name>ka 55</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.567797" lon="5.217799">
+      <time>2007-03-05T12:54:43Z</time>
+      <name>ka 56</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.567872" lon="5.215974">
+      <time>2007-03-05T12:55:00Z</time>
+      <name>ka 57</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.566921" lon="5.214107">
+      <time>2007-03-05T12:55:14Z</time>
+      <name>ka 58</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.566481" lon="5.214433">
+      <time>2007-03-05T12:55:27Z</time>
+      <name>ka 59</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.566018" lon="5.214916">
+      <time>2007-03-05T12:55:41Z</time>
+      <name>ka 60</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.565865" lon="5.215335">
+      <time>2007-03-05T12:55:55Z</time>
+      <name>ka 61</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.563620" lon="5.213109">
+      <time>2007-03-05T12:56:10Z</time>
+      <name>ka 62</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.563296" lon="5.209468">
+      <time>2007-03-05T12:56:34Z</time>
+      <name>ka 63</name>
+      <cmt>Trail</cmt>
+      <desc>Trail</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.563134" lon="5.207965">
+      <time>2007-03-05T12:58:06Z</time>
+      <name>ka 64</name>
+      <cmt>Stream</cmt>
+      <desc>Stream</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.561611" lon="5.206643">
+      <time>2007-03-05T12:59:47Z</time>
+      <name>ka 65</name>
+      <cmt>Stream</cmt>
+      <desc>Stream</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.562852" lon="5.202438">
+      <time>2007-03-05T13:03:20Z</time>
+      <name>ka 66</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.563332" lon="5.201932">
+      <time>2007-03-05T13:03:48Z</time>
+      <name>ka 67</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.565169" lon="5.202879">
+      <time>2007-03-05T13:05:01Z</time>
+      <name>ka 68</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.567168" lon="5.201318">
+      <time>2007-03-05T13:05:12Z</time>
+      <name>ka 69</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.570590" lon="5.204671">
+      <time>2007-03-05T13:05:25Z</time>
+      <name>ka 70</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.572140" lon="5.203573">
+      <time>2007-03-05T13:05:41Z</time>
+      <name>ka 71</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.572176" lon="5.203132">
+      <time>2007-03-05T13:05:53Z</time>
+      <name>ka 72</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.574004" lon="5.200935">
+      <time>2007-03-05T13:06:06Z</time>
+      <name>ka 73</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.574269" lon="5.200884">
+      <time>2007-03-05T13:06:19Z</time>
+      <name>ka 74</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.576035" lon="5.199844">
+      <time>2007-03-05T13:06:30Z</time>
+      <name>ka 75</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.576816" lon="5.200921">
+      <time>2007-03-05T13:06:43Z</time>
+      <name>ka 76</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.577925" lon="5.199866">
+      <time>2007-03-05T13:06:54Z</time>
+      <name>ka 77</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.578393" lon="5.199627">
+      <time>2007-03-05T13:07:07Z</time>
+      <name>ka 78</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.578528" lon="5.199461">
+      <time>2007-03-05T13:07:20Z</time>
+      <name>ka 79</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.580738" lon="5.198652">
+      <time>2007-03-05T13:08:35Z</time>
+      <name>ka 80</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.580611" lon="5.195096">
+      <time>2007-03-05T13:07:37Z</time>
+      <name>ka 81</name>
+      <cmt>Road</cmt>
+      <desc>Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="51.582022" lon="5.193409">
+      <time>2007-03-05T13:08:12Z</time>
+      <name>ka 82 NS Oisterwijk</name>
+      <cmt>Railroad</cmt>
+      <desc>Railroad</desc>
+      <sym>Flag, Red</sym>
+    </rtept>
+  </rte>
+
+</gpx>

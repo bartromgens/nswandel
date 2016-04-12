@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.11" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2015-05-22T20:38:15Z</time>
+    <bounds maxlat="52.3664930" maxlon="6.4632900" minlat="52.2813780" minlon="6.4190650"/>
+  </metadata>
+
+  <wpt lat="52.2887490" lon="6.4217780">
+    <ele>36.0000000</ele>
+    <name>21751</name>
+    <cmt>ANWB paddenstoel Nr 21751</cmt>
+    <desc>ANWB paddenstoel Nr 21751</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3140420" lon="6.4250740">
+    <ele>55.0000000</ele>
+    <name>23119</name>
+    <cmt>ANWB paddenstoel Nr 23119</cmt>
+    <desc>ANWB paddenstoel Nr 23119</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2917020" lon="6.4228450">
+    <ele>49.0000000</ele>
+    <name>23602</name>
+    <cmt>ANWB paddenstoel Nr 23602</cmt>
+    <desc>ANWB paddenstoel Nr 23602</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2975930" lon="6.4217430">
+    <ele>56.0000000</ele>
+    <name>23670</name>
+    <cmt>ANWB paddenstoel Nr 23670</cmt>
+    <desc>ANWB paddenstoel Nr 23670</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3060260" lon="6.4233410">
+    <ele>65.0000000</ele>
+    <name>23671</name>
+    <cmt>ANWB paddenstoel Nr 23671</cmt>
+    <desc>ANWB paddenstoel Nr 23671</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3611370" lon="6.4478440">
+    <ele>29.0000000</ele>
+    <name>23675</name>
+    <cmt>ANWB paddenstoel Nr 23675</cmt>
+    <desc>ANWB paddenstoel Nr 23675</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3625450" lon="6.4563060">
+    <ele>13.0000000</ele>
+    <name>23677</name>
+    <cmt>ANWB paddenstoel Nr 23677</cmt>
+    <desc>ANWB paddenstoel Nr 23677</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3608420" lon="6.4545620">
+    <ele>13.0000000</ele>
+    <name>23678</name>
+    <cmt>ANWB paddenstoel Nr 23678</cmt>
+    <desc>ANWB paddenstoel Nr 23678</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3140190" lon="6.4254390">
+    <ele>55.0000000</ele>
+    <name>63535</name>
+    <cmt>ANWB paddenstoel Nr 63535</cmt>
+    <desc>ANWB paddenstoel Nr 63535</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2865380" lon="6.4226530">
+    <ele>25.0000000</ele>
+    <name>Beuseberg</name>
+    <cmt>Buurtschap op de uitlopers van de Overijsselse stuwwallen</cmt>
+    <desc>Buurtschap op de uitlopers van de Overijsselse stuwwallen</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3655510" lon="6.4427760">
+    <ele>39.0000000</ele>
+    <name>bezoekerscentrum s.b.b.</name>
+    <cmt>Bushalte bezoekerscentrum s.b.b.
+Voor meer informatie en haltetijden verwijzen wij u naar &lt;a href= 'http://www.9292ov.nl' target='_blank'&gt;www.9292ov.nl&lt;/a&gt;</cmt>
+    <desc>Bushalte bezoekerscentrum s.b.b.
+Voor meer informatie en haltetijden verwijzen wij u naar &lt;a href= 'http://www.9292ov.nl' target='_blank'&gt;www.9292ov.nl&lt;/a&gt;</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3663890" lon="6.4438280">
+    <ele>34.0000000</ele>
+    <name>Bezoekerscentrum Sallandse Heuvelrug</name>
+    <cmt>Voor meer info over het bezoekerscentrum van Staatsbosbeheer, raadpleeg www.staatsbosbeheer.nl (zoek bezoekerscentrum Sallandse Heuvelrug) of bel 0548-612711.</cmt>
+    <desc>Voor meer info over het bezoekerscentrum van Staatsbosbeheer, raadpleeg www.staatsbosbeheer.nl (zoek bezoekerscentrum Sallandse Heuvelrug) of bel 0548-612711.</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3659700" lon="6.4439670">
+    <ele>37.0000000</ele>
+    <name>Boezoekerscentrum Staatsbosbeheer</name>
+    <cmt>Informatie en tentoonstellingen over het ontstaan en het beheer van landschap, flora en fauna in Nationaal Park Sallandse Heuvelrug. Ongeveer 500 meter van Pieterpad af gelegen.</cmt>
+    <desc>Informatie en tentoonstellingen over het ontstaan en het beheer van landschap, flora en fauna in Nationaal Park Sallandse Heuvelrug. Ongeveer 500 meter van Pieterpad af gelegen.</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3389150" lon="6.4259400">
+    <ele>49.0000000</ele>
+    <name>Boswachterij de Sallandse Heuvelrug</name>
+    <cmt>Boswachterij de Sallandse Heuvelrug is een uitgestrekt natuurgebied in een uniek heuvellandschap, dat zijn ontstaan te danken heeft aan de voorlaatste ijstijd. Ongeveer 150.000 jaar geleden werden Noord- en Oost-Nederland bedekt door gigantische ijsmassa’s, die vanuit Scandinavië naar het zuiden afzakten. Deze ijsmassa’s duwden de aan de oppervlakte gelegen afzettingen opzij en omhoog. De heuvelruggen, die aldus ontstonden, worden stuwwallen genoemd. Honderd jaar geleden was de stuwwal Sallandse Heuvelrug voor een groot gedeelte bedekt met heide. Er zijn nog een paar eeuwenoude heidevelden over. Vanaf het einde van de 19e eeuw zijn delen van de Sallandse Heuvelrug overwegend met naaldhout beplant.</cmt>
+    <desc>Boswachterij de Sallandse Heuvelrug is een uitgestrekt natuurgebied in een uniek heuvellandschap, dat zijn ontstaan te danken heeft aan de voorlaatste ijstijd. Ongeveer 150.000 jaar geleden werden Noord- en Oost-Nederland bedekt door gigantische ijsmassa’s, die vanuit Scandinavië naar het zuiden afzakten. Deze ijsmassa’s duwden de aan de oppervlakte gelegen afzettingen opzij en omhoog. De heuvelruggen, die aldus ontstonden, worden stuwwallen genoemd. Honderd jaar geleden was de stuwwal Sallandse Heuvelrug voor een groot gedeelte bedekt met heide. Er zijn nog een paar eeuwenoude heidevelden over. Vanaf het einde van de 19e eeuw zijn delen van de Sallandse Heuvelrug overwegend met naaldhout beplant.</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3655360" lon="6.4598930">
+    <ele>13.0000000</ele>
+    <name>Café - Restaurant</name>
+    <cmt>Café - Restaurant</cmt>
+    <desc>Café - Restaurant</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3659700" lon="6.4532820">
+    <ele>14.0000000</ele>
+    <name>Café - Restaurant1</name>
+    <cmt>Café - Restaurant</cmt>
+    <desc>Café - Restaurant</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3664930" lon="6.4414670">
+    <ele>37.0000000</ele>
+    <name>Café - Restaurant2</name>
+    <cmt>Café - Restaurant</cmt>
+    <desc>Café - Restaurant</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2952220" lon="6.4200710">
+    <ele>59.0000000</ele>
+    <name>Café - Restaurant3</name>
+    <cmt>Café - Restaurant</cmt>
+    <desc>Café - Restaurant</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2904660" lon="6.4244180">
+    <ele>41.0000000</ele>
+    <name>Café - Restaurant4</name>
+    <cmt>Café - Restaurant</cmt>
+    <desc>Café - Restaurant</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2820030" lon="6.4219640">
+    <ele>20.0000000</ele>
+    <name>Café - Restaurant5</name>
+    <cmt>Café - Restaurant</cmt>
+    <desc>Café - Restaurant</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2982250" lon="6.4204540">
+    <ele>58.0000000</ele>
+    <name>Canadese begraafplaats en Natuurdiorama Holterberg</name>
+    <cmt>Bij P-23670 kunt u linksaf een bezoek brengen aan de indrukwekkende Canadese begraafplaats. 1.355 Canadese militairen, gevallen bij de bevrijding van Noord Nederland, zijn hier begraven. 
+
+Bij P-23670 kunt u rechtsaf en bij de verharde weg linksaf naar restaurant ‘’’t Losse Hoes’ of Natuurdiorama ‘Holterberg’ (met een grote collectie opgezette dieren)  Het Natuurdiorama is van apr-nov dagelijks geopend van 10-17 uur (zo vanaf 11 uur), nov-apr woe t/m zo 11-17 uur (schoolvakanties ook ma/di), zie ook www.museumholterberg.nl (0548-36 19 79).</cmt>
+    <desc>Bij P-23670 kunt u linksaf een bezoek brengen aan de indrukwekkende Canadese begraafplaats. 1.355 Canadese militairen, gevallen bij de bevrijding van Noord Nederland, zijn hier begraven. 
+
+Bij P-23670 kunt u rechtsaf en bij de verharde weg linksaf naar restaurant ‘’’t Losse Hoes’ of Natuurdiorama ‘Holterberg’ (met een grote collectie opgezette dieren)  Het Natuurdiorama is van apr-nov dagelijks geopend van 10-17 uur (zo vanaf 11 uur), nov-apr woe t/m zo 11-17 uur (schoolvakanties ook ma/di), zie ook www.museumholterberg.nl (0548-36 19 79).</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3491940" lon="6.4373410">
+    <ele>30.0000000</ele>
+    <name>De Rietslenk</name>
+    <cmt>De helling van de Rietslenk staat vol met jeneverbesstruiken, die niet veel meer te zien zijn in Nederland. De Rietslenk ontstond door het vele smeltwater dat na de laatste ijstijd van de heuvelrug afstroomde. Er is een aantal van deze smeltwaterdalen te vinden op de flanken van de Sallandse Heuvelrug.</cmt>
+    <desc>De helling van de Rietslenk staat vol met jeneverbesstruiken, die niet veel meer te zien zijn in Nederland. De Rietslenk ontstond door het vele smeltwater dat na de laatste ijstijd van de heuvelrug afstroomde. Er is een aantal van deze smeltwaterdalen te vinden op de flanken van de Sallandse Heuvelrug.</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2970030" lon="6.4209760">
+    <ele>56.0000000</ele>
+    <name>dierenwereld piet bos</name>
+    <cmt>Bushalte dierenwereld piet bos
+Voor meer informatie en haltetijden verwijzen wij u naar &lt;a href= 'http://www.9292ov.nl' target='_blank'&gt;www.9292ov.nl&lt;/a&gt;</cmt>
+    <desc>Bushalte dierenwereld piet bos
+Voor meer informatie en haltetijden verwijzen wij u naar &lt;a href= 'http://www.9292ov.nl' target='_blank'&gt;www.9292ov.nl&lt;/a&gt;</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3186420" lon="6.4190650">
+    <ele>50.0000000</ele>
+    <name>Het hoogste punt</name>
+    <cmt>Hier bereikt u het hoogste punt van deze wandeling op ± 55 meter boven NAP. Niet ver hiervandaan – 1 km naar het noordwesten – ligt de Grote Koningsbelt, met een hoogte van 75,5 meter boven NAP het hoogste punt van de Sallandse Heuvelrug.</cmt>
+    <desc>Hier bereikt u het hoogste punt van deze wandeling op ± 55 meter boven NAP. Niet ver hiervandaan – 1 km naar het noordwesten – ligt de Grote Koningsbelt, met een hoogte van 75,5 meter boven NAP het hoogste punt van de Sallandse Heuvelrug.</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3529730" lon="6.4335770">
+    <ele>55.0000000</ele>
+    <name>Het Korhoen</name>
+    <cmt>De afgelopen jaren heeft Staatsbosbeheer verschillende stukken heide aan elkaar gekoppeld, zodat bossen niet langer barrières vormen voor het leefgebied van het korhoen. Het korhoen was tot begin deze eeuw een veel voorkomende vogel op de heide. In 1989 waren er in het hele land nog maar 29 hanen. De korhoenders zijn bekend om hun baltsgedrag. De blauwzwarte hanen springen, draaien, steken de witte staartveren omhoog en maken typische klokgeluiden tijdens de balts. Dit schijngevecht tussen de hanen moet de hennen imponeren.</cmt>
+    <desc>De afgelopen jaren heeft Staatsbosbeheer verschillende stukken heide aan elkaar gekoppeld, zodat bossen niet langer barrières vormen voor het leefgebied van het korhoen. Het korhoen was tot begin deze eeuw een veel voorkomende vogel op de heide. In 1989 waren er in het hele land nog maar 29 hanen. De korhoenders zijn bekend om hun baltsgedrag. De blauwzwarte hanen springen, draaien, steken de witte staartveren omhoog en maken typische klokgeluiden tijdens de balts. Dit schijngevecht tussen de hanen moet de hennen imponeren.</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2882660" lon="6.4235980">
+    <ele>27.0000000</ele>
+    <name>Holten</name>
+    <cmt>Holten is van oorsprong een agrarisch dorp, waar veel melkvee en varkens werden gehouden. De gemeenschappelijke grond rondom Holten was ondergebracht in de Marke en werd beheerd door markegenoten. De Holterenk (in andere streken es genoemd) is zo’n oud stuk landbouwgrond. Bovendien lag Holten strategisch aan een van de belangrijke handelsroutes naar Duitsland. De provinciale weg Deventer-Holten werd rond 1800 bestraat en heette toen nog de Oude Hannoverse weg.</cmt>
+    <desc>Holten is van oorsprong een agrarisch dorp, waar veel melkvee en varkens werden gehouden. De gemeenschappelijke grond rondom Holten was ondergebracht in de Marke en werd beheerd door markegenoten. De Holterenk (in andere streken es genoemd) is zo’n oud stuk landbouwgrond. Bovendien lag Holten strategisch aan een van de belangrijke handelsroutes naar Duitsland. De provinciale weg Deventer-Holten werd rond 1800 bestraat en heette toen nog de Oude Hannoverse weg.</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2813780" lon="6.4226200">
+    <ele>20.0000000</ele>
+    <name>Holten1</name>
+    <cmt>Ontstaan uit een boerengemeenschap die leefde van de handel in varkens. Het varken - in lokaal dialect 'keun' - is in het wapen van Holten opgenomen. De Holtense Keunefeesten zijn een begrip en tijdens Carnaval noemt Holten zich 'Keunedarp'. Bij de gemeentelijke herindeling van 2003 werd het overwegend katholieke Holten samengevoegd met het sterk gereformeerde Rijssen,  wat door veel Holtenaren nog steeds wordt betreurd.</cmt>
+    <desc>Ontstaan uit een boerengemeenschap die leefde van de handel in varkens. Het varken - in lokaal dialect 'keun' - is in het wapen van Holten opgenomen. De Holtense Keunefeesten zijn een begrip en tijdens Carnaval noemt Holten zich 'Keunedarp'. Bij de gemeentelijke herindeling van 2003 werd het overwegend katholieke Holten samengevoegd met het sterk gereformeerde Rijssen,  wat door veel Holtenaren nog steeds wordt betreurd.</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3197080" lon="6.4207330">
+    <ele>62.0000000</ele>
+    <name>Holterberg</name>
+    <cmt>Uitzichtpunt op +58 mtr met schuilhut. Let op de overvloedige aanwezigheid van de bosbes, die de hele heuvel bedekt. Het is het lievelingshapje van het korhoen.</cmt>
+    <desc>Uitzichtpunt op +58 mtr met schuilhut. Let op de overvloedige aanwezigheid van de bosbes, die de hele heuvel bedekt. Het is het lievelingshapje van het korhoen.</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2975520" lon="6.4216310">
+    <ele>56.0000000</ele>
+    <name>LAW Handwijzer</name>
+    <cmt>LAW Handwijzer</cmt>
+    <desc>LAW Handwijzer</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3443250" lon="6.4373730">
+    <ele>32.0000000</ele>
+    <name>Noetselerveld</name>
+    <cmt>In 1901 passeerden twee Nederlandse zakenmannen, met ervaring in de gouddelverij in Zuid Afrika, per trein 't Ravijn. Aan de kleur van het zand meenden zij waar te nemen dat de grond hier goud bevatte. Toen via de dorpsomroeper bekend werd dat ze een concessie hadden aangevraagd om goud te delven, brak er rond Nijverdal een ware goudkoorts los. Goud komt - naast allerlei andere mineralen - van nature voor in zandgronden. In bodemmonsters werd inderdaad goud aangetoond, maar in zulke lage concentraties, dat de kosten van het winnen veel hoger zouden zijn dan de baten. De goudkoorts was dan ook snel voorbij. Maar het pad dat evenwijdig aan de spoorlijn door 't Ravijn loopt, heet nog steeds het Goudzoekerspad.</cmt>
+    <desc>In 1901 passeerden twee Nederlandse zakenmannen, met ervaring in de gouddelverij in Zuid Afrika, per trein 't Ravijn. Aan de kleur van het zand meenden zij waar te nemen dat de grond hier goud bevatte. Toen via de dorpsomroeper bekend werd dat ze een concessie hadden aangevraagd om goud te delven, brak er rond Nijverdal een ware goudkoorts los. Goud komt - naast allerlei andere mineralen - van nature voor in zandgronden. In bodemmonsters werd inderdaad goud aangetoond, maar in zulke lage concentraties, dat de kosten van het winnen veel hoger zouden zijn dan de baten. De goudkoorts was dan ook snel voorbij. Maar het pad dat evenwijdig aan de spoorlijn door 't Ravijn loopt, heet nog steeds het Goudzoekerspad.</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3249580" lon="6.4226780">
+    <ele>73.0000000</ele>
+    <name>Oude Hellendoornscheweg</name>
+    <cmt>Een van de oude wegen die de heuvelrug doorkruisen en die vanouds de verbindingen vormden tussen de dorpen. Ze lopen doorgaans vrij recht. Stel je voor dat ze tot zo'n 100 jaar geleden over boomloze heuveltoppen liepen, dwars door de heidevelden. Sommige wegen waren beplant met eiken. Lokale schoenmakers gebruikten de eikenschors om leer te looien. De eikenlanen vallen tussen de jongere naaldbossen onmiddellijk op. De oude wegen waren onverhard. Op een steil gedeelte van de Hellendoornsche weg komen we echter een stukje oude bestrating tegen, die daar werd aangelegd om uitspoeling door regen te voorkomen.</cmt>
+    <desc>Een van de oude wegen die de heuvelrug doorkruisen en die vanouds de verbindingen vormden tussen de dorpen. Ze lopen doorgaans vrij recht. Stel je voor dat ze tot zo'n 100 jaar geleden over boomloze heuveltoppen liepen, dwars door de heidevelden. Sommige wegen waren beplant met eiken. Lokale schoenmakers gebruikten de eikenschors om leer te looien. De eikenlanen vallen tussen de jongere naaldbossen onmiddellijk op. De oude wegen waren onverhard. Op een steil gedeelte van de Hellendoornsche weg komen we echter een stukje oude bestrating tegen, die daar werd aangelegd om uitspoeling door regen te voorkomen.</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3497060" lon="6.4424520">
+    <ele>24.0000000</ele>
+    <name>Rietslenk</name>
+    <cmt>Gaaf smeltwaterdal, 150.000 jaar geleden uitgeschuurd door het ijswater van de smeltende gletsjer. Langs de route veel Jeneverbesstruiken.</cmt>
+    <desc>Gaaf smeltwaterdal, 150.000 jaar geleden uitgeschuurd door het ijswater van de smeltende gletsjer. Langs de route veel Jeneverbesstruiken.</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3662210" lon="6.4628780">
+    <ele>10.0000000</ele>
+    <name>Station</name>
+    <cmt>Station
+Voor meer informatie en treintijden verwijzen wij u naar &lt;a href= 'http://www.ns.nl' target='_blank'&gt;www.ns.nl&lt;/a&gt;</cmt>
+    <desc>Station
+Voor meer informatie en treintijden verwijzen wij u naar &lt;a href= 'http://www.ns.nl' target='_blank'&gt;www.ns.nl&lt;/a&gt;</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2848420" lon="6.4219190">
+    <ele>21.0000000</ele>
+    <name>Station Holten</name>
+    <cmt>De spoorlijn Apeldoorn -Almelo werd aangelegd door de 'Koninklijke Nederlandsche Lokaal Spoorwegmaatschappij Koning Willem III' en in 1888 in gebruik genomen. Het station stamt nog uit deze tijd. Koning Willem III investeerde in een eigen spoorwegnet rond Apeldoorn. Hij had zijn eigen trein met een apart spoortje naar 't Loo. In 1920 werd de 'koninklijke' spoorlijn overgenomen door de Hollandsche Spoorwegmaatschappij (HSM).</cmt>
+    <desc>De spoorlijn Apeldoorn -Almelo werd aangelegd door de 'Koninklijke Nederlandsche Lokaal Spoorwegmaatschappij Koning Willem III' en in 1888 in gebruik genomen. Het station stamt nog uit deze tijd. Koning Willem III investeerde in een eigen spoorwegnet rond Apeldoorn. Hij had zijn eigen trein met een apart spoortje naar 't Loo. In 1920 werd de 'koninklijke' spoorlijn overgenomen door de Hollandsche Spoorwegmaatschappij (HSM).</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2839620" lon="6.4204230">
+    <ele>19.0000000</ele>
+    <name>Station1</name>
+    <cmt>Station
+Voor meer informatie en treintijden verwijzen wij u naar &lt;a href= 'http://www.ns.nl' target='_blank'&gt;www.ns.nl&lt;/a&gt;</cmt>
+    <desc>Station
+Voor meer informatie en treintijden verwijzen wij u naar &lt;a href= 'http://www.ns.nl' target='_blank'&gt;www.ns.nl&lt;/a&gt;</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3548080" lon="6.4358660">
+    <ele>63.0000000</ele>
+    <name>Zitbank</name>
+    <cmt>Zitbank</cmt>
+    <desc>Zitbank</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.3164640" lon="6.4233210">
+    <ele>51.0000000</ele>
+    <name>Zitbank1</name>
+    <cmt>Zitbank</cmt>
+    <desc>Zitbank</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2917530" lon="6.4248700">
+    <ele>47.0000000</ele>
+    <name>Zitbank2</name>
+    <cmt>Zitbank</cmt>
+    <desc>Zitbank</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>Holterberg (NS-route)</name>
+    <extensions>
+      <gpxx:TrackExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayColor>White</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="52.3660500" lon="6.4626000">
+        <ele>10.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3659600" lon="6.4626000">
+        <ele>10.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3657700" lon="6.4625500">
+        <ele>10.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3656700" lon="6.4624800">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3655900" lon="6.4623600">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3655300" lon="6.4624400">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3655200" lon="6.4625400">
+        <ele>10.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3653200" lon="6.4627700">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3652200" lon="6.4627200">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3650900" lon="6.4626800">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3650800" lon="6.4626800">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3650200" lon="6.4627300">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3649600" lon="6.4627800">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3648600" lon="6.4629100">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3645300" lon="6.4632900">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3645400" lon="6.4632900">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3644500" lon="6.4630800">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3644600" lon="6.4622800">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3644800" lon="6.4620500">
+        <ele>11.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3644700" lon="6.4609000">
+        <ele>13.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3644200" lon="6.4607600">
+        <ele>13.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3644400" lon="6.4599400">
+        <ele>13.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3644300" lon="6.4596200">
+        <ele>13.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3644100" lon="6.4592800">
+        <ele>13.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3643200" lon="6.4573800">
+        <ele>13.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3640600" lon="6.4548400">
+        <ele>14.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3643000" lon="6.4547500">
+        <ele>14.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3643100" lon="6.4544800">
+        <ele>14.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3645200" lon="6.4525600">
+        <ele>15.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3645600" lon="6.4501000">
+        <ele>20.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3645600" lon="6.4500900">
+        <ele>20.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3643800" lon="6.4501000">
+        <ele>20.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3642200" lon="6.4500800">
+        <ele>20.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3637300" lon="6.4499800">
+        <ele>21.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3637600" lon="6.4499000">
+        <ele>21.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3646800" lon="6.4442000">
+        <ele>40.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3646800" lon="6.4441900">
+        <ele>40.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3649200" lon="6.4440400">
+        <ele>41.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3650300" lon="6.4440000">
+        <ele>41.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3652200" lon="6.4440600">
+        <ele>40.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3652800" lon="6.4440600">
+        <ele>40.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3653300" lon="6.4439200">
+        <ele>39.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3653700" lon="6.4438600">
+        <ele>39.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3655800" lon="6.4436700">
+        <ele>38.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3656500" lon="6.4435000">
+        <ele>38.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3657900" lon="6.4433200">
+        <ele>38.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3658300" lon="6.4432400">
+        <ele>37.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3649600" lon="6.4420000">
+        <ele>43.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3649700" lon="6.4419300">
+        <ele>43.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3648800" lon="6.4418800">
+        <ele>44.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3648600" lon="6.4414500">
+        <ele>44.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3647900" lon="6.4414600">
+        <ele>44.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3647400" lon="6.4414500">
+        <ele>44.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3646900" lon="6.4414100">
+        <ele>45.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3645700" lon="6.4411400">
+        <ele>45.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3645500" lon="6.4410400">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3645700" lon="6.4404900">
+        <ele>46.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3645200" lon="6.4400900">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3644100" lon="6.4396200">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3638500" lon="6.4395900">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3628100" lon="6.4395000">
+        <ele>49.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3616900" lon="6.4393600">
+        <ele>50.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3615800" lon="6.4394000">
+        <ele>50.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3612800" lon="6.4396900">
+        <ele>51.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3612800" lon="6.4397000">
+        <ele>51.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3612900" lon="6.4391800">
+        <ele>50.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3611800" lon="6.4387800">
+        <ele>52.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3611200" lon="6.4386700">
+        <ele>52.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3608900" lon="6.4383400">
+        <ele>51.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3606800" lon="6.4380400">
+        <ele>51.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3605300" lon="6.4377900">
+        <ele>51.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3604500" lon="6.4376000">
+        <ele>50.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3604000" lon="6.4374500">
+        <ele>50.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3603400" lon="6.4372100">
+        <ele>52.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3602900" lon="6.4368700">
+        <ele>51.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3602600" lon="6.4364500">
+        <ele>50.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3602300" lon="6.4365000">
+        <ele>50.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3600800" lon="6.4362300">
+        <ele>50.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3599200" lon="6.4360700">
+        <ele>49.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3597400" lon="6.4359400">
+        <ele>50.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3595100" lon="6.4357700">
+        <ele>52.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3587100" lon="6.4351000">
+        <ele>52.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3586100" lon="6.4350400">
+        <ele>52.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3584800" lon="6.4349900">
+        <ele>52.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3584000" lon="6.4348700">
+        <ele>52.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3579100" lon="6.4347200">
+        <ele>52.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3577500" lon="6.4349500">
+        <ele>54.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3576700" lon="6.4351700">
+        <ele>55.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3575600" lon="6.4353300">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3575300" lon="6.4354100">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3574300" lon="6.4355300">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3573300" lon="6.4356100">
+        <ele>57.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3572500" lon="6.4356200">
+        <ele>57.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3571100" lon="6.4355000">
+        <ele>57.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3570500" lon="6.4354600">
+        <ele>59.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3569900" lon="6.4354500">
+        <ele>59.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3569200" lon="6.4354800">
+        <ele>60.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3567700" lon="6.4356100">
+        <ele>60.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3558000" lon="6.4347600">
+        <ele>63.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3557600" lon="6.4345600">
+        <ele>62.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3558000" lon="6.4343600">
+        <ele>60.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3555500" lon="6.4339500">
+        <ele>59.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3552600" lon="6.4335300">
+        <ele>58.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3551200" lon="6.4333500">
+        <ele>58.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3550200" lon="6.4332800">
+        <ele>58.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3543400" lon="6.4332600">
+        <ele>59.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3542400" lon="6.4333000">
+        <ele>59.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3541500" lon="6.4334800">
+        <ele>59.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3541400" lon="6.4336700">
+        <ele>60.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3539600" lon="6.4341800">
+        <ele>60.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3538600" lon="6.4343900">
+        <ele>59.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3537900" lon="6.4345100">
+        <ele>59.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3537000" lon="6.4349600">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3536200" lon="6.4355100">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3538200" lon="6.4360500">
+        <ele>59.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3539900" lon="6.4366400">
+        <ele>59.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3538900" lon="6.4369500">
+        <ele>57.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3537300" lon="6.4373600">
+        <ele>55.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3535200" lon="6.4380500">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3534400" lon="6.4382400">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3532700" lon="6.4385000">
+        <ele>46.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3531700" lon="6.4387500">
+        <ele>43.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3531100" lon="6.4388300">
+        <ele>42.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3530300" lon="6.4388900">
+        <ele>42.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3528600" lon="6.4391000">
+        <ele>39.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3527300" lon="6.4389100">
+        <ele>39.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3526900" lon="6.4388400">
+        <ele>39.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3520600" lon="6.4378000">
+        <ele>41.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3519800" lon="6.4377000">
+        <ele>40.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3519100" lon="6.4376500">
+        <ele>39.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3518300" lon="6.4376600">
+        <ele>39.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3517200" lon="6.4377600">
+        <ele>38.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3515900" lon="6.4378600">
+        <ele>37.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3515100" lon="6.4379700">
+        <ele>37.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3514400" lon="6.4381600">
+        <ele>37.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3513200" lon="6.4382200">
+        <ele>37.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3512800" lon="6.4383200">
+        <ele>36.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3512300" lon="6.4385700">
+        <ele>36.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3511600" lon="6.4387500">
+        <ele>32.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3511100" lon="6.4388000">
+        <ele>32.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3509800" lon="6.4388700">
+        <ele>32.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3506300" lon="6.4391700">
+        <ele>31.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3505300" lon="6.4393400">
+        <ele>30.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3500500" lon="6.4398200">
+        <ele>27.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3498800" lon="6.4400100">
+        <ele>27.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3497800" lon="6.4400800">
+        <ele>27.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3496400" lon="6.4401300">
+        <ele>27.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3495800" lon="6.4401400">
+        <ele>27.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3495200" lon="6.4401400">
+        <ele>27.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3488500" lon="6.4399600">
+        <ele>27.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3486200" lon="6.4406900">
+        <ele>28.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3485600" lon="6.4409500">
+        <ele>28.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3485400" lon="6.4410500">
+        <ele>29.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3484900" lon="6.4413400">
+        <ele>29.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3481700" lon="6.4408500">
+        <ele>29.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3472200" lon="6.4394400">
+        <ele>30.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3469800" lon="6.4390200">
+        <ele>30.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3468200" lon="6.4386500">
+        <ele>31.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3470000" lon="6.4365200">
+        <ele>34.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3469700" lon="6.4360400">
+        <ele>34.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3469400" lon="6.4358400">
+        <ele>33.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3468900" lon="6.4356800">
+        <ele>34.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3466600" lon="6.4351800">
+        <ele>33.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3462800" lon="6.4345600">
+        <ele>33.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3457000" lon="6.4336800">
+        <ele>35.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3446400" lon="6.4321700">
+        <ele>36.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3439800" lon="6.4311800">
+        <ele>38.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3436000" lon="6.4305900">
+        <ele>40.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3432600" lon="6.4300000">
+        <ele>41.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3430700" lon="6.4295500">
+        <ele>41.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3430300" lon="6.4294800">
+        <ele>41.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3429700" lon="6.4292500">
+        <ele>42.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3428700" lon="6.4290400">
+        <ele>43.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3426100" lon="6.4287000">
+        <ele>43.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3421700" lon="6.4282400">
+        <ele>43.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3419400" lon="6.4280600">
+        <ele>45.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3416700" lon="6.4279000">
+        <ele>45.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3413800" lon="6.4277800">
+        <ele>45.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3410400" lon="6.4277100">
+        <ele>46.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3407000" lon="6.4277100">
+        <ele>46.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3404200" lon="6.4277600">
+        <ele>46.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3402200" lon="6.4278200">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3399500" lon="6.4280600">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3398200" lon="6.4281700">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3396000" lon="6.4282900">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3393000" lon="6.4282900">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3388500" lon="6.4283700">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3387000" lon="6.4283600">
+        <ele>48.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3386400" lon="6.4283300">
+        <ele>48.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3384900" lon="6.4282400">
+        <ele>48.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3383000" lon="6.4280700">
+        <ele>48.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3381500" lon="6.4278700">
+        <ele>48.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3379700" lon="6.4276700">
+        <ele>49.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3376700" lon="6.4274500">
+        <ele>51.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3372100" lon="6.4296800">
+        <ele>49.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3367800" lon="6.4317600">
+        <ele>49.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3367900" lon="6.4319100">
+        <ele>48.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3367800" lon="6.4319100">
+        <ele>48.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3365400" lon="6.4321900">
+        <ele>48.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3351300" lon="6.4314200">
+        <ele>52.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3333800" lon="6.4304800">
+        <ele>52.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3307700" lon="6.4290700">
+        <ele>61.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3307700" lon="6.4288200">
+        <ele>61.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3298800" lon="6.4283300">
+        <ele>67.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3298300" lon="6.4283200">
+        <ele>67.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3294500" lon="6.4284000">
+        <ele>68.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3293700" lon="6.4283800">
+        <ele>68.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3293400" lon="6.4282600">
+        <ele>68.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3293500" lon="6.4277000">
+        <ele>70.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3284400" lon="6.4279900">
+        <ele>67.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3284200" lon="6.4275100">
+        <ele>69.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3283800" lon="6.4267200">
+        <ele>72.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3280700" lon="6.4228500">
+        <ele>76.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3280400" lon="6.4222600">
+        <ele>75.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3266300" lon="6.4226900">
+        <ele>75.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3266800" lon="6.4219700">
+        <ele>75.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3260000" lon="6.4218700">
+        <ele>75.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3256100" lon="6.4218300">
+        <ele>75.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3198700" lon="6.4236100">
+        <ele>63.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3198800" lon="6.4232000">
+        <ele>63.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3197400" lon="6.4215900">
+        <ele>64.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3197100" lon="6.4214300">
+        <ele>64.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3196000" lon="6.4211200">
+        <ele>63.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3194400" lon="6.4211200">
+        <ele>62.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3193200" lon="6.4211700">
+        <ele>62.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3192400" lon="6.4212200">
+        <ele>62.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3190000" lon="6.4214500">
+        <ele>63.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3188700" lon="6.4215200">
+        <ele>63.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3187700" lon="6.4214800">
+        <ele>62.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3186900" lon="6.4215900">
+        <ele>61.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3183700" lon="6.4208800">
+        <ele>58.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3183300" lon="6.4208300">
+        <ele>58.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3182200" lon="6.4208200">
+        <ele>58.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3179400" lon="6.4210300">
+        <ele>57.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3177400" lon="6.4210900">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3176400" lon="6.4210900">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3174000" lon="6.4209700">
+        <ele>53.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3171400" lon="6.4209400">
+        <ele>53.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3168600" lon="6.4208700">
+        <ele>49.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3167700" lon="6.4208700">
+        <ele>49.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3165300" lon="6.4209600">
+        <ele>49.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3164400" lon="6.4210100">
+        <ele>49.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3161400" lon="6.4212700">
+        <ele>48.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3160500" lon="6.4213100">
+        <ele>48.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3159800" lon="6.4213100">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3159100" lon="6.4212500">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3157900" lon="6.4212100">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3157400" lon="6.4212200">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3156600" lon="6.4212800">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3156100" lon="6.4213300">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3146800" lon="6.4215600">
+        <ele>49.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3145600" lon="6.4215600">
+        <ele>49.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3141800" lon="6.4223900">
+        <ele>54.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3140600" lon="6.4225700">
+        <ele>55.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3140100" lon="6.4226800">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3140200" lon="6.4234300">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3140400" lon="6.4249300">
+        <ele>55.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3140100" lon="6.4254300">
+        <ele>55.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3140200" lon="6.4254400">
+        <ele>55.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3135100" lon="6.4248500">
+        <ele>58.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3133900" lon="6.4247800">
+        <ele>58.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3112600" lon="6.4244200">
+        <ele>58.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3087200" lon="6.4239600">
+        <ele>57.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3086600" lon="6.4238800">
+        <ele>57.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3083000" lon="6.4238500">
+        <ele>57.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3072900" lon="6.4236600">
+        <ele>60.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3067300" lon="6.4236300">
+        <ele>62.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3057800" lon="6.4234800">
+        <ele>65.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3053100" lon="6.4233600">
+        <ele>64.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3043700" lon="6.4232100">
+        <ele>62.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3023300" lon="6.4228500">
+        <ele>57.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3012200" lon="6.4226300">
+        <ele>59.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3012200" lon="6.4227100">
+        <ele>59.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.3001100" lon="6.4224900">
+        <ele>61.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2996100" lon="6.4224100">
+        <ele>61.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2990400" lon="6.4222700">
+        <ele>60.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2987800" lon="6.4221800">
+        <ele>60.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2980800" lon="6.4218700">
+        <ele>58.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2975200" lon="6.4216200">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2974200" lon="6.4216100">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2971900" lon="6.4216500">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2968700" lon="6.4217500">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2967300" lon="6.4218300">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2966700" lon="6.4217500">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2963000" lon="6.4219400">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2960200" lon="6.4220400">
+        <ele>56.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2951400" lon="6.4222100">
+        <ele>55.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2937800" lon="6.4226100">
+        <ele>53.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2935600" lon="6.4226800">
+        <ele>52.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2934000" lon="6.4227100">
+        <ele>52.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2920600" lon="6.4228300">
+        <ele>50.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2913400" lon="6.4228500">
+        <ele>49.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2911100" lon="6.4228500">
+        <ele>47.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2908900" lon="6.4228500">
+        <ele>46.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2905400" lon="6.4227800">
+        <ele>46.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2900600" lon="6.4226100">
+        <ele>42.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2898200" lon="6.4225100">
+        <ele>42.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2897400" lon="6.4224600">
+        <ele>41.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2891300" lon="6.4220200">
+        <ele>36.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2887400" lon="6.4217700">
+        <ele>36.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2887000" lon="6.4216700">
+        <ele>33.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2886000" lon="6.4216700">
+        <ele>32.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2885300" lon="6.4217100">
+        <ele>32.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2884700" lon="6.4217200">
+        <ele>32.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2883300" lon="6.4217000">
+        <ele>31.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2876600" lon="6.4217500">
+        <ele>28.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2869600" lon="6.4217600">
+        <ele>26.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2867200" lon="6.4217500">
+        <ele>25.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2855600" lon="6.4215400">
+        <ele>23.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2853600" lon="6.4215200">
+        <ele>22.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2853300" lon="6.4216000">
+        <ele>22.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2850600" lon="6.4214800">
+        <ele>21.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2849900" lon="6.4214800">
+        <ele>21.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2849300" lon="6.4215400">
+        <ele>21.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2848300" lon="6.4214200">
+        <ele>21.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2846100" lon="6.4214000">
+        <ele>21.0000000</ele>
+      </trkpt>
+      <trkpt lat="52.2842600" lon="6.4213300">
+        <ele>20.0000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

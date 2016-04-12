@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.16.3" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2014-06-19T10:08:49Z</time>
+    <bounds maxlat="52.379773892462254" maxlon="4.931160975247622" minlat="52.353179454803467" minlon="4.883143901824951"/>
+  </metadata>
+
+  <wpt lat="52.368128495290875" lon="4.89879509434104">
+    <time>2012-11-24T13:39:03Z</time>
+    <name>001</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.366327391937375" lon="4.904996529221535">
+    <time>2012-11-24T13:39:22Z</time>
+    <name>002</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <rte>
+    <name>NS Amsterdam</name>
+    <extensions>
+      <gpxx:RouteExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="52.37834008410573" lon="4.899574192240834">
+      <time>2012-11-24T13:36:24Z</time>
+      <name>Weg</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000C002A080D2503002F3FF07B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.379773892462254" lon="4.896166697144508">
+      <time>2012-11-24T13:36:29Z</time>
+      <name>Weg1</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000A002A080D250300723F517B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.379317246377468" lon="4.895487008616328">
+      <time>2012-11-24T13:36:35Z</time>
+      <name>Weg2</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>04005670690002002B080D2503005D3F327B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.378991106525064" lon="4.894793406128883">
+      <time>2012-11-24T13:36:56Z</time>
+      <name>Weg3</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>06005670690017002A080D2503004D3F117B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.379293441772461" lon="4.894216060638428">
+      <time>2012-11-24T13:36:57Z</time>
+      <name>Snackbar Fourty Two</name>
+      <cmt>Snackbar Fourty Two</cmt>
+      <desc>Snackbar Fourty Two</desc>
+      <sym>Restaurant</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2A0056706900040010081400000000000000</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.378950119018555" lon="4.893829822540283">
+      <time>2012-11-24T13:36:58Z</time>
+      <name>Weg4</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>060056706900030010080F2503004C3FE57A</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.379293441772461" lon="4.892327785491943">
+      <time>2012-11-24T13:37:01Z</time>
+      <name>Weg5</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>060056706900080012080F2503005C3F9F7A</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.37672807648778" lon="4.890079675242305">
+      <time>2012-11-24T13:37:07Z</time>
+      <name>Weg6</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>060056706900040005080D250300E43E367A</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.377426624298096" lon="4.888122081756592">
+      <time>2012-11-24T13:37:11Z</time>
+      <name>Weg7</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>06C0567069000100FE070F250300053FDB79</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.375388145446777" lon="4.886276721954346">
+      <time>2012-11-24T13:37:28Z</time>
+      <name>Weg8</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000100FE070F250300A63E8579</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.375547485426068" lon="4.885798618197441">
+      <time>2012-11-24T13:37:35Z</time>
+      <name>Weg9</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000100FE070D250300AD3E6E79</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.375388145446777" lon="4.885611534118652">
+      <time>2012-11-24T13:37:36Z</time>
+      <name>Weg10</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000100FE070F250300A63E6679</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.37581729888916" lon="4.884409904479981">
+      <time>2012-11-24T13:37:39Z</time>
+      <name>Weg11</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000100FE070F250300BA3E2E79</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.374805770814419" lon="4.883472556248307">
+      <time>2012-11-24T13:37:42Z</time>
+      <name>Weg12</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000800C5060D2503008A3E0279</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.372405529022217" lon="4.883143901824951">
+      <time>2012-11-24T13:37:49Z</time>
+      <name>Weg13</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000100C4060F2503001B3EF378</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.372341156005859" lon="4.885118007659912">
+      <time>2012-11-24T13:37:53Z</time>
+      <name>Weg14</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000900FE070F250300183E4F79</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.370345592498779" lon="4.884946346282959">
+      <time>2012-11-24T13:37:56Z</time>
+      <name>Weg15</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000100FC070F250300BB3D4779</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.370259761810303" lon="4.887113571166992">
+      <time>2012-11-24T13:37:59Z</time>
+      <name>Weg16</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>06C0567069000B00F4070F250300B73DAC79</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.367770671844482" lon="4.88692045211792">
+      <time>2012-11-24T13:38:02Z</time>
+      <name>Weg17</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069001300F4070F250300433DA379</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.365624904632568" lon="4.89065408706665">
+      <time>2012-11-24T13:38:08Z</time>
+      <name>Weg18</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000300F0070D250300DF3C517A</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.364946389570832" lon="4.895859248936176">
+      <time>2012-11-24T13:38:18Z</time>
+      <name>Weg19</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000400E8070D250300BF3C437B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.365714339539409" lon="4.895857153460383">
+      <time>2012-11-24T13:38:28Z</time>
+      <name>Weg20</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000200DE070D250300E33C437B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.366268634796143" lon="4.89741325378418">
+      <time>2012-11-24T13:38:41Z</time>
+      <name>Weg21</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000200DE070F250300FD3C8C7B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.366372486576438" lon="4.89741325378418">
+      <time>2012-11-24T13:38:44Z</time>
+      <name>Pad</name>
+      <cmt>Pad</cmt>
+      <desc>Pad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069000900DE070D250300013D8C7B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.366375001147389" lon="4.897234719246626">
+      <time>2012-11-24T13:38:45Z</time>
+      <name>Pad1</name>
+      <cmt>Pad</cmt>
+      <desc>Pad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069000400DE070D250300013D837B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.366998195648193" lon="4.897348880767822">
+      <time>2012-11-24T13:38:46Z</time>
+      <name>Weg22</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000100DE070F2503001F3D897B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.366998195648193" lon="4.895718097686768">
+      <time>2012-11-24T13:38:50Z</time>
+      <name>Weg23</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000100DE070F2503001F3D3D7B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.367663383483887" lon="4.895975589752197">
+      <time>2012-11-24T13:38:54Z</time>
+      <name>Weg24</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000800DF070F2503003E3D497B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.368289846926928" lon="4.896497698500752">
+      <time>2012-11-24T13:38:58Z</time>
+      <name>Weg25</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000800DF070D2503005B3D617B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.368128495290875" lon="4.89879509434104">
+      <time>2012-11-24T13:39:03Z</time>
+      <name>001</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.368007292971015" lon="4.899322986602783">
+      <time>2012-11-24T13:39:05Z</time>
+      <name>Fietspad</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069000800E0070D2503004E3DE57B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.367574786767364" lon="4.899062141776085">
+      <time>2012-11-24T13:39:07Z</time>
+      <name>Fietspad1</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069000800E0070D250300393DD87B</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.366687646135688" lon="4.901266666129232">
+      <time>2012-11-24T13:39:09Z</time>
+      <name>Fietspad2</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069000800E0070D250300103D3F7C</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.366526126861572" lon="4.90166187286377">
+      <time>2012-11-24T13:39:13Z</time>
+      <name>Eetcafe Blauwbrug Taveerne</name>
+      <cmt>Eetcafe Blauwbrug Taveerne</cmt>
+      <desc>Eetcafe Blauwbrug Taveerne</desc>
+      <sym>Restaurant</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2A00567069000400E0071400000000000000</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.36576865427196" lon="4.901969153434038">
+      <time>2012-11-24T13:39:15Z</time>
+      <name>Weg26</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000400E5070D250300E53C607C</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.366327391937375" lon="4.904996529221535">
+      <time>2012-11-24T13:39:22Z</time>
+      <name>002</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.367607476189733" lon="4.904279708862305">
+      <time>2012-11-24T13:39:25Z</time>
+      <name>Fietspad3</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069000A00E0070D2503003B3DCC7C</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.367891119793057" lon="4.90447249263525">
+      <time>2012-11-24T13:39:27Z</time>
+      <name>Fietspad4</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069000A00E0070D250300483DD47C</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.36795331351459" lon="4.904782203957439">
+      <time>2012-11-24T13:39:29Z</time>
+      <name>Fietspad5</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069000A00E0070D2503004B3DE37C</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.367194164544344" lon="4.907090160995722">
+      <time>2012-11-24T13:39:56Z</time>
+      <name>Fietspad6</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069000B00A7070D250300283D4E7D</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.367343949154019" lon="4.907690640538931">
+      <time>2012-11-24T13:39:59Z</time>
+      <name>Fietspad7</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069000A00A7070D2503002F3D6A7D</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.367491722106934" lon="4.908576691523194">
+      <time>2012-11-24T13:40:02Z</time>
+      <name>Fietspad8</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069000A00A7070D250300363D947D</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.367356102913618" lon="4.909442374482751">
+      <time>2012-11-24T13:40:10Z</time>
+      <name>Weg27</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000500A7070D2503002F3DBC7D</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.368113994598389" lon="4.910116195678711">
+      <time>2012-11-24T13:40:11Z</time>
+      <name>Weg28</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>06005670690001009F070F250300533DDC7D</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.367298603057861" lon="4.912540912628174">
+      <time>2012-11-24T13:40:16Z</time>
+      <name>Weg29</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>06005670690003009E070F2503002D3D4D7E</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.366471895948052" lon="4.911850579082966">
+      <time>2012-11-24T13:40:18Z</time>
+      <name>Weg30</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>06005670690003009E070D250300063D2C7E</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.364216828718781" lon="4.918332472443581">
+      <time>2012-11-24T13:40:27Z</time>
+      <name>Fietspad9</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>160056706900100067070D2503009D3C5A7F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.363616684451699" lon="4.919087262824178">
+      <time>2012-11-24T13:40:33Z</time>
+      <name>Fietspad10</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>160056706900130081070D250300813C7E7F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.363368831574917" lon="4.919968619942665">
+      <time>2012-11-24T13:40:34Z</time>
+      <name>Fietspad11</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>160056706900130081070D250300753CA77F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.363114356994629" lon="4.920291239395738">
+      <time>2012-11-24T13:40:35Z</time>
+      <name>Fietspad12</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>160056706900130081070D2503006A3CB67F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.362947389483452" lon="4.919870803132653">
+      <time>2012-11-24T13:40:53Z</time>
+      <name>Fietspad13</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>160056706900040065070D250300623CA27F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.362771034240723" lon="4.920330047607422">
+      <time>2012-11-24T13:40:54Z</time>
+      <name>Weg31</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>060056706900230081070D2503005A3CB87F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.362827025353909" lon="4.920642608776689">
+      <time>2012-11-24T13:40:56Z</time>
+      <name>Weg32</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>060056706900230081070D2503005C3CC67F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.362899864092469" lon="4.920823741704226">
+      <time>2012-11-24T13:40:57Z</time>
+      <name>Fietspad14</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>160056706900160081070D250300603CCF7F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.362943785265088" lon="4.922983087599278">
+      <time>2012-11-24T13:40:59Z</time>
+      <name>Fietspad15</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>160056706900160081070D250300623C3380</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.362699871882796" lon="4.923344347625971">
+      <time>2012-11-24T13:41:07Z</time>
+      <name>Fietspad16</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>160056706900160081070D250300563C4480</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.361626988276839" lon="4.923842148855329">
+      <time>2012-11-24T13:41:08Z</time>
+      <name>Fietspad17</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>16005670690019007F070D250300243C5B80</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.361376285552979" lon="4.923548698425293">
+      <time>2012-11-24T13:41:11Z</time>
+      <name>Weg33</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>06005670690011007F070F250300193C4E80</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.36131040379405" lon="4.922597352415323">
+      <time>2012-11-24T13:41:12Z</time>
+      <name>Weg34</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>06005670690011007F070D250300153C2180</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.360711097717285" lon="4.92013692855835">
+      <time>2012-11-24T13:41:16Z</time>
+      <name>Weg35</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>060056706900020065070F250300FA3BAF7F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.360273227095604" lon="4.917731154710054">
+      <time>2012-11-24T13:41:33Z</time>
+      <name>Weg36</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>060056706900020065070D250300E53B3E7F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.360023278743029" lon="4.917224468663335">
+      <time>2012-11-24T13:41:35Z</time>
+      <name>Weg37</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>060056706900020065070D250300D93B277F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.359809875488281" lon="4.917025566101074">
+      <time>2012-11-24T13:41:36Z</time>
+      <name>Weg38</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>060056706900030063070F250300D03B1E7F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.359488010406494" lon="4.916982650756836">
+      <time>2012-11-24T13:41:37Z</time>
+      <name>Weg39</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000D0063070F250300C13B1C7F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.359359264373779" lon="4.916596412658691">
+      <time>2012-11-24T13:41:39Z</time>
+      <name>Weg40</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000A0063070F250300BB3B0A7F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.358028888702393" lon="4.9173903465271">
+      <time>2012-11-24T13:41:59Z</time>
+      <name>Weg41</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>060056706900040068070F2503007D3B2F7F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.354831695556641" lon="4.919815063476563">
+      <time>2012-11-24T13:42:11Z</time>
+      <name>Weg42</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000A003F070F250300E83AA07F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.354256194084883" lon="4.920206749811769">
+      <time>2012-11-24T13:42:12Z</time>
+      <name>Weg43</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000A003F070D250300CD3AB27F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.353866100311279" lon="4.920265674591065">
+      <time>2012-11-24T13:42:14Z</time>
+      <name>Weg44</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000A003F070F250300BB3AB57F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.35361497849226" lon="4.920139526948333">
+      <time>2012-11-24T13:42:20Z</time>
+      <name>Weg45</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000E003F070D250300AF3AAF7F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.353179454803467" lon="4.920566082000732">
+      <time>2012-11-24T13:42:21Z</time>
+      <name>Weg46</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000E003F070F2503009B3AC37F</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.354381084442139" lon="4.924342632293701">
+      <time>2012-11-24T13:42:26Z</time>
+      <name>Snackbar L'Oase</name>
+      <cmt>Snackbar L'Oase</cmt>
+      <desc>Snackbar L'Oase</desc>
+      <sym>Restaurant</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>2A005670690003003F071400000000000000</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.354896068572998" lon="4.925351142883301">
+      <time>2012-11-24T13:42:29Z</time>
+      <name>Weg47</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>06005670690007003F070F250300EB3AA280</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.355539798736572" lon="4.924256801605225">
+      <time>2012-11-24T13:42:32Z</time>
+      <name>Weg48</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0640567069000F0069070F250300093B6F80</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.356140613555908" lon="4.926488399505615">
+      <time>2012-11-24T13:42:39Z</time>
+      <name>Weg49</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>060056706900070069070F250300253BD780</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.356331385672092" lon="4.927771836519241">
+      <time>2012-11-24T13:42:41Z</time>
+      <name>Fietspad18</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069001D00010A0D2503002D3B1281</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.358077419921756" lon="4.926719656214118">
+      <time>2012-11-24T13:42:44Z</time>
+      <name>Fietspad19</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>16005670690002006A070D2503007F3BE180</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.35846902243793" lon="4.927729843184352">
+      <time>2012-11-24T13:42:46Z</time>
+      <name>Fietspad20</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>16005670690002006A070D250300913B1081</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.35908274538815" lon="4.928808845579624">
+      <time>2012-11-24T13:42:48Z</time>
+      <name>Fietspad21</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069000200000A0D250300AE3B4381</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.359870728105307" lon="4.929708139970899">
+      <time>2012-11-24T13:42:52Z</time>
+      <name>Fietspad22</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069000200000A0D250300D23B6D81</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.360520912334323" lon="4.930204348638654">
+      <time>2012-11-24T13:42:54Z</time>
+      <name>Weg50</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000C00FF090D250300F13B8481</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.360341120511293" lon="4.93101722560823">
+      <time>2012-11-24T13:43:03Z</time>
+      <name>Weg51</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>0600567069000400000A0D250300E83BAA81</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.360008107498288" lon="4.931160975247622">
+      <time>2012-11-24T13:43:05Z</time>
+      <name>Fietspad23</name>
+      <cmt>Fietspad</cmt>
+      <desc>Fietspad</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>1600567069000E00000A0D250300D93BB081</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

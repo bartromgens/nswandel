@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.6" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2010-03-13T20:08:16Z</time>
+    <bounds maxlat="52.2653606" maxlon="5.1627205" minlat="52.2487879" minlon="5.0951036"/>
+  </metadata>
+
+  <wpt lat="52.2653606" lon="5.1627205">
+    <time>2010-03-05T13:22:14Z</time>
+    <name>AP001</name>
+    <cmt>Station Bussum zuid</cmt>
+    <desc>Station Bussum zuid</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2632736" lon="5.1613362">
+    <time>2010-03-05T13:22:49Z</time>
+    <name>AP002</name>
+    <cmt>Oversteken en rechtsaf over fietspad</cmt>
+    <desc>Oversteken en rechtsaf over fietspad</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2637249" lon="5.1597152">
+    <time>2010-03-05T13:25:45Z</time>
+    <name>AP003</name>
+    <cmt>Rechtdoor</cmt>
+    <desc>Rechtdoor</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2639166" lon="5.1589560">
+    <time>2010-03-08T21:37:54Z</time>
+    <name>AP005</name>
+    <cmt>Bij bank links af</cmt>
+    <desc>Bij bank links af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2633755" lon="5.1567700">
+    <time>2010-03-05T13:26:37Z</time>
+    <name>AP006</name>
+    <cmt>Links af bos in</cmt>
+    <desc>Links af bos in</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2631083" lon="5.1567493">
+    <time>2010-03-05T13:27:02Z</time>
+    <name>AP007</name>
+    <cmt>Rechts aanhouden</cmt>
+    <desc>Rechts aanhouden</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2629029" lon="5.1567628">
+    <time>2010-03-05T13:27:09Z</time>
+    <name>AP008</name>
+    <cmt>Scherp rechts af</cmt>
+    <desc>Scherp rechts af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2632690" lon="5.1560697">
+    <time>2010-03-08T21:39:07Z</time>
+    <name>AP009</name>
+    <cmt>Links af</cmt>
+    <desc>Links af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2625287" lon="5.1549495">
+    <time>2010-03-05T13:28:01Z</time>
+    <name>AP010</name>
+    <cmt>Recht door</cmt>
+    <desc>Recht door</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2608825" lon="5.1537653">
+    <time>2010-03-05T13:28:15Z</time>
+    <name>AP011</name>
+    <cmt>Recht door</cmt>
+    <desc>Recht door</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2601314" lon="5.1530710">
+    <time>2010-03-05T13:28:29Z</time>
+    <name>AP012</name>
+    <cmt>Rechts af</cmt>
+    <desc>Rechts af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2600955" lon="5.1526122">
+    <time>2010-03-05T13:28:51Z</time>
+    <name>AP013</name>
+    <cmt>Weg oversteken</cmt>
+    <desc>Weg oversteken</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2595428" lon="5.1523751">
+    <time>2010-03-05T13:28:57Z</time>
+    <name>AP014</name>
+    <cmt>Recht door</cmt>
+    <desc>Recht door</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2582298" lon="5.1510629">
+    <time>2010-03-05T13:29:12Z</time>
+    <name>AP015</name>
+    <cmt>Linksaf bospad</cmt>
+    <desc>Linksaf bospad</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2576729" lon="5.1515904">
+    <time>2010-03-05T13:29:29Z</time>
+    <name>AP016</name>
+    <cmt>Recht door</cmt>
+    <desc>Recht door</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2565962" lon="5.1521471">
+    <time>2010-03-08T21:40:40Z</time>
+    <name>AP017</name>
+    <cmt>Links af</cmt>
+    <desc>Links af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2568635" lon="5.1531741">
+    <time>2010-03-05T13:29:51Z</time>
+    <name>AP018</name>
+    <cmt>Rechts af</cmt>
+    <desc>Rechts af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2566354" lon="5.1535408">
+    <time>2010-03-05T13:30:09Z</time>
+    <name>AP019</name>
+    <cmt>Op Fietspad rechts af</cmt>
+    <desc>Op Fietspad rechts af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2536635" lon="5.1507735">
+    <time>2010-03-05T13:30:32Z</time>
+    <name>AP020</name>
+    <cmt>Fietspad blijven volgen</cmt>
+    <desc>Fietspad blijven volgen</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2527362" lon="5.1483418">
+    <time>2010-03-05T13:30:54Z</time>
+    <name>AP021</name>
+    <cmt>Recht door</cmt>
+    <desc>Recht door</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2527521" lon="5.1444934">
+    <time>2010-03-05T13:31:09Z</time>
+    <name>AP022</name>
+    <cmt>Bij P20037 recht door</cmt>
+    <desc>Bij P20037 recht door</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2526136" lon="5.1400049">
+    <time>2010-03-05T13:31:22Z</time>
+    <name>AP023</name>
+    <cmt>Bij P 63518 rechts af</cmt>
+    <desc>Bij P 63518 rechts af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2543178" lon="5.1397671">
+    <time>2010-03-05T13:31:47Z</time>
+    <name>AP024</name>
+    <cmt>Links af</cmt>
+    <desc>Links af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2543025" lon="5.1357123">
+    <time>2010-03-05T13:32:05Z</time>
+    <name>AP025</name>
+    <cmt>Rechts aanhouden</cmt>
+    <desc>Rechts aanhouden</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2544742" lon="5.1351213">
+    <time>2010-03-05T13:32:34Z</time>
+    <name>AP026</name>
+    <cmt>Over de brug</cmt>
+    <desc>Over de brug</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2551012" lon="5.1340331">
+    <time>2010-03-05T13:32:40Z</time>
+    <name>AP027</name>
+    <cmt>Voorbij bank rechtdoor</cmt>
+    <desc>Voorbij bank rechtdoor</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2552896" lon="5.1339412">
+    <time>2010-03-08T21:51:10Z</time>
+    <name>AP028</name>
+    <cmt>Links aanhouden langs hek</cmt>
+    <desc>Links aanhouden langs hek</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2553990" lon="5.1330560">
+    <time>2010-03-05T13:33:04Z</time>
+    <name>AP029</name>
+    <cmt>Pad langs hek blijven volgen</cmt>
+    <desc>Pad langs hek blijven volgen</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2555627" lon="5.1307874">
+    <time>2010-03-05T13:33:21Z</time>
+    <name>AP030</name>
+    <cmt>Rechts aanhouden</cmt>
+    <desc>Rechts aanhouden</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2552839" lon="5.1286343">
+    <time>2010-03-05T13:33:41Z</time>
+    <name>AP031</name>
+    <cmt>Over brug en links aanhouden</cmt>
+    <desc>Over brug en links aanhouden</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2550768" lon="5.1277884">
+    <time>2010-03-05T13:34:03Z</time>
+    <name>AP032</name>
+    <cmt>Links af</cmt>
+    <desc>Links af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2541414" lon="5.1277790">
+    <time>2010-03-05T13:34:11Z</time>
+    <name>AP033</name>
+    <cmt>Rechts af</cmt>
+    <desc>Rechts af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2540685" lon="5.1271011">
+    <time>2010-03-05T13:34:29Z</time>
+    <name>AP034</name>
+    <cmt>Links aanhouden</cmt>
+    <desc>Links aanhouden</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2537912" lon="5.1265678">
+    <time>2010-03-05T13:34:39Z</time>
+    <name>AP035</name>
+    <cmt>Pad volgen</cmt>
+    <desc>Pad volgen</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2537642" lon="5.1255569">
+    <time>2010-03-05T13:35:02Z</time>
+    <name>AP036</name>
+    <cmt>Links af brug over</cmt>
+    <desc>Links af brug over</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2535729" lon="5.1255298">
+    <time>2010-03-05T13:35:11Z</time>
+    <name>AP037</name>
+    <cmt>Links af brug over</cmt>
+    <desc>Links af brug over</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2535729" lon="5.1260016">
+    <time>2010-03-05T13:35:20Z</time>
+    <name>AP038</name>
+    <cmt>Rechts af</cmt>
+    <desc>Rechts af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2529649" lon="5.1264921">
+    <time>2010-03-05T13:35:28Z</time>
+    <name>AP039</name>
+    <cmt>Bij bank rechts af</cmt>
+    <desc>Bij bank rechts af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2527995" lon="5.1256265">
+    <time>2010-03-05T13:35:45Z</time>
+    <name>AP040 I2</name>
+    <cmt>Links af</cmt>
+    <desc>Links af</desc>
+    <sym>Number 2, Blue</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2522263" lon="5.1258090">
+    <time>2010-03-05T13:35:57Z</time>
+    <name>AP041</name>
+    <cmt>Rechts af</cmt>
+    <desc>Rechts af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2522211" lon="5.1238751">
+    <time>2010-03-05T13:36:18Z</time>
+    <name>AP042</name>
+    <cmt>Links af</cmt>
+    <desc>Links af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2512983" lon="5.1238343">
+    <time>2010-03-05T13:36:58Z</time>
+    <name>AP043 NM</name>
+    <cmt>Bezoekerscentrum rechtsaf</cmt>
+    <desc>Bezoekerscentrum rechtsaf</desc>
+    <sym>Restaurant</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2511482" lon="5.1211116">
+    <time>2010-03-05T13:37:10Z</time>
+    <name>AP044</name>
+    <cmt>Oversteken en links af</cmt>
+    <desc>Oversteken en links af</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2488711" lon="5.1211677">
+    <time>2010-03-05T13:38:00Z</time>
+    <name>AP045 cafe</name>
+    <cmt>Rechts af over brug</cmt>
+    <desc>Rechts af over brug</desc>
+    <sym>Restaurant</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2487879" lon="5.1206820">
+    <time>2010-03-05T13:38:07Z</time>
+    <name>AP046</name>
+    <cmt>Rechts af floris V</cmt>
+    <desc>Rechts af floris V</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2526088" lon="5.1203207">
+    <time>2010-03-08T22:05:30Z</time>
+    <name>AP047 cafe</name>
+    <cmt>Links af door klaphek</cmt>
+    <desc>Links af door klaphek</desc>
+    <sym>Restaurant</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2594241" lon="5.0951036">
+    <time>2010-03-05T13:39:15Z</time>
+    <name>AP048</name>
+    <cmt>Rechts af NS-wandeling</cmt>
+    <desc>Rechts af NS-wandeling</desc>
+    <sym>Trail Head</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2633913" lon="5.0971082">
+    <time>2010-03-11T19:47:06Z</time>
+    <name>AP048a cafe</name>
+    <cmt>Recht door</cmt>
+    <desc>Recht door</desc>
+    <sym>Restaurant</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.2640727" lon="5.0974888">
+    <time>2010-03-05T13:39:51Z</time>
+    <name>AP049 cafe</name>
+    <cmt>recht door</cmt>
+    <desc>recht door</desc>
+    <sym>Restaurant</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <rte>
+    <name>AP001 tot AP049 cafe</name>
+    <extensions>
+      <gpxx:RouteExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:IsAutoNamed>true</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="52.2653606" lon="5.1627205">
+      <time>2010-03-05T13:22:14Z</time>
+      <name>AP001</name>
+      <cmt>Station Bussum zuid</cmt>
+      <desc>Station Bussum zuid</desc>
+      <sym>Flag, Green</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2632736" lon="5.1613362">
+      <time>2010-03-05T13:22:49Z</time>
+      <name>AP002</name>
+      <cmt>Oversteken en rechtsaf over fietspad</cmt>
+      <desc>Oversteken en rechtsaf over fietspad</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2637249" lon="5.1597152">
+      <time>2010-03-05T13:25:45Z</time>
+      <name>AP003</name>
+      <cmt>Rechtdoor</cmt>
+      <desc>Rechtdoor</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2639166" lon="5.1589560">
+      <time>2010-03-08T21:37:54Z</time>
+      <name>AP005</name>
+      <cmt>Bij bank links af</cmt>
+      <desc>Bij bank links af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2633755" lon="5.1567700">
+      <time>2010-03-05T13:26:37Z</time>
+      <name>AP006</name>
+      <cmt>Links af bos in</cmt>
+      <desc>Links af bos in</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2631083" lon="5.1567493">
+      <time>2010-03-05T13:27:02Z</time>
+      <name>AP007</name>
+      <cmt>Rechts aanhouden</cmt>
+      <desc>Rechts aanhouden</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2629029" lon="5.1567628">
+      <time>2010-03-05T13:27:09Z</time>
+      <name>AP008</name>
+      <cmt>Scherp rechts af</cmt>
+      <desc>Scherp rechts af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2632690" lon="5.1560697">
+      <time>2010-03-08T21:39:07Z</time>
+      <name>AP009</name>
+      <cmt>Links af</cmt>
+      <desc>Links af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2625287" lon="5.1549495">
+      <time>2010-03-05T13:28:01Z</time>
+      <name>AP010</name>
+      <cmt>Recht door</cmt>
+      <desc>Recht door</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2608825" lon="5.1537653">
+      <time>2010-03-05T13:28:15Z</time>
+      <name>AP011</name>
+      <cmt>Recht door</cmt>
+      <desc>Recht door</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2601314" lon="5.1530710">
+      <time>2010-03-05T13:28:29Z</time>
+      <name>AP012</name>
+      <cmt>Rechts af</cmt>
+      <desc>Rechts af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2600955" lon="5.1526122">
+      <time>2010-03-05T13:28:51Z</time>
+      <name>AP013</name>
+      <cmt>Weg oversteken</cmt>
+      <desc>Weg oversteken</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2595428" lon="5.1523751">
+      <time>2010-03-05T13:28:57Z</time>
+      <name>AP014</name>
+      <cmt>Recht door</cmt>
+      <desc>Recht door</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2582298" lon="5.1510629">
+      <time>2010-03-05T13:29:12Z</time>
+      <name>AP015</name>
+      <cmt>Linksaf bospad</cmt>
+      <desc>Linksaf bospad</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2576729" lon="5.1515904">
+      <time>2010-03-05T13:29:29Z</time>
+      <name>AP016</name>
+      <cmt>Recht door</cmt>
+      <desc>Recht door</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2565962" lon="5.1521471">
+      <time>2010-03-08T21:40:40Z</time>
+      <name>AP017</name>
+      <cmt>Links af</cmt>
+      <desc>Links af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2568635" lon="5.1531741">
+      <time>2010-03-05T13:29:51Z</time>
+      <name>AP018</name>
+      <cmt>Rechts af</cmt>
+      <desc>Rechts af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2566354" lon="5.1535408">
+      <time>2010-03-05T13:30:09Z</time>
+      <name>AP019</name>
+      <cmt>Op Fietspad rechts af</cmt>
+      <desc>Op Fietspad rechts af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2536635" lon="5.1507735">
+      <time>2010-03-05T13:30:32Z</time>
+      <name>AP020</name>
+      <cmt>Fietspad blijven volgen</cmt>
+      <desc>Fietspad blijven volgen</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2527362" lon="5.1483418">
+      <time>2010-03-05T13:30:54Z</time>
+      <name>AP021</name>
+      <cmt>Recht door</cmt>
+      <desc>Recht door</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2527521" lon="5.1444934">
+      <time>2010-03-05T13:31:09Z</time>
+      <name>AP022</name>
+      <cmt>Bij P20037 recht door</cmt>
+      <desc>Bij P20037 recht door</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2526136" lon="5.1400049">
+      <time>2010-03-05T13:31:22Z</time>
+      <name>AP023</name>
+      <cmt>Bij P 63518 rechts af</cmt>
+      <desc>Bij P 63518 rechts af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2543178" lon="5.1397671">
+      <time>2010-03-05T13:31:47Z</time>
+      <name>AP024</name>
+      <cmt>Links af</cmt>
+      <desc>Links af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2543025" lon="5.1357123">
+      <time>2010-03-05T13:32:05Z</time>
+      <name>AP025</name>
+      <cmt>Rechts aanhouden</cmt>
+      <desc>Rechts aanhouden</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2544742" lon="5.1351213">
+      <time>2010-03-05T13:32:34Z</time>
+      <name>AP026</name>
+      <cmt>Over de brug</cmt>
+      <desc>Over de brug</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2551012" lon="5.1340331">
+      <time>2010-03-05T13:32:40Z</time>
+      <name>AP027</name>
+      <cmt>Voorbij bank rechtdoor</cmt>
+      <desc>Voorbij bank rechtdoor</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2552896" lon="5.1339412">
+      <time>2010-03-08T21:51:10Z</time>
+      <name>AP028</name>
+      <cmt>Links aanhouden langs hek</cmt>
+      <desc>Links aanhouden langs hek</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2553990" lon="5.1330560">
+      <time>2010-03-05T13:33:04Z</time>
+      <name>AP029</name>
+      <cmt>Pad langs hek blijven volgen</cmt>
+      <desc>Pad langs hek blijven volgen</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2555627" lon="5.1307874">
+      <time>2010-03-05T13:33:21Z</time>
+      <name>AP030</name>
+      <cmt>Rechts aanhouden</cmt>
+      <desc>Rechts aanhouden</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2552839" lon="5.1286343">
+      <time>2010-03-05T13:33:41Z</time>
+      <name>AP031</name>
+      <cmt>Over brug en links aanhouden</cmt>
+      <desc>Over brug en links aanhouden</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2550768" lon="5.1277884">
+      <time>2010-03-05T13:34:03Z</time>
+      <name>AP032</name>
+      <cmt>Links af</cmt>
+      <desc>Links af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2541414" lon="5.1277790">
+      <time>2010-03-05T13:34:11Z</time>
+      <name>AP033</name>
+      <cmt>Rechts af</cmt>
+      <desc>Rechts af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2540685" lon="5.1271011">
+      <time>2010-03-05T13:34:29Z</time>
+      <name>AP034</name>
+      <cmt>Links aanhouden</cmt>
+      <desc>Links aanhouden</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2537912" lon="5.1265678">
+      <time>2010-03-05T13:34:39Z</time>
+      <name>AP035</name>
+      <cmt>Pad volgen</cmt>
+      <desc>Pad volgen</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2537642" lon="5.1255569">
+      <time>2010-03-05T13:35:02Z</time>
+      <name>AP036</name>
+      <cmt>Links af brug over</cmt>
+      <desc>Links af brug over</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2535729" lon="5.1255298">
+      <time>2010-03-05T13:35:11Z</time>
+      <name>AP037</name>
+      <cmt>Links af brug over</cmt>
+      <desc>Links af brug over</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2535729" lon="5.1260016">
+      <time>2010-03-05T13:35:20Z</time>
+      <name>AP038</name>
+      <cmt>Rechts af</cmt>
+      <desc>Rechts af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2529649" lon="5.1264921">
+      <time>2010-03-05T13:35:28Z</time>
+      <name>AP039</name>
+      <cmt>Bij bank rechts af</cmt>
+      <desc>Bij bank rechts af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2527995" lon="5.1256265">
+      <time>2010-03-05T13:35:45Z</time>
+      <name>AP040 I2</name>
+      <cmt>Links af</cmt>
+      <desc>Links af</desc>
+      <sym>Number 2, Blue</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2522263" lon="5.1258090">
+      <time>2010-03-05T13:35:57Z</time>
+      <name>AP041</name>
+      <cmt>Rechts af</cmt>
+      <desc>Rechts af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2522211" lon="5.1238751">
+      <time>2010-03-05T13:36:18Z</time>
+      <name>AP042</name>
+      <cmt>Links af</cmt>
+      <desc>Links af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2512983" lon="5.1238343">
+      <time>2010-03-05T13:36:58Z</time>
+      <name>AP043 NM</name>
+      <cmt>Bezoekerscentrum rechtsaf</cmt>
+      <desc>Bezoekerscentrum rechtsaf</desc>
+      <sym>Restaurant</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2511482" lon="5.1211116">
+      <time>2010-03-05T13:37:10Z</time>
+      <name>AP044</name>
+      <cmt>Oversteken en links af</cmt>
+      <desc>Oversteken en links af</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2488711" lon="5.1211677">
+      <time>2010-03-05T13:38:00Z</time>
+      <name>AP045 cafe</name>
+      <cmt>Rechts af over brug</cmt>
+      <desc>Rechts af over brug</desc>
+      <sym>Restaurant</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2487879" lon="5.1206820">
+      <time>2010-03-05T13:38:07Z</time>
+      <name>AP046</name>
+      <cmt>Rechts af floris V</cmt>
+      <desc>Rechts af floris V</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2526088" lon="5.1203207">
+      <time>2010-03-08T22:05:30Z</time>
+      <name>AP047 cafe</name>
+      <cmt>Links af door klaphek</cmt>
+      <desc>Links af door klaphek</desc>
+      <sym>Restaurant</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2594241" lon="5.0951036">
+      <time>2010-03-05T13:39:15Z</time>
+      <name>AP048</name>
+      <cmt>Rechts af NS-wandeling</cmt>
+      <desc>Rechts af NS-wandeling</desc>
+      <sym>Trail Head</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2633913" lon="5.0971082">
+      <time>2010-03-11T19:47:06Z</time>
+      <name>AP048a cafe</name>
+      <cmt>Recht door</cmt>
+      <desc>Recht door</desc>
+      <sym>Restaurant</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="52.2640727" lon="5.0974888">
+      <time>2010-03-05T13:39:51Z</time>
+      <name>AP049 cafe</name>
+      <cmt>recht door</cmt>
+      <desc>recht door</desc>
+      <sym>Restaurant</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

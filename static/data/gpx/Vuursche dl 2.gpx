@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.5" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2007-03-13T12:29:01Z</time>
+    <bounds maxlat="52.186273" maxlon="5.237811" minlat="52.173773" minlon="5.179091"/>
+  </metadata>
+
+  <wpt lat="52.186273" lon="5.233319">
+    <ele>12.000000</ele>
+    <time>2007-02-20T20:24:12Z</time>
+    <name>'t Hutje van Ome Jan</name>
+    <cmt>'t Hutje van Ome Jan</cmt>
+    <desc>'t Hutje van Ome Jan</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+
+  <wpt lat="52.179394" lon="5.222476">
+    <ele>13.000000</ele>
+    <time>2007-02-18T10:25:26Z</time>
+    <name>'t Jagershuis</name>
+    <cmt>Restaurant 't Jagershuis</cmt>
+    <desc>Restaurant 't Jagershuis</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+
+  <wpt lat="52.178771" lon="5.222433">
+    <ele>14.000000</ele>
+    <time>2007-02-18T10:22:29Z</time>
+    <name>Bosrand</name>
+    <cmt>Cafe Restaurant Bosrand</cmt>
+    <desc>Cafe Restaurant Bosrand</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+
+  <wpt lat="52.178816" lon="5.222377">
+    <ele>14.000000</ele>
+    <time>2007-02-18T10:18:53Z</time>
+    <name>Bushalte Lage Vuursche</name>
+    <cmt>Bushalte</cmt>
+    <desc>Bushalte</desc>
+    <sym>Letter B, Red</sym>
+  </wpt>
+
+  <wpt lat="52.179909" lon="5.222518">
+    <ele>14.000000</ele>
+    <time>2007-02-18T10:26:04Z</time>
+    <name>de Lage Vuursche</name>
+    <cmt>Cafe Restaurant de Lage Vuursche</cmt>
+    <desc>Cafe Restaurant de Lage Vuursche</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+
+  <wpt lat="52.178836" lon="5.222304">
+    <ele>14.000000</ele>
+    <time>2007-02-18T10:24:02Z</time>
+    <name>de Vuursche Boer</name>
+    <cmt>Pannekoekhuis de Vuursche Boer</cmt>
+    <desc>Pannekoekhuis de Vuursche Boer</desc>
+    <sym>Restaurant</sym>
+  </wpt>
+
+  <wpt lat="52.179192" lon="5.221121">
+    <time>2007-03-01T14:49:38Z</time>
+    <name>i 5 Lage Vuursche</name>
+    <cmt>Zie beschrijving</cmt>
+    <desc>Zie beschrijving</desc>
+    <sym>Number 5, Blue</sym>
+  </wpt>
+
+  <wpt lat="52.175015" lon="5.205828">
+    <time>2007-03-01T14:50:02Z</time>
+    <name>i 6 Dassen</name>
+    <cmt>Zie beschrijving</cmt>
+    <desc>Zie beschrijving</desc>
+    <sym>Number 6, Blue</sym>
+  </wpt>
+
+  <wpt lat="52.176497" lon="5.189700">
+    <time>2007-03-01T14:50:41Z</time>
+    <name>i 7 De Rading</name>
+    <cmt>Zie beschrijving</cmt>
+    <desc>Zie beschrijving</desc>
+    <sym>Number 7, Blue</sym>
+  </wpt>
+
+  <wpt lat="52.180189" lon="5.194605">
+    <ele>16.000000</ele>
+    <name>P20014</name>
+    <cmt>ANWB paddestoel</cmt>
+    <desc>ANWB paddestoel</desc>
+    <sym>Diamond, Blue</sym>
+  </wpt>
+
+  <wpt lat="52.178448" lon="5.195556">
+    <ele>16.000000</ele>
+    <name>P20015</name>
+    <cmt>ANWB paddestoel</cmt>
+    <desc>ANWB paddestoel</desc>
+    <sym>Diamond, Blue</sym>
+  </wpt>
+
+  <wpt lat="52.178535" lon="5.222362">
+    <ele>16.000000</ele>
+    <name>P20022</name>
+    <cmt>ANWB paddestoel</cmt>
+    <desc>ANWB paddestoel</desc>
+    <sym>Diamond, Blue</sym>
+  </wpt>
+
+  <wpt lat="52.176238" lon="5.212017">
+    <ele>17.000000</ele>
+    <name>P20023</name>
+    <cmt>ANWB paddestoel</cmt>
+    <desc>ANWB paddestoel</desc>
+    <sym>Diamond, Blue</sym>
+  </wpt>
+
+  <wpt lat="52.178391" lon="5.237811">
+    <ele>14.000000</ele>
+    <name>P20098</name>
+    <cmt>ANWB paddestoel</cmt>
+    <desc>ANWB paddestoel</desc>
+    <sym>Diamond, Blue</sym>
+  </wpt>
+
+  <wpt lat="52.176685" lon="5.222597">
+    <ele>15.000000</ele>
+    <name>P20562</name>
+    <cmt>ANWB paddestoel</cmt>
+    <desc>ANWB paddestoel</desc>
+    <sym>Diamond, Blue</sym>
+  </wpt>
+
+  <wpt lat="52.173819" lon="5.207171">
+    <ele>16.000000</ele>
+    <name>P21118</name>
+    <cmt>ANWB paddestoel</cmt>
+    <desc>ANWB paddestoel</desc>
+    <sym>Diamond, Blue</sym>
+  </wpt>
+
+  <wpt lat="52.178672" lon="5.197780">
+    <ele>16.000000</ele>
+    <name>P21356</name>
+    <cmt>ANWB paddestoel</cmt>
+    <desc>ANWB paddestoel</desc>
+    <sym>Diamond, Blue</sym>
+  </wpt>
+
+  <wpt lat="52.177913" lon="5.237500">
+    <time>2007-03-05T14:50:22Z</time>
+    <name>vu 040</name>
+    <cmt>Weg</cmt>
+    <desc>Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.176562" lon="5.222617">
+    <time>2007-03-05T14:50:28Z</time>
+    <name>vu 041</name>
+    <cmt>Weg</cmt>
+    <desc>Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.178649" lon="5.222453">
+    <time>2007-03-05T14:50:35Z</time>
+    <name>vu 042</name>
+    <cmt>Weg</cmt>
+    <desc>Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.176304" lon="5.212026">
+    <time>2007-03-05T14:50:41Z</time>
+    <name>vu 043</name>
+    <cmt>Weg</cmt>
+    <desc>Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.173773" lon="5.207431">
+    <time>2007-03-05T14:50:48Z</time>
+    <name>vu 044</name>
+    <cmt>Pad</cmt>
+    <desc>Pad</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.174373" lon="5.201898">
+    <time>2007-03-05T14:50:56Z</time>
+    <name>vu 045</name>
+    <cmt>Unpaved Road</cmt>
+    <desc>Unpaved Road</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.175574" lon="5.198786">
+    <time>2007-03-05T14:51:04Z</time>
+    <name>vu 046</name>
+    <cmt>Weg</cmt>
+    <desc>Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.177284" lon="5.197301">
+    <time>2007-03-05T14:51:12Z</time>
+    <name>vu 047</name>
+    <cmt>Weg</cmt>
+    <desc>Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.178750" lon="5.197628">
+    <time>2007-03-05T14:51:18Z</time>
+    <name>vu 048</name>
+    <cmt>Weg</cmt>
+    <desc>Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.178407" lon="5.195546">
+    <time>2007-03-05T14:51:27Z</time>
+    <name>vu 049</name>
+    <cmt>Weg</cmt>
+    <desc>Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.180051" lon="5.194595">
+    <time>2007-03-05T14:51:34Z</time>
+    <name>vu 050</name>
+    <cmt>Onverharde Weg</cmt>
+    <desc>Onverharde Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.179236" lon="5.193890">
+    <time>2007-03-05T14:51:41Z</time>
+    <name>vu 051</name>
+    <cmt>Onverharde Weg</cmt>
+    <desc>Onverharde Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.179061" lon="5.190638">
+    <time>2007-03-05T14:51:48Z</time>
+    <name>vu 052</name>
+    <cmt>Onverharde Weg</cmt>
+    <desc>Onverharde Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.180123" lon="5.190289">
+    <time>2007-03-05T14:51:58Z</time>
+    <name>vu 053</name>
+    <cmt>Onverharde Weg</cmt>
+    <desc>Onverharde Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.180402" lon="5.188615">
+    <time>2007-03-05T14:52:09Z</time>
+    <name>vu 054</name>
+    <cmt>Onverharde Weg</cmt>
+    <desc>Onverharde Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.178692" lon="5.187647">
+    <time>2007-03-05T14:52:16Z</time>
+    <name>vu 055</name>
+    <cmt>Pad</cmt>
+    <desc>Pad</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.178210" lon="5.186794">
+    <time>2007-03-05T14:52:27Z</time>
+    <name>vu 056</name>
+    <cmt>Pad</cmt>
+    <desc>Pad</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.178321" lon="5.186555">
+    <time>2007-03-05T14:52:34Z</time>
+    <name>vu 057</name>
+    <cmt>Onverharde Weg</cmt>
+    <desc>Onverharde Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.179351" lon="5.182543">
+    <time>2007-03-05T14:52:41Z</time>
+    <name>vu 058</name>
+    <cmt>Onverharde Weg</cmt>
+    <desc>Onverharde Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.178020" lon="5.181684">
+    <time>2007-03-05T14:52:52Z</time>
+    <name>vu 059</name>
+    <cmt>Weg</cmt>
+    <desc>Weg</desc>
+    <sym>Trail Head</sym>
+  </wpt>
+
+  <wpt lat="52.178147" lon="5.179091">
+    <ele>19.000000</ele>
+    <time>2007-03-05T14:53:00Z</time>
+    <name>vu 060</name>
+    <cmt>NS station Hollandsche Rading</cmt>
+    <desc>NS station Hollandsche Rading</desc>
+    <sym>Flag, Red</sym>
+  </wpt>
+
+  <wpt lat="52.177673" lon="5.217820">
+    <ele>16.000000</ele>
+    <time>2007-03-01T15:53:50Z</time>
+    <name>Zitbank 04</name>
+    <cmt>Zitbank</cmt>
+    <desc>Zitbank</desc>
+    <sym>Picnic Area</sym>
+  </wpt>
+
+  <wpt lat="52.177322" lon="5.216438">
+    <ele>17.000000</ele>
+    <time>2007-03-01T15:53:34Z</time>
+    <name>Zitbank 05</name>
+    <cmt>Zitbank</cmt>
+    <desc>Zitbank</desc>
+    <sym>Picnic Area</sym>
+  </wpt>
+
+  <wpt lat="52.176939" lon="5.214816">
+    <ele>16.000000</ele>
+    <time>2007-03-01T15:53:27Z</time>
+    <name>Zitbank 06</name>
+    <cmt>Zitbank</cmt>
+    <desc>Zitbank</desc>
+    <sym>Picnic Area</sym>
+  </wpt>
+
+  <wpt lat="52.176664" lon="5.213641">
+    <ele>16.000000</ele>
+    <time>2007-03-01T15:53:21Z</time>
+    <name>Zitbank 07</name>
+    <cmt>Zitbank</cmt>
+    <desc>Zitbank</desc>
+    <sym>Picnic Area</sym>
+  </wpt>
+
+  <rte>
+    <name>NS Vuursche dl2</name>
+    <rtept lat="52.177913" lon="5.237500">
+      <time>2007-03-05T14:50:22Z</time>
+      <name>vu 040</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.176562" lon="5.222617">
+      <time>2007-03-05T14:50:28Z</time>
+      <name>vu 041</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.178649" lon="5.222453">
+      <time>2007-03-05T14:50:35Z</time>
+      <name>vu 042</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.176304" lon="5.212026">
+      <time>2007-03-05T14:50:41Z</time>
+      <name>vu 043</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.173773" lon="5.207431">
+      <time>2007-03-05T14:50:48Z</time>
+      <name>vu 044</name>
+      <cmt>Pad</cmt>
+      <desc>Pad</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.174373" lon="5.201898">
+      <time>2007-03-05T14:50:56Z</time>
+      <name>vu 045</name>
+      <cmt>Unpaved Road</cmt>
+      <desc>Unpaved Road</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.175574" lon="5.198786">
+      <time>2007-03-05T14:51:04Z</time>
+      <name>vu 046</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.177284" lon="5.197301">
+      <time>2007-03-05T14:51:12Z</time>
+      <name>vu 047</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.178750" lon="5.197628">
+      <time>2007-03-05T14:51:18Z</time>
+      <name>vu 048</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.178407" lon="5.195546">
+      <time>2007-03-05T14:51:27Z</time>
+      <name>vu 049</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.180051" lon="5.194595">
+      <time>2007-03-05T14:51:34Z</time>
+      <name>vu 050</name>
+      <cmt>Onverharde Weg</cmt>
+      <desc>Onverharde Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.179236" lon="5.193890">
+      <time>2007-03-05T14:51:41Z</time>
+      <name>vu 051</name>
+      <cmt>Onverharde Weg</cmt>
+      <desc>Onverharde Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.179061" lon="5.190638">
+      <time>2007-03-05T14:51:48Z</time>
+      <name>vu 052</name>
+      <cmt>Onverharde Weg</cmt>
+      <desc>Onverharde Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.180123" lon="5.190289">
+      <time>2007-03-05T14:51:58Z</time>
+      <name>vu 053</name>
+      <cmt>Onverharde Weg</cmt>
+      <desc>Onverharde Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.180402" lon="5.188615">
+      <time>2007-03-05T14:52:09Z</time>
+      <name>vu 054</name>
+      <cmt>Onverharde Weg</cmt>
+      <desc>Onverharde Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.178692" lon="5.187647">
+      <time>2007-03-05T14:52:16Z</time>
+      <name>vu 055</name>
+      <cmt>Pad</cmt>
+      <desc>Pad</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.178210" lon="5.186794">
+      <time>2007-03-05T14:52:27Z</time>
+      <name>vu 056</name>
+      <cmt>Pad</cmt>
+      <desc>Pad</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.178321" lon="5.186555">
+      <time>2007-03-05T14:52:34Z</time>
+      <name>vu 057</name>
+      <cmt>Onverharde Weg</cmt>
+      <desc>Onverharde Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.179351" lon="5.182543">
+      <time>2007-03-05T14:52:41Z</time>
+      <name>vu 058</name>
+      <cmt>Onverharde Weg</cmt>
+      <desc>Onverharde Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.178020" lon="5.181684">
+      <time>2007-03-05T14:52:52Z</time>
+      <name>vu 059</name>
+      <cmt>Weg</cmt>
+      <desc>Weg</desc>
+      <sym>Trail Head</sym>
+    </rtept>
+    <rtept lat="52.178147" lon="5.179091">
+      <ele>19.000000</ele>
+      <time>2007-03-05T14:53:00Z</time>
+      <name>vu 060</name>
+      <cmt>NS station Hollandsche Rading</cmt>
+      <desc>NS station Hollandsche Rading</desc>
+      <sym>Flag, Red</sym>
+    </rtept>
+  </rte>
+
+</gpx>
