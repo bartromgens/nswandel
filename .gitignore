@@ -2,5 +2,9 @@
 lib/
 extract/
 data/gpx
+env/
 
 *.zip
+*.pyc
+
+local_settings.py
