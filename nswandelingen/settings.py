@@ -25,8 +25,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'bootstrap3',
-    'trails',
-    'nswandelingen.core'
+    'nswandelingen.core',
+    'nswandelingen.trails',
 ]
 
 MIDDLEWARE_CLASSES = [

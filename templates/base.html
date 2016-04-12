@@ -73,21 +73,7 @@
   <br/>
   <br/>
 
-  <div class="container">
-      <h4 id="info-detail">Wandeling</h4>
-      <a class="btn btn-info" id="url-extern" href="/">Meer info</a>
-      <a class="btn btn-primary" id="download-gpx" href="/">Download GPX</a>
-  </div>
-
-  <br/>
-
-  <div id="map-container">
-    <div id="map">
-      <div id="info"></div>
-    </div>
-  </div>
-
-  <script src="{% static 'js/map.js' %}"></script>
+  {% block content %}{% endblock %}
 
 </body>
 
