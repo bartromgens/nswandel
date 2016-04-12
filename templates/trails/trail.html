@@ -5,14 +5,20 @@
 
 {% block content %}
 
-<div class="row">
-    <div class="col-md-6">
+<div class="containter">
+    <div class="row" align="center">
+        <div class="col-md-12">
+            <h3>NS Wandelingen</h3>
+        </div>
     </div>
-</div>
 
-<div class="row" align="center">
-    <div class="col-md-12">
-        <h3>NS Wandelingen</h3>
+    <div class="row" align="center">
+        {% for trail in trails %}
+            <div class="col-sm-3">
+                <h5>{{ trail.title }}</h5>
+                <a href="{{ trail.gpx_file.url }}">download gpx</a>
+            </div>
+        {% endfor %}
     </div>
 </div>
 

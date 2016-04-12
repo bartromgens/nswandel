@@ -27,6 +27,7 @@ INSTALLED_APPS = [
     'bootstrap3',
     'nswandel.core',
     'nswandel.trails',
+    'rest_framework',
 ]
 
 MIDDLEWARE_CLASSES = [
@@ -128,4 +129,15 @@ BOOTSTRAP3 = {
     'horizontal_field_class': 'col-md-4',
 }
 
+##################
+# REST framework #
+##################
+
+REST_FRAMEWORK = {
+    # Use Django's standard `django.contrib.auth` permissions,
+    # or allow read-only access for unauthenticated users.
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
+    ]
+}
 

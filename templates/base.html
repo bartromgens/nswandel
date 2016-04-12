@@ -53,15 +53,15 @@
 
         <ul class="nav navbar-nav navbar-right">
           <li><a href="/about/">About</a></li>
+          <li><a href="/api/" target="_blank">API</a></li>
           <li><a href="https://github.com/bartromgens/nswandelingen" target="_blank">Code</a></li>
         {% if not user.is_authenticated %}
           <!--<li><a href="/accounts/login"><b>Sign in</b></a></li>-->
           <!--<li><a href="/accounts/register"><b>Register</b></a></li>-->
         {% else %}
           {% if user.is_staff %}
-          <li><a href="/admin">Admin</a></li>
+          <li><a href="/admin" target="_blank">Admin</a></li>
           {% endif %}
-          <li><a href="/accounts/logout">Log out [{{ user.username }}]</a></li>
         {% endif %}
         </ul>
       </div>
