@@ -10,5 +10,5 @@ class Trail(models.Model):
 
 
 class NSTrail(Trail):
-    station_begin = models.ForeignKey('stations.Station', related_name='station_begin')
-    station_end = models.ForeignKey('stations.Station', related_name='station_end')
+    station_begin = models.ForeignKey('stations.Station', related_name='station_begin', blank=True, null=True)
+    station_end = models.ForeignKey('stations.Station', related_name='station_end', blank=True, null=True)
