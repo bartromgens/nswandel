@@ -25,7 +25,7 @@ class TrailViewSet(viewsets.ModelViewSet):
 class NSTrailSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = NSTrail
-        fields = ('title', 'gpx_file', 'station_begin', 'station_end')
+        fields = ('title', 'gpx_file', 'station_begin', 'station_end', 'distance')
 
 
 # ViewSets define the view behavior.

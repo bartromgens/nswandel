@@ -74,14 +74,12 @@ var vectorLayers = [];
 
 function createTrailLayer(json_trail)
 {
-//    console.log('create trail layer');
-//    console.log(json_trail.gpx_file)
     var vectorSource = new ol.source.Vector({
         projection: 'EPSG:3857',
         format: new ol.format.GPX(),
         url: json_trail.gpx_file
     });
-    vectorSources.push(vectorSource)
+    vectorSources.push(vectorSource);
     var trailVector = new ol.layer.Vector({
         source: vectorSource,
         style: function(feature, resolution) {
@@ -89,6 +87,7 @@ function createTrailLayer(json_trail)
         },
         name: json_trail.title,
         url: json_trail.gpx_file,
+        distance: json_trail.distance,
         url_extern: json_trail.url_extern,
     });
     vectorLayers.push(trailVector);
@@ -220,7 +219,7 @@ var displayLayerTooltip = function(pixel) {
     });
 
     if (layer && layer.get('name')) {
-        info.text(layer.get('name'));
+        info.text(layer.get('name') + " (" + Math.ceil(layer.get("distance")/1000) + " km)");
         info.show();
     } else {
         info.hide();
@@ -246,7 +245,7 @@ var displayLayerDetailInfo = function(evt) {
     // }
 
     if (layer && layer.get('name')) {
-        document.getElementById("info-detail").innerText = layer.get('name');
+        document.getElementById("info-detail").innerText = layer.get('name') + " (" + Math.ceil(layer.get("distance")/1000) + " km)";
         document.getElementById("url-extern").href = layer.get('url_extern');
         document.getElementById("url-extern").innerText = 'Meer info';
         document.getElementById("download-gpx").href = layer.get('url');
