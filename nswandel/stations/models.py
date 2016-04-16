@@ -33,4 +33,4 @@ class Station(models.Model):
     name_short = models.CharField(max_length=100)
 
     def __str__(self):
-        return self.code
+        return self.name_middle + ' (' + self.code + ')'
