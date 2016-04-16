@@ -74,10 +74,12 @@ var vectorLayers = [];
 
 function createTrailLayer(json_trail)
 {
+//    console.log('create trail layer');
+//    console.log(json_trail.gpx_file)
     var vectorSource = new ol.source.Vector({
         projection: 'EPSG:3857',
         format: new ol.format.GPX(),
-        url: '/static/data/gpx/' + json_trail.gpx_filename
+        url: json_trail.gpx_file
     });
     vectorSources.push(vectorSource)
     var trailVector = new ol.layer.Vector({
@@ -85,8 +87,8 @@ function createTrailLayer(json_trail)
         style: function(feature, resolution) {
             return style[feature.getGeometry().getType()];
         },
-        name: json_trail.name,
-        url: '/static/data/gpx/' + json_trail.gpx_filename,
+        name: json_trail.title,
+        url: json_trail.gpx_file,
         url_extern: json_trail.url_extern,
     });
     vectorLayers.push(trailVector);
@@ -94,9 +96,9 @@ function createTrailLayer(json_trail)
 }
 
 
-$.getJSON("/static/data/trails_downloaded.json", function(json) {
-    for (var i in json.trails) {
-        var trail = json.trails[i];
+$.getJSON("/api/nstrails/?format=json", function(json) {
+    for (var i in json) {
+        var trail = json[i];
         // console.log(trail)
         var trailLayer = createTrailLayer(trail);
         map.addLayer(trailLayer);
@@ -315,4 +317,4 @@ var featuresOverlay = new ol.layer.Vector({
     })
 });
 
-geolocation.setTracking(true);
+//geolocation.setTracking(true);
