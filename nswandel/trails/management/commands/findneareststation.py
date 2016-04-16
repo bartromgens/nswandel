@@ -54,6 +54,14 @@ class Command(BaseCommand):
                         min_distance_end = distance
                         station_nearest_end = station
 
+                trail_distance = 0.0
+                if gpx.routes:
+                    for route in gpx.routes:
+                        trail_distance += route.length()
+                elif gpx.tracks:
+                    for track in gpx.tracks:
+                        trail_distance += track.length_3d()
+
                 self.stdout.write(str(station_nearest_begin))
                 self.stdout.write(str(station_nearest_end))
                 self.stdout.write(str(min_distance_begin))
@@ -61,4 +69,5 @@ class Command(BaseCommand):
                 trail.title = station_nearest_begin.name_middle + ' - ' + station_nearest_end.name_middle
                 trail.station_begin = station_nearest_begin
                 trail.station_end = station_nearest_end
+                trail.distance = trail_distance
                 trail.save()

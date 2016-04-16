@@ -3,6 +3,7 @@ from django.db import models
 
 class Trail(models.Model):
     title = models.CharField(max_length=300)
+    distance = models.FloatField(blank=True, null=True, help_text='distance in m')
     gpx_file = models.FileField(upload_to='gpx/')
 
     def __str__(self):
