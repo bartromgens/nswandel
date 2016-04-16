@@ -27,7 +27,7 @@ class Command(BaseCommand):
                     gpx_parser = gpxpy.parser.GPXParser(gpx_file)
                     gpx = gpx_parser.parse()
                 except gpxpy.gpx.GPXXMLSyntaxException as e:
-                    self.stdout.write(e)
+                    self.stdout.write(str(e))
                     continue
                 self.stdout.write('gpx file parsed')
 
