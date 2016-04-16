@@ -25,7 +25,7 @@ class TrailViewSet(viewsets.ModelViewSet):
 class StationSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Station
-        fields = ('code', 'latitude', 'longitude')
+        fields = ('code', 'latitude', 'longitude', 'name_long', 'name_middle', 'name_short', 'type')
 
 
 # ViewSets define the view behavior.

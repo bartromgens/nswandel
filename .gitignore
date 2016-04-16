@@ -10,3 +10,4 @@ env/
 *.db
 
 local_settings.py
+openlayers_v3.12.1

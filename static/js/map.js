@@ -1,4 +1,15 @@
 
+function assert(condition, message) {
+    if (!condition) {
+        message = message || "Assertion failed";
+        if (typeof Error !== "undefined") {
+            throw new Error(message);
+        }
+        throw message; // Fallback
+    }
+}
+
+
 // http://stackoverflow.com/a/4234006
 $.ajaxSetup({beforeSend: function(xhr){
     if (xhr.overrideMimeType)
@@ -100,9 +111,9 @@ function createStationLayer(typeScales, stations)
 
     for (var i in stations) {
         var station = stations[i];
-        var lat = parseFloat(station.lat);
+        var lat = parseFloat(station.latitude);
         lat = lat + 90.0;
-        var lonLat = [station.lon, lat.toString()];
+        var lonLat = [station.longitude, lat.toString()];
         var stationFeature = createStationFeature(station, lonLat);
         stationFeatures.push(stationFeature);
         stationFeaturesSelectable.push(stationFeature);
@@ -128,12 +139,13 @@ function createStationLayer(typeScales, stations)
 
 
 function createStationFeature(station, lonLat) {
+//    console.log(station.code);
     return new ol.Feature({
         geometry: new ol.geom.Point( ol.proj.fromLonLat(lonLat) ),
-        name: station.names.long,
-        id: station.id,
+        name: station.names_long,
+        id: station.code,
         type: station.type,
-        text: station.names.short
+        text: station.name_short
     });
 }
 
@@ -153,11 +165,14 @@ var typeScales = {
 function getStationStyle(feature, circleColor) {
     var strokeColor = 'black';
 
+    var radius = typeScales[feature.get('type')];
+    assert(radius > 0);  // typeScales key may not exist
     var circleStyle = new ol.style.Circle(({
         fill: new ol.style.Fill({color: circleColor}),
         stroke: new ol.style.Stroke({color: strokeColor, width: 2}),
-        radius: typeScales[feature.get('type')]
+        radius: radius
     }));
+
 
     return new ol.style.Style({
         image: circleStyle
@@ -165,8 +180,8 @@ function getStationStyle(feature, circleColor) {
 }
 
 
-$.getJSON("/static/data/stations.json", function(json) {
-    createStationLayer(typeScales, json.stations);
+$.getJSON("/api/stations/?format=json", function(json) {
+    createStationLayer(typeScales, json);
 });
 
 
@@ -202,7 +217,7 @@ var displayLayerTooltip = function(pixel) {
         return layer;
     });
 
-    if (layer.get('name')) {
+    if (layer && layer.get('name')) {
         info.text(layer.get('name'));
         info.show();
     } else {
@@ -228,7 +243,7 @@ var displayLayerDetailInfo = function(evt) {
     //     console.log(distance);
     // }
 
-    if (layer.get('name')) {
+    if (layer && layer.get('name')) {
         document.getElementById("info-detail").innerText = layer.get('name');
         document.getElementById("url-extern").href = layer.get('url_extern');
         document.getElementById("url-extern").innerText = 'Meer info';
