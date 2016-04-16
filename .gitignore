@@ -1,8 +1,9 @@
 .idea/
 lib/
 extract/
-data/gpx
+data/gpx/
 env/
+static/media/
 
 *.zip
 *.pyc
