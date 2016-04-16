@@ -7,3 +7,8 @@ class Trail(models.Model):
 
     def __str__(self):
         return self.title
+
+
+class NSTrail(Trail):
+    station_begin = models.ForeignKey('stations.Station', related_name='station_begin')
+    station_end = models.ForeignKey('stations.Station', related_name='station_end')
