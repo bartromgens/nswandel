@@ -31,7 +31,6 @@ class Station(models.Model):
     name_long = models.CharField(max_length=200)
     name_middle = models.CharField(max_length=150)
     name_short = models.CharField(max_length=100)
-    sdfd = models.CharField(max_length=10)
 
     def __str__(self):
         return self.code

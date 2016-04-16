@@ -5,6 +5,7 @@ from rest_framework import routers, serializers, viewsets
 
 from nswandel.core.views import HomePageView
 from nswandel.trails.models import Trail
+from nswandel.stations.models import Station
 
 
 # Serializers define the API representation.
@@ -20,9 +21,23 @@ class TrailViewSet(viewsets.ModelViewSet):
     serializer_class = TrailSerializer
 
 
+# Serializers define the API representation.
+class StationSerializer(serializers.HyperlinkedModelSerializer):
+    class Meta:
+        model = Station
+        fields = ('code', 'latitude', 'longitude')
+
+
+# ViewSets define the view behavior.
+class StationViewSet(viewsets.ModelViewSet):
+    queryset = Station.objects.all()
+    serializer_class = StationSerializer
+
+
 # Routers provide an easy way of automatically determining the URL conf.
 router = routers.DefaultRouter()
 router.register(r'trails', TrailViewSet)
+router.register(r'stations', StationViewSet)
 
 
 urlpatterns = [
