@@ -2,7 +2,7 @@ import json
 
 from django.core.management.base import BaseCommand, CommandError
 
-from nswandel.stations.models import Station, StationType
+from nswandel.stations.models import Station
 
 
 class Command(BaseCommand):
