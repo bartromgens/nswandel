@@ -1,0 +1,5319 @@
+[
+{
+  "model": "stations.station",
+  "pk": 413,
+  "fields": {
+    "code": "HT",
+    "latitude": "51.69048000",
+    "longitude": "5.29362000",
+    "type": "knooppuntIntercitystation",
+    "name_long": "'s-Hertogenbosch",
+    "name_middle": "'s-Hertogenbosch",
+    "name_short": "Den Bosch"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 414,
+  "fields": {
+    "code": "HTO",
+    "latitude": "51.70055389",
+    "longitude": "5.31833315",
+    "type": "stoptreinstation",
+    "name_long": "'s-Hertogenbosch Oost",
+    "name_middle": "Hertogenbosch O.",
+    "name_short": "H'bosch O"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 415,
+  "fields": {
+    "code": "HDE",
+    "latitude": "52.40916820",
+    "longitude": "5.89361100",
+    "type": "stoptreinstation",
+    "name_long": "'t Harde",
+    "name_middle": "'t Harde",
+    "name_short": "'t Harde"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 416,
+  "fields": {
+    "code": "ATN",
+    "latitude": "51.92132652",
+    "longitude": "6.57862723",
+    "type": "stoptreinstation",
+    "name_long": "Aalten",
+    "name_middle": "Aalten",
+    "name_short": "Aalten"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 417,
+  "fields": {
+    "code": "AC",
+    "latitude": "52.27850000",
+    "longitude": "4.97700000",
+    "type": "stoptreinstation",
+    "name_long": "Abcoude",
+    "name_middle": "Abcoude",
+    "name_short": "Abcoude"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 418,
+  "fields": {
+    "code": "AKM",
+    "latitude": "53.04639053",
+    "longitude": "5.84361124",
+    "type": "stoptreinstation",
+    "name_long": "Akkrum",
+    "name_middle": "Akkrum",
+    "name_short": "Akkrum"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 419,
+  "fields": {
+    "code": "AMR",
+    "latitude": "52.63777924",
+    "longitude": "4.73972225",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Alkmaar",
+    "name_middle": "Alkmaar",
+    "name_short": "Alkmaar"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 420,
+  "fields": {
+    "code": "AMRN",
+    "latitude": "52.64389038",
+    "longitude": "4.76416683",
+    "type": "stoptreinstation",
+    "name_long": "Alkmaar Noord",
+    "name_middle": "Alkmaar Noord",
+    "name_short": "Alkmaar N"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 421,
+  "fields": {
+    "code": "AML",
+    "latitude": "52.35805511",
+    "longitude": "6.65388870",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Almelo",
+    "name_middle": "Almelo",
+    "name_short": "Almelo"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 422,
+  "fields": {
+    "code": "AMRI",
+    "latitude": "52.34194565",
+    "longitude": "6.66666651",
+    "type": "stoptreinstation",
+    "name_long": "Almelo de Riet",
+    "name_middle": "Almelo de Riet",
+    "name_short": "de Riet"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 423,
+  "fields": {
+    "code": "ALMB",
+    "latitude": "52.39416504",
+    "longitude": "5.27805567",
+    "type": "stoptreinstation",
+    "name_long": "Almere Buiten",
+    "name_middle": "Almere Buiten",
+    "name_short": "Buiten"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 424,
+  "fields": {
+    "code": "ALM",
+    "latitude": "52.37503000",
+    "longitude": "5.21764000",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Almere Centrum",
+    "name_middle": "Almere C.",
+    "name_short": "Almere C"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 425,
+  "fields": {
+    "code": "ALMM",
+    "latitude": "52.36750031",
+    "longitude": "5.19027758",
+    "type": "stoptreinstation",
+    "name_long": "Almere Muziekwijk",
+    "name_middle": "Muziekwijk",
+    "name_short": "Muziekwijk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 426,
+  "fields": {
+    "code": "ALMO",
+    "latitude": "52.40333176",
+    "longitude": "5.30055571",
+    "type": "stoptreinstation",
+    "name_long": "Almere Oostvaarders",
+    "name_middle": "Oostvaarders",
+    "name_short": "Oostvaard"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 427,
+  "fields": {
+    "code": "ALMP",
+    "latitude": "52.37666702",
+    "longitude": "5.24472237",
+    "type": "stoptreinstation",
+    "name_long": "Almere Parkwijk",
+    "name_middle": "Almere Parkwijk",
+    "name_short": "Parkwijk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 428,
+  "fields": {
+    "code": "AMPO",
+    "latitude": "52.34277800",
+    "longitude": "5.15194400",
+    "type": "stoptreinstation",
+    "name_long": "Almere Poort",
+    "name_middle": "Almere Poort",
+    "name_short": "Almere P"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 429,
+  "fields": {
+    "code": "APN",
+    "latitude": "52.12444305",
+    "longitude": "4.65777779",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Alphen a/d Rijn",
+    "name_middle": "Alphen a/d Rijn",
+    "name_short": "Alphen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 430,
+  "fields": {
+    "code": "AMF",
+    "latitude": "52.15388870",
+    "longitude": "5.37055540",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Amersfoort",
+    "name_middle": "Amersfoort",
+    "name_short": "Amersfoort"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 431,
+  "fields": {
+    "code": "AMFS",
+    "latitude": "52.17482214",
+    "longitude": "5.40388870",
+    "type": "stoptreinstation",
+    "name_long": "Amersfoort Schothorst",
+    "name_middle": "Schothorst",
+    "name_short": "Schothorst"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 432,
+  "fields": {
+    "code": "AVAT",
+    "latitude": "52.19277954",
+    "longitude": "5.43388891",
+    "type": "sneltreinstation",
+    "name_long": "Amersfoort Vathorst",
+    "name_middle": "Vathorst",
+    "name_short": "Vathorst"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 433,
+  "fields": {
+    "code": "ASA",
+    "latitude": "52.34666824",
+    "longitude": "4.91777802",
+    "type": "intercitystation",
+    "name_long": "Amsterdam Amstel",
+    "name_middle": "Amsterdam Amstel",
+    "name_short": "Amstel"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 434,
+  "fields": {
+    "code": "ASB",
+    "latitude": "52.31222153",
+    "longitude": "4.94694424",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Amsterdam Bijlmer ArenA",
+    "name_middle": "Bijlmer ArenA",
+    "name_short": "Bijlmer A"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 435,
+  "fields": {
+    "code": "ASD",
+    "latitude": "52.37888718",
+    "longitude": "4.90027761",
+    "type": "megastation",
+    "name_long": "Amsterdam Centraal",
+    "name_middle": "Amsterdam C.",
+    "name_short": "A'dam C"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 436,
+  "fields": {
+    "code": "ASHD",
+    "latitude": "52.29844000",
+    "longitude": "4.95972000",
+    "type": "stoptreinstation",
+    "name_long": "Amsterdam Holendrecht",
+    "name_middle": "Holendrecht",
+    "name_short": "Holendrcht"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 437,
+  "fields": {
+    "code": "ASDL",
+    "latitude": "52.35777664",
+    "longitude": "4.83388901",
+    "type": "stoptreinstation",
+    "name_long": "Amsterdam Lelylaan",
+    "name_middle": "Lelylaan",
+    "name_short": "Lelylaan"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 438,
+  "fields": {
+    "code": "ASDM",
+    "latitude": "52.36055374",
+    "longitude": "4.93111134",
+    "type": "stoptreinstation",
+    "name_long": "Amsterdam Muiderpoort",
+    "name_middle": "Muiderpoort",
+    "name_short": "Muiderprt"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 439,
+  "fields": {
+    "code": "RAI",
+    "latitude": "52.33722305",
+    "longitude": "4.89027786",
+    "type": "stoptreinstation",
+    "name_long": "Amsterdam RAI",
+    "name_middle": "Amsterdam RAI",
+    "name_short": "A'dam RAI"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 440,
+  "fields": {
+    "code": "ASSP",
+    "latitude": "52.35526000",
+    "longitude": "4.94651000",
+    "type": "stoptreinstation",
+    "name_long": "Amsterdam Science Park",
+    "name_middle": "Science Park",
+    "name_short": "Scienceprk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 441,
+  "fields": {
+    "code": "ASS",
+    "latitude": "52.38888931",
+    "longitude": "4.83777761",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Amsterdam Sloterdijk",
+    "name_middle": "Sloterdijk",
+    "name_short": "Sloterdijk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 442,
+  "fields": {
+    "code": "VMW",
+    "latitude": "52.33013400",
+    "longitude": "4.92975000",
+    "type": "facultatiefStation",
+    "name_long": "Amsterdam Van der Madeweg",
+    "name_middle": "Van der Madeweg",
+    "name_short": "vd Madeweg"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 443,
+  "fields": {
+    "code": "ASDZ",
+    "latitude": "52.33889008",
+    "longitude": "4.87166643",
+    "type": "intercitystation",
+    "name_long": "Amsterdam Zuid",
+    "name_middle": "Amsterdam Zuid",
+    "name_short": "A'dam Z"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 444,
+  "fields": {
+    "code": "ANA",
+    "latitude": "52.86722183",
+    "longitude": "4.81111097",
+    "type": "stoptreinstation",
+    "name_long": "Anna Paulowna",
+    "name_middle": "Anna Paulowna",
+    "name_short": "Anna Paulo"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 445,
+  "fields": {
+    "code": "APD",
+    "latitude": "52.20916748",
+    "longitude": "5.97027779",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Apeldoorn",
+    "name_middle": "Apeldoorn",
+    "name_short": "Apeldoorn"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 446,
+  "fields": {
+    "code": "APDM",
+    "latitude": "52.20527649",
+    "longitude": "6.00055552",
+    "type": "stoptreinstation",
+    "name_long": "Apeldoorn De Maten",
+    "name_middle": "De Maten",
+    "name_short": "De Maten"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 447,
+  "fields": {
+    "code": "APDO",
+    "latitude": "52.21527863",
+    "longitude": "6.00444460",
+    "type": "stoptreinstation",
+    "name_long": "Apeldoorn Osseveld",
+    "name_middle": "Osseveld",
+    "name_short": "Osseveld"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 448,
+  "fields": {
+    "code": "APG",
+    "latitude": "53.32581350",
+    "longitude": "6.86195770",
+    "type": "stoptreinstation",
+    "name_long": "Appingedam",
+    "name_middle": "Appingedam",
+    "name_short": "Appingedam"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 449,
+  "fields": {
+    "code": "AKL",
+    "latitude": "51.87194443",
+    "longitude": "4.99277782",
+    "type": "stoptreinstation",
+    "name_long": "Arkel",
+    "name_middle": "Arkel",
+    "name_short": "Arkel"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 450,
+  "fields": {
+    "code": "ARN",
+    "latitude": "51.50166702",
+    "longitude": "3.66916656",
+    "type": "stoptreinstation",
+    "name_long": "Arnemuiden",
+    "name_middle": "Arnemuiden",
+    "name_short": "Arnemuiden"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 451,
+  "fields": {
+    "code": "AH",
+    "latitude": "51.98500061",
+    "longitude": "5.89916658",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Arnhem",
+    "name_middle": "Arnhem",
+    "name_short": "Arnhem"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 452,
+  "fields": {
+    "code": "AHPR",
+    "latitude": "51.98805618",
+    "longitude": "5.94388866",
+    "type": "stoptreinstation",
+    "name_long": "Arnhem Presikhaaf",
+    "name_middle": "Presikhaaf",
+    "name_short": "Presikhaaf"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 453,
+  "fields": {
+    "code": "AHP",
+    "latitude": "51.98527908",
+    "longitude": "5.91944456",
+    "type": "stoptreinstation",
+    "name_long": "Arnhem Velperpoort",
+    "name_middle": "Velperpoort",
+    "name_short": "Velperprt"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 454,
+  "fields": {
+    "code": "AHZ",
+    "latitude": "51.95500183",
+    "longitude": "5.85194445",
+    "type": "stoptreinstation",
+    "name_long": "Arnhem Zuid",
+    "name_middle": "Arnhem Zuid",
+    "name_short": "Arnhem Z"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 455,
+  "fields": {
+    "code": "ASN",
+    "latitude": "52.99166489",
+    "longitude": "6.57083321",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Assen",
+    "name_middle": "Assen",
+    "name_short": "Assen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 456,
+  "fields": {
+    "code": "BRN",
+    "latitude": "52.20833206",
+    "longitude": "5.28083324",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Baarn",
+    "name_middle": "Baarn",
+    "name_short": "Baarn"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 457,
+  "fields": {
+    "code": "NSCH",
+    "latitude": "53.18440000",
+    "longitude": "7.19937000",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Bad Nieuweschans",
+    "name_middle": "Bad Nieuweschans",
+    "name_short": "Nweschans"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 458,
+  "fields": {
+    "code": "BF",
+    "latitude": "53.36089690",
+    "longitude": "6.51855810",
+    "type": "stoptreinstation",
+    "name_long": "Baflo",
+    "name_middle": "Baflo",
+    "name_short": "Baflo"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 459,
+  "fields": {
+    "code": "BRD",
+    "latitude": "51.85472107",
+    "longitude": "4.55333328",
+    "type": "stoptreinstation",
+    "name_long": "Barendrecht",
+    "name_middle": "Barendrecht",
+    "name_short": "Barendrcht"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 460,
+  "fields": {
+    "code": "BNC",
+    "latitude": "52.13999939",
+    "longitude": "5.59027767",
+    "type": "stoptreinstation",
+    "name_long": "Barneveld Centrum",
+    "name_middle": "Barneveld C.",
+    "name_short": "Barnevld C"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 461,
+  "fields": {
+    "code": "BNN",
+    "latitude": "52.16138840",
+    "longitude": "5.59805536",
+    "type": "stoptreinstation",
+    "name_long": "Barneveld Noord",
+    "name_middle": "Barneveld Noord",
+    "name_short": "Barnevld N"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 462,
+  "fields": {
+    "code": "BNZ",
+    "latitude": "52.12885300",
+    "longitude": "5.60246000",
+    "type": "stoptreinstation",
+    "name_long": "Barneveld Zuid",
+    "name_middle": "Barneveld Zuid",
+    "name_short": "Barnevld Z"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 463,
+  "fields": {
+    "code": "BDM",
+    "latitude": "53.30688570",
+    "longitude": "6.59305400",
+    "type": "stoptreinstation",
+    "name_long": "Bedum",
+    "name_middle": "Bedum",
+    "name_short": "Bedum"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 464,
+  "fields": {
+    "code": "BK",
+    "latitude": "50.94749832",
+    "longitude": "5.78666687",
+    "type": "stoptreinstation",
+    "name_long": "Beek-Elsloo",
+    "name_middle": "Beek-Elsloo",
+    "name_short": "Beek-E"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 465,
+  "fields": {
+    "code": "BSD",
+    "latitude": "51.89944458",
+    "longitude": "5.19444466",
+    "type": "stoptreinstation",
+    "name_long": "Beesd",
+    "name_middle": "Beesd",
+    "name_short": "Beesd"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 466,
+  "fields": {
+    "code": "BL",
+    "latitude": "52.85472107",
+    "longitude": "6.52111101",
+    "type": "stoptreinstation",
+    "name_long": "Beilen",
+    "name_middle": "Beilen",
+    "name_short": "Beilen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 467,
+  "fields": {
+    "code": "BGN",
+    "latitude": "51.49388885",
+    "longitude": "4.29611111",
+    "type": "stoptreinstation",
+    "name_long": "Bergen op Zoom",
+    "name_middle": "Bergen op Zoom",
+    "name_short": "Bergen opZ"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 468,
+  "fields": {
+    "code": "BET",
+    "latitude": "51.50999832",
+    "longitude": "5.38916683",
+    "type": "stoptreinstation",
+    "name_long": "Best",
+    "name_middle": "Best",
+    "name_short": "Best"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 469,
+  "fields": {
+    "code": "BV",
+    "latitude": "52.47833252",
+    "longitude": "4.65666676",
+    "type": "intercitystation",
+    "name_long": "Beverwijk",
+    "name_middle": "Beverwijk",
+    "name_short": "Beverwijk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 470,
+  "fields": {
+    "code": "BHV",
+    "latitude": "52.13000107",
+    "longitude": "5.20388889",
+    "type": "stoptreinstation",
+    "name_long": "Bilthoven",
+    "name_middle": "Bilthoven",
+    "name_short": "Bilthoven"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 471,
+  "fields": {
+    "code": "BR",
+    "latitude": "51.37250137",
+    "longitude": "6.15500021",
+    "type": "stoptreinstation",
+    "name_long": "Blerick",
+    "name_middle": "Blerick",
+    "name_short": "Blerick"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 472,
+  "fields": {
+    "code": "BLL",
+    "latitude": "52.40416718",
+    "longitude": "4.62750006",
+    "type": "stoptreinstation",
+    "name_long": "Bloemendaal",
+    "name_middle": "Bloemendaal",
+    "name_short": "Bloemendl"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 473,
+  "fields": {
+    "code": "BDG",
+    "latitude": "52.08139038",
+    "longitude": "4.74611092",
+    "type": "stoptreinstation",
+    "name_long": "Bodegraven",
+    "name_middle": "Bodegraven",
+    "name_short": "Bodegraven"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 474,
+  "fields": {
+    "code": "BN",
+    "latitude": "52.29888916",
+    "longitude": "6.74805546",
+    "type": "stoptreinstation",
+    "name_long": "Borne",
+    "name_middle": "Borne",
+    "name_short": "Borne"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 475,
+  "fields": {
+    "code": "BSK",
+    "latitude": "52.07777786",
+    "longitude": "4.64694452",
+    "type": "stoptreinstation",
+    "name_long": "Boskoop",
+    "name_middle": "Boskoop",
+    "name_short": "Boskoop"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 476,
+  "fields": {
+    "code": "BHDV",
+    "latitude": "51.83222200",
+    "longitude": "4.87805600",
+    "type": "stoptreinstation",
+    "name_long": "Boven-Hardinxveld",
+    "name_middle": "Boven-Hardinxv.",
+    "name_short": "Boven-H."
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 477,
+  "fields": {
+    "code": "BKF",
+    "latitude": "52.69610977",
+    "longitude": "5.25277758",
+    "type": "stoptreinstation",
+    "name_long": "Bovenkarspel Flora",
+    "name_middle": "Bovenkarspel Fl.",
+    "name_short": "Bovenk Flo"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 478,
+  "fields": {
+    "code": "BKG",
+    "latitude": "52.69499969",
+    "longitude": "5.23777771",
+    "type": "stoptreinstation",
+    "name_long": "Bovenkarspel-Grootebroek",
+    "name_middle": "Bovenkarspel-Gr.",
+    "name_short": "Bovenk-Gr"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 479,
+  "fields": {
+    "code": "BMR",
+    "latitude": "51.64452177",
+    "longitude": "5.93903303",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Boxmeer",
+    "name_middle": "Boxmeer",
+    "name_short": "Boxmeer"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 480,
+  "fields": {
+    "code": "BTL",
+    "latitude": "51.58433000",
+    "longitude": "5.31912000",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Boxtel",
+    "name_middle": "Boxtel",
+    "name_short": "Boxtel"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 481,
+  "fields": {
+    "code": "BD",
+    "latitude": "51.59555435",
+    "longitude": "4.78000021",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Breda",
+    "name_middle": "Breda",
+    "name_short": "Breda"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 482,
+  "fields": {
+    "code": "BDPB",
+    "latitude": "51.60638809",
+    "longitude": "4.72083330",
+    "type": "stoptreinstation",
+    "name_long": "Breda-Prinsenbeek",
+    "name_middle": "Prinsenbeek",
+    "name_short": "Prinsenbk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 483,
+  "fields": {
+    "code": "BKL",
+    "latitude": "52.17149000",
+    "longitude": "4.99060000",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Breukelen",
+    "name_middle": "Breukelen",
+    "name_short": "Breukelen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 484,
+  "fields": {
+    "code": "BMN",
+    "latitude": "52.09111023",
+    "longitude": "6.14694452",
+    "type": "stoptreinstation",
+    "name_long": "Brummen",
+    "name_middle": "Brummen",
+    "name_short": "Brummen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 485,
+  "fields": {
+    "code": "BP",
+    "latitude": "53.25645470",
+    "longitude": "6.14464960",
+    "type": "knooppuntSneltreinstation",
+    "name_long": "Buitenpost",
+    "name_middle": "Buitenpost",
+    "name_short": "Buitenpost"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 486,
+  "fields": {
+    "code": "BDE",
+    "latitude": "50.89694595",
+    "longitude": "5.73666668",
+    "type": "stoptreinstation",
+    "name_long": "Bunde",
+    "name_middle": "Bunde",
+    "name_short": "Bunde"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 487,
+  "fields": {
+    "code": "BNK",
+    "latitude": "52.06305695",
+    "longitude": "5.19444466",
+    "type": "stoptreinstation",
+    "name_long": "Bunnik",
+    "name_middle": "Bunnik",
+    "name_short": "Bunnik"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 488,
+  "fields": {
+    "code": "BSMZ",
+    "latitude": "52.26583481",
+    "longitude": "5.16305542",
+    "type": "stoptreinstation",
+    "name_long": "Bussum Zuid",
+    "name_middle": "Bussum Zuid",
+    "name_short": "Bussum Z"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 489,
+  "fields": {
+    "code": "CPS",
+    "latitude": "51.95416641",
+    "longitude": "4.58416653",
+    "type": "stoptreinstation",
+    "name_long": "Capelle Schollevaar",
+    "name_middle": "Schollevaar",
+    "name_short": "Schollevr"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 490,
+  "fields": {
+    "code": "CAS",
+    "latitude": "52.54583359",
+    "longitude": "4.65861130",
+    "type": "intercitystation",
+    "name_long": "Castricum",
+    "name_middle": "Castricum",
+    "name_short": "Castricum"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 491,
+  "fields": {
+    "code": "CVM",
+    "latitude": "50.87611008",
+    "longitude": "6.05972242",
+    "type": "stoptreinstation",
+    "name_long": "Chevremont",
+    "name_middle": "Chevremont",
+    "name_short": "Chevremont"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 492,
+  "fields": {
+    "code": "CO",
+    "latitude": "52.66361237",
+    "longitude": "6.73555565",
+    "type": "knooppuntSneltreinstation",
+    "name_long": "Coevorden",
+    "name_middle": "Coevorden",
+    "name_short": "Coevorden"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 493,
+  "fields": {
+    "code": "CK",
+    "latitude": "51.72668259",
+    "longitude": "5.87429523",
+    "type": "stoptreinstation",
+    "name_long": "Cuijk",
+    "name_middle": "Cuijk",
+    "name_short": "Cuijk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 494,
+  "fields": {
+    "code": "CL",
+    "latitude": "51.94666672",
+    "longitude": "5.22694445",
+    "type": "stoptreinstation",
+    "name_long": "Culemborg",
+    "name_middle": "Culemborg",
+    "name_short": "Culemborg"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 495,
+  "fields": {
+    "code": "DA",
+    "latitude": "52.44077020",
+    "longitude": "6.57599470",
+    "type": "stoptreinstation",
+    "name_long": "Daarlerveen",
+    "name_middle": "Daarlerveen",
+    "name_short": "Daarlervn"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 496,
+  "fields": {
+    "code": "DLN",
+    "latitude": "52.69416809",
+    "longitude": "6.75805569",
+    "type": "stoptreinstation",
+    "name_long": "Dalen",
+    "name_middle": "Dalen",
+    "name_short": "Dalen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 497,
+  "fields": {
+    "code": "DL",
+    "latitude": "52.49833298",
+    "longitude": "6.25861120",
+    "type": "sneltreinstation",
+    "name_long": "Dalfsen",
+    "name_middle": "Dalfsen",
+    "name_short": "Dalfsen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 498,
+  "fields": {
+    "code": "DVNK",
+    "latitude": "52.14722061",
+    "longitude": "4.45638895",
+    "type": "stoptreinstation",
+    "name_long": "De Vink",
+    "name_middle": "De Vink",
+    "name_short": "De Vink"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 499,
+  "fields": {
+    "code": "DWE",
+    "latitude": "53.24817000",
+    "longitude": "6.03463000",
+    "type": "stoptreinstation",
+    "name_long": "De Westereen",
+    "name_middle": "De Westereen",
+    "name_short": "Westereen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 500,
+  "fields": {
+    "code": "DEI",
+    "latitude": "53.18881150",
+    "longitude": "5.72815720",
+    "type": "stoptreinstation",
+    "name_long": "Deinum",
+    "name_middle": "Deinum",
+    "name_short": "Deinum"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 501,
+  "fields": {
+    "code": "DDN",
+    "latitude": "52.25999832",
+    "longitude": "6.71611118",
+    "type": "stoptreinstation",
+    "name_long": "Delden",
+    "name_middle": "Delden",
+    "name_short": "Delden"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 502,
+  "fields": {
+    "code": "DT",
+    "latitude": "52.00666809",
+    "longitude": "4.35638905",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Delft",
+    "name_middle": "Delft",
+    "name_short": "Delft"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 503,
+  "fields": {
+    "code": "DTZ",
+    "latitude": "51.99083328",
+    "longitude": "4.36472225",
+    "type": "stoptreinstation",
+    "name_long": "Delft Zuid",
+    "name_middle": "Delft Zuid",
+    "name_short": "Delft Z"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 504,
+  "fields": {
+    "code": "DZ",
+    "latitude": "53.33366250",
+    "longitude": "6.92407970",
+    "type": "stoptreinstation",
+    "name_long": "Delfzijl",
+    "name_middle": "Delfzijl",
+    "name_short": "Delfzijl"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 505,
+  "fields": {
+    "code": "DZW",
+    "latitude": "53.33208340",
+    "longitude": "6.90690920",
+    "type": "stoptreinstation",
+    "name_long": "Delfzijl West",
+    "name_middle": "Delfzijl West",
+    "name_short": "Delfzijl W"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 506,
+  "fields": {
+    "code": "DLD",
+    "latitude": "52.14027786",
+    "longitude": "5.24277782",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Den Dolder",
+    "name_middle": "Den Dolder",
+    "name_short": "Den Dolder"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 507,
+  "fields": {
+    "code": "GVC",
+    "latitude": "52.08027649",
+    "longitude": "4.32499981",
+    "type": "megastation",
+    "name_long": "Den Haag Centraal",
+    "name_middle": "Den Haag C.",
+    "name_short": "Den Haag C"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 508,
+  "fields": {
+    "code": "GV",
+    "latitude": "52.06972122",
+    "longitude": "4.32250023",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Den Haag HS",
+    "name_middle": "Den Haag HS",
+    "name_short": "Dn Haag HS"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 509,
+  "fields": {
+    "code": "LAA",
+    "latitude": "52.07860947",
+    "longitude": "4.34277773",
+    "type": "intercitystation",
+    "name_long": "Den Haag Laan v NOI",
+    "name_middle": "Laan v NOI",
+    "name_short": "Laan v NOI"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 510,
+  "fields": {
+    "code": "GVM",
+    "latitude": "52.09055710",
+    "longitude": "4.36944437",
+    "type": "stoptreinstation",
+    "name_long": "Den Haag Mariahoeve",
+    "name_middle": "Mariahoeve",
+    "name_short": "Mariahoeve"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 511,
+  "fields": {
+    "code": "GVMW",
+    "latitude": "52.05389023",
+    "longitude": "4.30861092",
+    "type": "stoptreinstation",
+    "name_long": "Den Haag Moerwijk",
+    "name_middle": "Moerwijk",
+    "name_short": "Moerwijk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 512,
+  "fields": {
+    "code": "YPB",
+    "latitude": "52.05527878",
+    "longitude": "4.39222240",
+    "type": "stoptreinstation",
+    "name_long": "Den Haag Ypenburg",
+    "name_middle": "Ypenburg",
+    "name_short": "Ypenburg"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 513,
+  "fields": {
+    "code": "HDR",
+    "latitude": "52.95527649",
+    "longitude": "4.76111126",
+    "type": "intercitystation",
+    "name_long": "Den Helder",
+    "name_middle": "Den Helder",
+    "name_short": "Den Helder"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 514,
+  "fields": {
+    "code": "HDRZ",
+    "latitude": "52.93249893",
+    "longitude": "4.76416683",
+    "type": "stoptreinstation",
+    "name_long": "Den Helder Zuid",
+    "name_middle": "Den Helder Zuid",
+    "name_short": "Dn Heldr Z"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 515,
+  "fields": {
+    "code": "DN",
+    "latitude": "51.45583344",
+    "longitude": "5.78888893",
+    "type": "stoptreinstation",
+    "name_long": "Deurne",
+    "name_middle": "Deurne",
+    "name_short": "Deurne"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 516,
+  "fields": {
+    "code": "DV",
+    "latitude": "52.25749969",
+    "longitude": "6.16055536",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Deventer",
+    "name_middle": "Deventer",
+    "name_short": "Deventer"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 517,
+  "fields": {
+    "code": "DVC",
+    "latitude": "52.25027847",
+    "longitude": "6.21444464",
+    "type": "stoptreinstation",
+    "name_long": "Deventer Colmschate",
+    "name_middle": "Colmschate",
+    "name_short": "Colmschate"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 518,
+  "fields": {
+    "code": "DID",
+    "latitude": "51.93350200",
+    "longitude": "6.13241060",
+    "type": "stoptreinstation",
+    "name_long": "Didam",
+    "name_middle": "Didam",
+    "name_short": "Didam"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 519,
+  "fields": {
+    "code": "DMN",
+    "latitude": "52.34583282",
+    "longitude": "4.96555567",
+    "type": "stoptreinstation",
+    "name_long": "Diemen",
+    "name_middle": "Diemen",
+    "name_short": "Diemen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 520,
+  "fields": {
+    "code": "DMNZ",
+    "latitude": "52.33027649",
+    "longitude": "4.95583344",
+    "type": "stoptreinstation",
+    "name_long": "Diemen Zuid",
+    "name_middle": "Diemen Zuid",
+    "name_short": "Diemen Z"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 521,
+  "fields": {
+    "code": "DR",
+    "latitude": "52.04499817",
+    "longitude": "6.10305548",
+    "type": "intercitystation",
+    "name_long": "Dieren",
+    "name_middle": "Dieren",
+    "name_short": "Dieren"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 522,
+  "fields": {
+    "code": "DTC",
+    "latitude": "51.95859620",
+    "longitude": "6.29621480",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Doetinchem",
+    "name_middle": "Doetinchem",
+    "name_short": "Doetinchem"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 523,
+  "fields": {
+    "code": "DTCH",
+    "latitude": "51.95914130",
+    "longitude": "6.25985210",
+    "type": "stoptreinstation",
+    "name_long": "Doetinchem De Huet",
+    "name_middle": "De Huet",
+    "name_short": "De Huet"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 524,
+  "fields": {
+    "code": "DDR",
+    "latitude": "51.80722046",
+    "longitude": "4.66833353",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Dordrecht",
+    "name_middle": "Dordrecht",
+    "name_short": "Dordrecht"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 525,
+  "fields": {
+    "code": "DDRS",
+    "latitude": "51.80194473",
+    "longitude": "4.71666670",
+    "type": "stoptreinstation",
+    "name_long": "Dordrecht Stadspolders",
+    "name_middle": "Stadspolders",
+    "name_short": "Stadspldrs"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 526,
+  "fields": {
+    "code": "DDZD",
+    "latitude": "51.79000092",
+    "longitude": "4.67138910",
+    "type": "stoptreinstation",
+    "name_long": "Dordrecht Zuid",
+    "name_middle": "Dordrecht Zuid",
+    "name_short": "Dordrcht Z"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 527,
+  "fields": {
+    "code": "DB",
+    "latitude": "52.06527710",
+    "longitude": "5.25861120",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Driebergen-Zeist",
+    "name_middle": "Driebergen-Zeist",
+    "name_short": "Driebergen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 528,
+  "fields": {
+    "code": "DRH",
+    "latitude": "52.44250107",
+    "longitude": "4.63805532",
+    "type": "stoptreinstation",
+    "name_long": "Driehuis",
+    "name_middle": "Driehuis",
+    "name_short": "Driehuis"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 529,
+  "fields": {
+    "code": "DRP",
+    "latitude": "53.17780860",
+    "longitude": "5.63474110",
+    "type": "stoptreinstation",
+    "name_long": "Dronryp",
+    "name_middle": "Dronryp",
+    "name_short": "Dronryp"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 530,
+  "fields": {
+    "code": "DRON",
+    "latitude": "52.53440000",
+    "longitude": "5.72089000",
+    "type": "stoptreinstation",
+    "name_long": "Dronten",
+    "name_middle": "Dronten",
+    "name_short": "Dronten"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 531,
+  "fields": {
+    "code": "DVN",
+    "latitude": "51.94333267",
+    "longitude": "6.01472235",
+    "type": "stoptreinstation",
+    "name_long": "Duiven",
+    "name_middle": "Duiven",
+    "name_short": "Duiven"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 532,
+  "fields": {
+    "code": "DVD",
+    "latitude": "52.32333374",
+    "longitude": "4.93638897",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Duivendrecht",
+    "name_middle": "Duivendrecht",
+    "name_short": "Duivendt"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 533,
+  "fields": {
+    "code": "EC",
+    "latitude": "51.10055542",
+    "longitude": "5.87888908",
+    "type": "stoptreinstation",
+    "name_long": "Echt",
+    "name_middle": "Echt",
+    "name_short": "Echt"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 534,
+  "fields": {
+    "code": "EDC",
+    "latitude": "52.04360962",
+    "longitude": "5.66833353",
+    "type": "stoptreinstation",
+    "name_long": "Ede Centrum",
+    "name_middle": "Ede C.",
+    "name_short": "Ede C"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 535,
+  "fields": {
+    "code": "ED",
+    "latitude": "52.02777863",
+    "longitude": "5.67305565",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Ede-Wageningen",
+    "name_middle": "Ede-Wageningen",
+    "name_short": "Ede-Wag"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 536,
+  "fields": {
+    "code": "WTM",
+    "latitude": "50.82317000",
+    "longitude": "5.92479000",
+    "type": "facultatiefStation",
+    "name_long": "Eijs-Wittem",
+    "name_middle": "Eijs-Wittem",
+    "name_short": "Eijs-Witt"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 537,
+  "fields": {
+    "code": "EDN",
+    "latitude": "50.77194595",
+    "longitude": "5.71000004",
+    "type": "stoptreinstation",
+    "name_long": "Eijsden",
+    "name_middle": "Eijsden",
+    "name_short": "Eijsden"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 538,
+  "fields": {
+    "code": "EHV",
+    "latitude": "51.44333267",
+    "longitude": "5.48138905",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Eindhoven",
+    "name_middle": "Eindhoven",
+    "name_short": "Eindhoven"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 539,
+  "fields": {
+    "code": "EHS",
+    "latitude": "51.45111084",
+    "longitude": "5.45583344",
+    "type": "stoptreinstation",
+    "name_long": "Eindhoven Strijp-S",
+    "name_middle": "Strijp-S",
+    "name_short": "Strijp-S"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 540,
+  "fields": {
+    "code": "EST",
+    "latitude": "51.91694260",
+    "longitude": "5.85500002",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Elst",
+    "name_middle": "Elst",
+    "name_short": "Elst"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 541,
+  "fields": {
+    "code": "EMN",
+    "latitude": "52.79000092",
+    "longitude": "6.89944458",
+    "type": "sneltreinstation",
+    "name_long": "Emmen",
+    "name_middle": "Emmen",
+    "name_short": "Emmen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 542,
+  "fields": {
+    "code": "EMNZ",
+    "latitude": "52.74886637",
+    "longitude": "6.87478065",
+    "type": "sneltreinstation",
+    "name_long": "Emmen Zuid",
+    "name_middle": "Emmen Zuid",
+    "name_short": "Emmen Z"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 543,
+  "fields": {
+    "code": "EKZ",
+    "latitude": "52.69916534",
+    "longitude": "5.28638887",
+    "type": "stoptreinstation",
+    "name_long": "Enkhuizen",
+    "name_middle": "Enkhuizen",
+    "name_short": "Enkhuizen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 544,
+  "fields": {
+    "code": "ES",
+    "latitude": "52.22249985",
+    "longitude": "6.88999987",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Enschede",
+    "name_middle": "Enschede",
+    "name_short": "Enschede"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 545,
+  "fields": {
+    "code": "ESE",
+    "latitude": "52.22138977",
+    "longitude": "6.95111132",
+    "type": "stoptreinstation",
+    "name_long": "Enschede De Eschmarke",
+    "name_middle": "De Eschmarke",
+    "name_short": "Eschmarke"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 546,
+  "fields": {
+    "code": "ESK",
+    "latitude": "52.23749924",
+    "longitude": "6.83888912",
+    "type": "stoptreinstation",
+    "name_long": "Enschede Kennispark",
+    "name_middle": "Kennispark",
+    "name_short": "Kennispark"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 547,
+  "fields": {
+    "code": "EML",
+    "latitude": "52.30166626",
+    "longitude": "5.61472225",
+    "type": "stoptreinstation",
+    "name_long": "Ermelo",
+    "name_middle": "Ermelo",
+    "name_short": "Ermelo"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 548,
+  "fields": {
+    "code": "ETN",
+    "latitude": "51.57500076",
+    "longitude": "4.63583326",
+    "type": "intercitystation",
+    "name_long": "Etten-Leur",
+    "name_middle": "Etten-Leur",
+    "name_short": "Etten-Leur"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 549,
+  "fields": {
+    "code": "EGH",
+    "latitude": "50.89055634",
+    "longitude": "6.04500008",
+    "type": "stoptreinstation",
+    "name_long": "Eygelshoven",
+    "name_middle": "Eygelshoven",
+    "name_short": "Eygelshov"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 550,
+  "fields": {
+    "code": "EGHM",
+    "latitude": "50.89604982",
+    "longitude": "6.06024742",
+    "type": "stoptreinstation",
+    "name_long": "Eygelshoven Markt",
+    "name_middle": "Eygelshoven Mrkt",
+    "name_short": "Eygelsh M"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 551,
+  "fields": {
+    "code": "FWD",
+    "latitude": "53.23518340",
+    "longitude": "5.98866150",
+    "type": "stoptreinstation",
+    "name_long": "Feanwalden",
+    "name_middle": "Feanwalden",
+    "name_short": "Feanwalden"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 552,
+  "fields": {
+    "code": "FN",
+    "latitude": "53.18244880",
+    "longitude": "5.54830940",
+    "type": "stoptreinstation",
+    "name_long": "Franeker",
+    "name_middle": "Franeker",
+    "name_short": "Franeker"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 553,
+  "fields": {
+    "code": "GDR",
+    "latitude": "51.93074000",
+    "longitude": "6.34860000",
+    "type": "stoptreinstation",
+    "name_long": "Gaanderen",
+    "name_middle": "Gaanderen",
+    "name_short": "Gaanderen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 554,
+  "fields": {
+    "code": "GDK",
+    "latitude": "52.47625000",
+    "longitude": "6.56674000",
+    "type": "stoptreinstation",
+    "name_long": "Geerdijk",
+    "name_middle": "Geerdijk",
+    "name_short": "Geerdijk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 555,
+  "fields": {
+    "code": "GDM",
+    "latitude": "51.88301000",
+    "longitude": "5.27127000",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Geldermalsen",
+    "name_middle": "Geldermalsen",
+    "name_short": "G'malsen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 556,
+  "fields": {
+    "code": "GP",
+    "latitude": "51.41972351",
+    "longitude": "5.55055571",
+    "type": "stoptreinstation",
+    "name_long": "Geldrop",
+    "name_middle": "Geldrop",
+    "name_short": "Geldrop"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 557,
+  "fields": {
+    "code": "GLN",
+    "latitude": "50.96694565",
+    "longitude": "5.84305573",
+    "type": "stoptreinstation",
+    "name_long": "Geleen Oost",
+    "name_middle": "Geleen Oost",
+    "name_short": "Geleen O"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 558,
+  "fields": {
+    "code": "LUT",
+    "latitude": "50.97555542",
+    "longitude": "5.82472229",
+    "type": "stoptreinstation",
+    "name_long": "Geleen-Lutterade",
+    "name_middle": "Geleen-Lutterade",
+    "name_short": "Geleen-Lut"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 559,
+  "fields": {
+    "code": "GZ",
+    "latitude": "51.58361053",
+    "longitude": "4.92611122",
+    "type": "stoptreinstation",
+    "name_long": "Gilze-Rijen",
+    "name_middle": "Gilze-Rijen",
+    "name_short": "Gilze-Rij"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 560,
+  "fields": {
+    "code": "GBR",
+    "latitude": "52.21861267",
+    "longitude": "6.97444439",
+    "type": "stoptreinstation",
+    "name_long": "Glanerbrug",
+    "name_middle": "Glanerbrug",
+    "name_short": "Glanerbrug"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 561,
+  "fields": {
+    "code": "GS",
+    "latitude": "51.49805450",
+    "longitude": "3.89055562",
+    "type": "stoptreinstation",
+    "name_long": "Goes",
+    "name_middle": "Goes",
+    "name_short": "Goes"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 562,
+  "fields": {
+    "code": "GO",
+    "latitude": "52.23027802",
+    "longitude": "6.58444452",
+    "type": "stoptreinstation",
+    "name_long": "Goor",
+    "name_middle": "Goor",
+    "name_short": "Goor"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 563,
+  "fields": {
+    "code": "GR",
+    "latitude": "51.83388901",
+    "longitude": "4.96833324",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Gorinchem",
+    "name_middle": "Gorinchem",
+    "name_short": "Gorinchem"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 564,
+  "fields": {
+    "code": "GD",
+    "latitude": "52.01750183",
+    "longitude": "4.70444441",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Gouda",
+    "name_middle": "Gouda",
+    "name_short": "Gouda"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 565,
+  "fields": {
+    "code": "GDG",
+    "latitude": "52.01499939",
+    "longitude": "4.74083328",
+    "type": "stoptreinstation",
+    "name_long": "Gouda Goverwelle",
+    "name_middle": "Gouda Goverwelle",
+    "name_short": "Goverwelle"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 566,
+  "fields": {
+    "code": "GBG",
+    "latitude": "52.60916519",
+    "longitude": "6.67583323",
+    "type": "stoptreinstation",
+    "name_long": "Gramsbergen",
+    "name_middle": "Gramsbergen",
+    "name_short": "Gramsbergn"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 567,
+  "fields": {
+    "code": "GK",
+    "latitude": "53.25574033",
+    "longitude": "6.30977869",
+    "type": "stoptreinstation",
+    "name_long": "Grijpskerk",
+    "name_middle": "Grijpskerk",
+    "name_short": "Grijpskerk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 568,
+  "fields": {
+    "code": "GN",
+    "latitude": "53.21055603",
+    "longitude": "6.56472206",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Groningen",
+    "name_middle": "Groningen",
+    "name_short": "Groningen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 569,
+  "fields": {
+    "code": "GERP",
+    "latitude": "53.20480027",
+    "longitude": "6.58541780",
+    "type": "stoptreinstation",
+    "name_long": "Groningen Europapark",
+    "name_middle": "Europapark",
+    "name_short": "Europapark"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 570,
+  "fields": {
+    "code": "GNN",
+    "latitude": "53.23014690",
+    "longitude": "6.55631720",
+    "type": "stoptreinstation",
+    "name_long": "Groningen Noord",
+    "name_middle": "Groningen Noord",
+    "name_short": "Groning N"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 571,
+  "fields": {
+    "code": "GW",
+    "latitude": "53.08889008",
+    "longitude": "5.82250023",
+    "type": "stoptreinstation",
+    "name_long": "Grou-Jirnsum",
+    "name_middle": "Grou-Jirnsum",
+    "name_short": "Grou-Jirns"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 572,
+  "fields": {
+    "code": "WIJ",
+    "latitude": "50.83305600",
+    "longitude": "5.89805600",
+    "type": "facultatiefStation",
+    "name_long": "Gulpen-Wijlre",
+    "name_middle": "Gulpen-Wijlre",
+    "name_short": "Gulpen-W"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 573,
+  "fields": {
+    "code": "HLM",
+    "latitude": "52.38777924",
+    "longitude": "4.63833332",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Haarlem",
+    "name_middle": "Haarlem",
+    "name_short": "Haarlem"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 574,
+  "fields": {
+    "code": "HLMS",
+    "latitude": "52.38277817",
+    "longitude": "4.67305565",
+    "type": "stoptreinstation",
+    "name_long": "Haarlem Spaarnwoude",
+    "name_middle": "Spaarnwoude",
+    "name_short": "Spaarnwde"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 575,
+  "fields": {
+    "code": "HWZB",
+    "latitude": "52.38593500",
+    "longitude": "4.74716500",
+    "type": "stoptreinstation",
+    "name_long": "Halfweg-Zwanenburg",
+    "name_middle": "Halfweg-Zwanenb.",
+    "name_short": "Halfweg-Zw"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 576,
+  "fields": {
+    "code": "HDB",
+    "latitude": "52.57277679",
+    "longitude": "6.62861109",
+    "type": "sneltreinstation",
+    "name_long": "Hardenberg",
+    "name_middle": "Hardenberg",
+    "name_short": "Hardenberg"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 577,
+  "fields": {
+    "code": "HD",
+    "latitude": "52.33750153",
+    "longitude": "5.61972237",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Harderwijk",
+    "name_middle": "Harderwijk",
+    "name_short": "Harderwijk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 578,
+  "fields": {
+    "code": "HBZM",
+    "latitude": "51.82944000",
+    "longitude": "4.81556000",
+    "type": "stoptreinstation",
+    "name_long": "Hardinxveld Blauwe Zoom",
+    "name_middle": "Blauwe Zoom",
+    "name_short": "Blauwe Z"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 579,
+  "fields": {
+    "code": "GND",
+    "latitude": "51.83055496",
+    "longitude": "4.83583355",
+    "type": "stoptreinstation",
+    "name_long": "Hardinxveld-Giessendam",
+    "name_middle": "Hardinxveld-G.",
+    "name_short": "Hardinxvld"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 580,
+  "fields": {
+    "code": "HRN",
+    "latitude": "53.17610931",
+    "longitude": "6.61722231",
+    "type": "stoptreinstation",
+    "name_long": "Haren",
+    "name_middle": "Haren",
+    "name_short": "Haren"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 581,
+  "fields": {
+    "code": "HLG",
+    "latitude": "53.17042050",
+    "longitude": "5.42519320",
+    "type": "stoptreinstation",
+    "name_long": "Harlingen",
+    "name_middle": "Harlingen",
+    "name_short": "Harlingen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 582,
+  "fields": {
+    "code": "HLGH",
+    "latitude": "53.17491700",
+    "longitude": "5.41128850",
+    "type": "stoptreinstation",
+    "name_long": "Harlingen Haven",
+    "name_middle": "Harlingen Haven",
+    "name_short": "Harl Haven"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 583,
+  "fields": {
+    "code": "HK",
+    "latitude": "52.49527740",
+    "longitude": "4.68694448",
+    "type": "stoptreinstation",
+    "name_long": "Heemskerk",
+    "name_middle": "Heemskerk",
+    "name_short": "Heemskerk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 584,
+  "fields": {
+    "code": "HAD",
+    "latitude": "52.35916519",
+    "longitude": "4.60666656",
+    "type": "intercitystation",
+    "name_long": "Heemstede-Aerdenhout",
+    "name_middle": "Heemstede-A.",
+    "name_short": "Heemstede"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 585,
+  "fields": {
+    "code": "HR",
+    "latitude": "52.96138763",
+    "longitude": "5.91416645",
+    "type": "intercitystation",
+    "name_long": "Heerenveen",
+    "name_middle": "Heerenveen",
+    "name_short": "Heerenveen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 586,
+  "fields": {
+    "code": "HRY",
+    "latitude": "52.93527603",
+    "longitude": "5.94388866",
+    "type": "facultatiefStation",
+    "name_long": "Heerenveen IJsstadion",
+    "name_middle": "IJsstadion",
+    "name_short": "H'veen IJs"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 587,
+  "fields": {
+    "code": "HWD",
+    "latitude": "52.66972351",
+    "longitude": "4.82277775",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Heerhugowaard",
+    "name_middle": "Heerhugowaard",
+    "name_short": "Heerhugow"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 588,
+  "fields": {
+    "code": "HRL",
+    "latitude": "50.89083481",
+    "longitude": "5.97499990",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Heerlen",
+    "name_middle": "Heerlen",
+    "name_short": "Heerlen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 589,
+  "fields": {
+    "code": "HRLK",
+    "latitude": "50.89016893",
+    "longitude": "5.99334240",
+    "type": "stoptreinstation",
+    "name_long": "Heerlen De Kissel",
+    "name_middle": "Hrl De Kissel",
+    "name_short": "De Kissel"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 590,
+  "fields": {
+    "code": "HRLW",
+    "latitude": "50.89666700",
+    "longitude": "5.95222200",
+    "type": "stoptreinstation",
+    "name_long": "Heerlen Woonboulevard",
+    "name_middle": "Hrl Woonblvd",
+    "name_short": "Heerlen W"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 591,
+  "fields": {
+    "code": "HZE",
+    "latitude": "51.38499832",
+    "longitude": "5.56944466",
+    "type": "stoptreinstation",
+    "name_long": "Heeze",
+    "name_middle": "Heeze",
+    "name_short": "Heeze"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 592,
+  "fields": {
+    "code": "HLO",
+    "latitude": "52.59944534",
+    "longitude": "4.70055532",
+    "type": "stoptreinstation",
+    "name_long": "Heiloo",
+    "name_middle": "Heiloo",
+    "name_short": "Heiloo"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 593,
+  "fields": {
+    "code": "HNO",
+    "latitude": "52.42722321",
+    "longitude": "6.22111130",
+    "type": "stoptreinstation",
+    "name_long": "Heino",
+    "name_middle": "Heino",
+    "name_short": "Heino"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 594,
+  "fields": {
+    "code": "HM",
+    "latitude": "51.47555542",
+    "longitude": "5.66194439",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Helmond",
+    "name_middle": "Helmond",
+    "name_short": "Helmond"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 595,
+  "fields": {
+    "code": "HMH",
+    "latitude": "51.46794000",
+    "longitude": "5.63085000",
+    "type": "stoptreinstation",
+    "name_long": "Helmond 't Hout",
+    "name_middle": "Helmond 't Hout",
+    "name_short": "'t Hout"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 596,
+  "fields": {
+    "code": "HMBV",
+    "latitude": "51.46222305",
+    "longitude": "5.60722208",
+    "type": "stoptreinstation",
+    "name_long": "Helmond Brandevoort",
+    "name_middle": "Brandevoort",
+    "name_short": "Brandevrt"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 597,
+  "fields": {
+    "code": "HMBH",
+    "latitude": "51.47068000",
+    "longitude": "5.70177000",
+    "type": "stoptreinstation",
+    "name_long": "Helmond Brouwhuis",
+    "name_middle": "Brouwhuis",
+    "name_short": "Brouwhuis"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 598,
+  "fields": {
+    "code": "HMN",
+    "latitude": "51.92221290",
+    "longitude": "5.67372540",
+    "type": "stoptreinstation",
+    "name_long": "Hemmen-Dodewaard",
+    "name_middle": "Hemmen-Dodewaard",
+    "name_short": "Hemmen-D"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 599,
+  "fields": {
+    "code": "HGL",
+    "latitude": "52.26166534",
+    "longitude": "6.79388905",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Hengelo",
+    "name_middle": "Hengelo",
+    "name_short": "Hengelo"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 600,
+  "fields": {
+    "code": "HGLG",
+    "latitude": "52.26166700",
+    "longitude": "6.77361100",
+    "type": "stoptreinstation",
+    "name_long": "Hengelo Gezondheidspark",
+    "name_middle": "Hengelo Gezondh.",
+    "name_short": "Hengelo G"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 601,
+  "fields": {
+    "code": "HGLO",
+    "latitude": "52.26889038",
+    "longitude": "6.81944466",
+    "type": "stoptreinstation",
+    "name_long": "Hengelo Oost",
+    "name_middle": "Hengelo Oost",
+    "name_short": "Hengelo O"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 602,
+  "fields": {
+    "code": "HIL",
+    "latitude": "52.30250168",
+    "longitude": "4.56555557",
+    "type": "stoptreinstation",
+    "name_long": "Hillegom",
+    "name_middle": "Hillegom",
+    "name_short": "Hillegom"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 603,
+  "fields": {
+    "code": "HVS",
+    "latitude": "52.22583389",
+    "longitude": "5.18194437",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Hilversum",
+    "name_middle": "Hilversum",
+    "name_short": "Hilversum"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 604,
+  "fields": {
+    "code": "HVSM",
+    "latitude": "52.23805618",
+    "longitude": "5.17388868",
+    "type": "stoptreinstation",
+    "name_long": "Hilversum Media Park",
+    "name_middle": "Media Park",
+    "name_short": "Media Park"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 605,
+  "fields": {
+    "code": "HVSP",
+    "latitude": "52.21611023",
+    "longitude": "5.18722200",
+    "type": "stoptreinstation",
+    "name_long": "Hilversum Sportpark",
+    "name_middle": "Sportpark",
+    "name_short": "Sportpark"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 606,
+  "fields": {
+    "code": "HNP",
+    "latitude": "52.94649030",
+    "longitude": "5.42306300",
+    "type": "stoptreinstation",
+    "name_long": "Hindeloopen",
+    "name_middle": "Hindeloopen",
+    "name_short": "Hindeloopn"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 607,
+  "fields": {
+    "code": "HLD",
+    "latitude": "51.97527695",
+    "longitude": "4.12888908",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Hoek van Holland Haven",
+    "name_middle": "Hoek v H. Haven",
+    "name_short": "HvH Haven"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 608,
+  "fields": {
+    "code": "HLDS",
+    "latitude": "51.98166656",
+    "longitude": "4.11972237",
+    "type": "stoptreinstation",
+    "name_long": "Hoek van Holland Strand",
+    "name_middle": "Hoek v H. Strand",
+    "name_short": "HvH Strand"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 609,
+  "fields": {
+    "code": "HB",
+    "latitude": "50.90555573",
+    "longitude": "5.93055534",
+    "type": "stoptreinstation",
+    "name_long": "Hoensbroek",
+    "name_middle": "Hoensbroek",
+    "name_short": "Hoensbroek"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 610,
+  "fields": {
+    "code": "HVL",
+    "latitude": "52.16652000",
+    "longitude": "5.45718000",
+    "type": "stoptreinstation",
+    "name_long": "Hoevelaken",
+    "name_middle": "Hoevelaken",
+    "name_short": "Hoevelaken"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 611,
+  "fields": {
+    "code": "HOR",
+    "latitude": "52.17777634",
+    "longitude": "5.17916679",
+    "type": "stoptreinstation",
+    "name_long": "Hollandsche Rading",
+    "name_middle": "Holl. Rading",
+    "name_short": "Hol Rading"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 612,
+  "fields": {
+    "code": "HON",
+    "latitude": "52.28388977",
+    "longitude": "6.42027760",
+    "type": "stoptreinstation",
+    "name_long": "Holten",
+    "name_middle": "Holten",
+    "name_short": "Holten"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 613,
+  "fields": {
+    "code": "HFD",
+    "latitude": "52.29333496",
+    "longitude": "4.70055532",
+    "type": "stoptreinstation",
+    "name_long": "Hoofddorp",
+    "name_middle": "Hoofddorp",
+    "name_short": "Hoofddorp"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 614,
+  "fields": {
+    "code": "HGV",
+    "latitude": "52.73389053",
+    "longitude": "6.47361088",
+    "type": "stoptreinstation",
+    "name_long": "Hoogeveen",
+    "name_middle": "Hoogeveen",
+    "name_short": "Hoogeveen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 615,
+  "fields": {
+    "code": "HGZ",
+    "latitude": "53.15981813",
+    "longitude": "6.77075386",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Hoogezand-Sappemeer",
+    "name_middle": "Hoogezand-Sap.",
+    "name_short": "Hoogezand"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 616,
+  "fields": {
+    "code": "HKS",
+    "latitude": "52.69055557",
+    "longitude": "5.18388891",
+    "type": "stoptreinstation",
+    "name_long": "Hoogkarspel",
+    "name_middle": "Hoogkarspel",
+    "name_short": "Hoogkrspl"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 617,
+  "fields": {
+    "code": "HN",
+    "latitude": "52.64472198",
+    "longitude": "5.05555534",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Hoorn",
+    "name_middle": "Hoorn",
+    "name_short": "Hoorn"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 618,
+  "fields": {
+    "code": "HNK",
+    "latitude": "52.65361023",
+    "longitude": "5.08555555",
+    "type": "stoptreinstation",
+    "name_long": "Hoorn Kersenboogerd",
+    "name_middle": "Kersenboogerd",
+    "name_short": "Hoorn Kers"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 619,
+  "fields": {
+    "code": "HRT",
+    "latitude": "51.42638779",
+    "longitude": "6.04222202",
+    "type": "stoptreinstation",
+    "name_long": "Horst-Sevenum",
+    "name_middle": "Horst-Sevenum",
+    "name_short": "Horst-Sev"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 620,
+  "fields": {
+    "code": "HTN",
+    "latitude": "52.03402000",
+    "longitude": "5.16821000",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Houten",
+    "name_middle": "Houten",
+    "name_short": "Houten"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 621,
+  "fields": {
+    "code": "HTNC",
+    "latitude": "52.01701000",
+    "longitude": "5.17949000",
+    "type": "stoptreinstation",
+    "name_long": "Houten Castellum",
+    "name_middle": "Castellum",
+    "name_short": "Houten C"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 622,
+  "fields": {
+    "code": "SGL",
+    "latitude": "50.87333298",
+    "longitude": "5.79722214",
+    "type": "stoptreinstation",
+    "name_long": "Houthem-St Gerlach",
+    "name_middle": "Houthem-St Gerl.",
+    "name_short": "Houthem-St"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 623,
+  "fields": {
+    "code": "HDG",
+    "latitude": "53.21877830",
+    "longitude": "5.93454300",
+    "type": "stoptreinstation",
+    "name_long": "Hurdegaryp",
+    "name_middle": "Hurdegaryp",
+    "name_short": "Hurdegaryp"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 624,
+  "fields": {
+    "code": "IJT",
+    "latitude": "53.01466140",
+    "longitude": "5.61608010",
+    "type": "stoptreinstation",
+    "name_long": "IJlst",
+    "name_middle": "IJlst",
+    "name_short": "IJlst"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 625,
+  "fields": {
+    "code": "KPN",
+    "latitude": "52.55972290",
+    "longitude": "5.92166662",
+    "type": "stoptreinstation",
+    "name_long": "Kampen",
+    "name_middle": "Kampen",
+    "name_short": "Kampen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 626,
+  "fields": {
+    "code": "KPNZ",
+    "latitude": "52.53310000",
+    "longitude": "5.91309000",
+    "type": "stoptreinstation",
+    "name_long": "Kampen Zuid",
+    "name_middle": "Kampen Zuid",
+    "name_short": "Kampen Z"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 627,
+  "fields": {
+    "code": "BZL",
+    "latitude": "51.48083496",
+    "longitude": "3.95611119",
+    "type": "stoptreinstation",
+    "name_long": "Kapelle-Biezelinge",
+    "name_middle": "Kapelle-Biezel.",
+    "name_short": "Kapelle-B"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 628,
+  "fields": {
+    "code": "KRD",
+    "latitude": "50.86166763",
+    "longitude": "6.05749989",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Kerkrade Centrum",
+    "name_middle": "Kerkrade C.",
+    "name_short": "Kerkrade"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 629,
+  "fields": {
+    "code": "KRW",
+    "latitude": "50.85355000",
+    "longitude": "6.02578000",
+    "type": "facultatiefStation",
+    "name_long": "Kerkrade West",
+    "name_middle": "Kerkrade West",
+    "name_short": "Kerkrade W"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 630,
+  "fields": {
+    "code": "KTR",
+    "latitude": "51.93138690",
+    "longitude": "5.58334650",
+    "type": "stoptreinstation",
+    "name_long": "Kesteren",
+    "name_middle": "Kesteren",
+    "name_short": "Kesteren"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 631,
+  "fields": {
+    "code": "KBK",
+    "latitude": "52.17805481",
+    "longitude": "6.08361101",
+    "type": "stoptreinstation",
+    "name_long": "Klarenbeek",
+    "name_middle": "Klarenbeek",
+    "name_short": "Klarenbk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 632,
+  "fields": {
+    "code": "KMR",
+    "latitude": "50.86639023",
+    "longitude": "5.89055538",
+    "type": "stoptreinstation",
+    "name_long": "Klimmen-Ransdaal",
+    "name_middle": "Klimmen-Ransdaal",
+    "name_short": "Klimmen-R"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 633,
+  "fields": {
+    "code": "KBW",
+    "latitude": "52.45861053",
+    "longitude": "4.80555534",
+    "type": "stoptreinstation",
+    "name_long": "Koog Bloemwijk",
+    "name_middle": "Koog Bloemwijk",
+    "name_short": "Koog Bloem"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 634,
+  "fields": {
+    "code": "KZD",
+    "latitude": "52.46916580",
+    "longitude": "4.80499983",
+    "type": "stoptreinstation",
+    "name_long": "Koog-Zaandijk",
+    "name_middle": "Koog-Zaandijk",
+    "name_short": "Koog Zaand"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 635,
+  "fields": {
+    "code": "KMW",
+    "latitude": "52.90281970",
+    "longitude": "5.41069130",
+    "type": "stoptreinstation",
+    "name_long": "Koudum-Molkwerum",
+    "name_middle": "Koudum-Molkwerum",
+    "name_short": "Koudum-M"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 636,
+  "fields": {
+    "code": "KBD",
+    "latitude": "51.43333435",
+    "longitude": "4.11694431",
+    "type": "stoptreinstation",
+    "name_long": "Krabbendijke",
+    "name_middle": "Krabbendijke",
+    "name_short": "Krabbendke"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 637,
+  "fields": {
+    "code": "KMA",
+    "latitude": "52.49511000",
+    "longitude": "4.75417000",
+    "type": "stoptreinstation",
+    "name_long": "Krommenie-Assendelft",
+    "name_middle": "Krommenie-Ass.",
+    "name_short": "Krommenie"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 638,
+  "fields": {
+    "code": "KW",
+    "latitude": "53.16173620",
+    "longitude": "6.72208820",
+    "type": "stoptreinstation",
+    "name_long": "Kropswolde",
+    "name_middle": "Kropswolde",
+    "name_short": "Kropswolde"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 639,
+  "fields": {
+    "code": "KRG",
+    "latitude": "51.46500015",
+    "longitude": "4.03722239",
+    "type": "stoptreinstation",
+    "name_long": "Kruiningen-Yerseke",
+    "name_middle": "Kruiningen-Y.",
+    "name_short": "Kruiningen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 640,
+  "fields": {
+    "code": "ZLW",
+    "latitude": "51.69111252",
+    "longitude": "4.66305542",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Lage Zwaluwe",
+    "name_middle": "Lage Zwaluwe",
+    "name_short": "Lage Zwalu"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 641,
+  "fields": {
+    "code": "LG",
+    "latitude": "50.89638901",
+    "longitude": "6.01916647",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Landgraaf",
+    "name_middle": "Landgraaf",
+    "name_short": "Landgraaf"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 642,
+  "fields": {
+    "code": "LDM",
+    "latitude": "51.89472198",
+    "longitude": "5.09138870",
+    "type": "stoptreinstation",
+    "name_long": "Leerdam",
+    "name_middle": "Leerdam",
+    "name_short": "Leerdam"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 643,
+  "fields": {
+    "code": "LW",
+    "latitude": "53.19583511",
+    "longitude": "5.79222202",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Leeuwarden",
+    "name_middle": "Leeuwarden",
+    "name_short": "Leeuwarden"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 644,
+  "fields": {
+    "code": "ADH",
+    "latitude": "53.19889000",
+    "longitude": "5.81639000",
+    "type": "facultatiefStation",
+    "name_long": "Leeuwarden Achter d Hoven",
+    "name_middle": "Achter de Hoven",
+    "name_short": "Achter d.H"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 645,
+  "fields": {
+    "code": "LWC",
+    "latitude": "53.20218080",
+    "longitude": "5.84229680",
+    "type": "stoptreinstation",
+    "name_long": "Leeuwarden Camminghaburen",
+    "name_middle": "Camminghaburen",
+    "name_short": "Camminghab"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 646,
+  "fields": {
+    "code": "LEDN",
+    "latitude": "52.16611099",
+    "longitude": "4.48166656",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Leiden Centraal",
+    "name_middle": "Leiden C.",
+    "name_short": "Leiden C"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 647,
+  "fields": {
+    "code": "LDL",
+    "latitude": "52.14694595",
+    "longitude": "4.49249983",
+    "type": "stoptreinstation",
+    "name_long": "Leiden Lammenschans",
+    "name_middle": "Lammenschans",
+    "name_short": "Leiden Lam"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 648,
+  "fields": {
+    "code": "LLS",
+    "latitude": "52.50777817",
+    "longitude": "5.47277784",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Lelystad Centrum",
+    "name_middle": "Lelystad C.",
+    "name_short": "Lelystad"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 649,
+  "fields": {
+    "code": "LTV",
+    "latitude": "52.01188000",
+    "longitude": "6.59641000",
+    "type": "stoptreinstation",
+    "name_long": "Lichtenvoorde-Groenlo",
+    "name_middle": "Lichtenvoorde-G.",
+    "name_short": "Lichtenv-G"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 650,
+  "fields": {
+    "code": "LC",
+    "latitude": "52.16666794",
+    "longitude": "6.42638874",
+    "type": "stoptreinstation",
+    "name_long": "Lochem",
+    "name_middle": "Lochem",
+    "name_short": "Lochem"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 651,
+  "fields": {
+    "code": "LP",
+    "latitude": "53.33471450",
+    "longitude": "6.74726250",
+    "type": "stoptreinstation",
+    "name_long": "Loppersum",
+    "name_middle": "Loppersum",
+    "name_short": "Loppersum"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 652,
+  "fields": {
+    "code": "LTN",
+    "latitude": "52.08527756",
+    "longitude": "5.62444448",
+    "type": "stoptreinstation",
+    "name_long": "Lunteren",
+    "name_middle": "Lunteren",
+    "name_short": "Lunteren"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 653,
+  "fields": {
+    "code": "MZ",
+    "latitude": "51.30376236",
+    "longitude": "5.63034296",
+    "type": "stoptreinstation",
+    "name_long": "Maarheeze",
+    "name_middle": "Maarheeze",
+    "name_short": "Maarheeze"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 654,
+  "fields": {
+    "code": "MRN",
+    "latitude": "52.06416702",
+    "longitude": "5.36999989",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Maarn",
+    "name_middle": "Maarn",
+    "name_short": "Maarn"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 655,
+  "fields": {
+    "code": "MAS",
+    "latitude": "52.13527679",
+    "longitude": "5.03361130",
+    "type": "stoptreinstation",
+    "name_long": "Maarssen",
+    "name_middle": "Maarssen",
+    "name_short": "Maarssen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 656,
+  "fields": {
+    "code": "MSS",
+    "latitude": "51.91611099",
+    "longitude": "4.25472212",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Maassluis",
+    "name_middle": "Maassluis",
+    "name_short": "Maassluis"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 657,
+  "fields": {
+    "code": "MSW",
+    "latitude": "51.92583466",
+    "longitude": "4.23611116",
+    "type": "stoptreinstation",
+    "name_long": "Maassluis West",
+    "name_middle": "Maassluis West",
+    "name_short": "Maassl W"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 658,
+  "fields": {
+    "code": "MT",
+    "latitude": "50.85027695",
+    "longitude": "5.70555544",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Maastricht",
+    "name_middle": "Maastricht",
+    "name_short": "Maastricht"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 659,
+  "fields": {
+    "code": "MTN",
+    "latitude": "50.87087000",
+    "longitude": "5.71774000",
+    "type": "stoptreinstation",
+    "name_long": "Maastricht Noord",
+    "name_middle": "Maastricht Noord",
+    "name_short": "Maastr N"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 660,
+  "fields": {
+    "code": "MTR",
+    "latitude": "50.83861160",
+    "longitude": "5.71722221",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Maastricht Randwyck",
+    "name_middle": "Maastricht Randw",
+    "name_short": "Maastr Rw"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 661,
+  "fields": {
+    "code": "MG",
+    "latitude": "53.12963680",
+    "longitude": "5.71319960",
+    "type": "stoptreinstation",
+    "name_long": "Mantgum",
+    "name_middle": "Mantgum",
+    "name_short": "Mantgum"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 662,
+  "fields": {
+    "code": "MRB",
+    "latitude": "52.50944519",
+    "longitude": "6.57527781",
+    "type": "knooppuntSneltreinstation",
+    "name_long": "Mari\u00ebnberg",
+    "name_middle": "Mari\u00ebnberg",
+    "name_short": "Mari\u00ebnberg"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 663,
+  "fields": {
+    "code": "MTH",
+    "latitude": "53.16072320",
+    "longitude": "6.74029890",
+    "type": "stoptreinstation",
+    "name_long": "Martenshoek",
+    "name_middle": "Martenshoek",
+    "name_short": "Martensh"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 664,
+  "fields": {
+    "code": "MES",
+    "latitude": "50.88287939",
+    "longitude": "5.75099945",
+    "type": "sneltreinstation",
+    "name_long": "Meerssen",
+    "name_middle": "Meerssen",
+    "name_short": "Meerssen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 665,
+  "fields": {
+    "code": "MP",
+    "latitude": "52.69083405",
+    "longitude": "6.19750023",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Meppel",
+    "name_middle": "Meppel",
+    "name_short": "Meppel"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 666,
+  "fields": {
+    "code": "MDB",
+    "latitude": "51.49472046",
+    "longitude": "3.61722231",
+    "type": "stoptreinstation",
+    "name_long": "Middelburg",
+    "name_middle": "Middelburg",
+    "name_short": "Middelburg"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 667,
+  "fields": {
+    "code": "MMLH",
+    "latitude": "51.77158000",
+    "longitude": "5.88145000",
+    "type": "stoptreinstation",
+    "name_long": "Mook Molenhoek",
+    "name_middle": "Molenhoek",
+    "name_short": "Mook Molen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 668,
+  "fields": {
+    "code": "NDB",
+    "latitude": "52.28027725",
+    "longitude": "5.15694427",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Naarden-Bussum",
+    "name_middle": "Naarden-Bussum",
+    "name_short": "Naarden-B"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 669,
+  "fields": {
+    "code": "NA",
+    "latitude": "52.71861267",
+    "longitude": "6.84861088",
+    "type": "sneltreinstation",
+    "name_long": "Nieuw Amsterdam",
+    "name_middle": "Nieuw Amsterdam",
+    "name_short": "Nw A'dam"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 670,
+  "fields": {
+    "code": "NVP",
+    "latitude": "52.25888824",
+    "longitude": "4.64555550",
+    "type": "stoptreinstation",
+    "name_long": "Nieuw Vennep",
+    "name_middle": "Nieuw Vennep",
+    "name_short": "Nw Vennep"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 671,
+  "fields": {
+    "code": "NWK",
+    "latitude": "51.96527863",
+    "longitude": "4.61694431",
+    "type": "stoptreinstation",
+    "name_long": "Nieuwerkerk a/d IJssel",
+    "name_middle": "Nieuwerkerk",
+    "name_short": "Nieuwerkrk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 672,
+  "fields": {
+    "code": "NKK",
+    "latitude": "52.22222137",
+    "longitude": "5.49388885",
+    "type": "stoptreinstation",
+    "name_long": "Nijkerk",
+    "name_middle": "Nijkerk",
+    "name_short": "Nijkerk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 673,
+  "fields": {
+    "code": "NM",
+    "latitude": "51.84361267",
+    "longitude": "5.85222244",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Nijmegen",
+    "name_middle": "Nijmegen",
+    "name_short": "Nijmegen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 674,
+  "fields": {
+    "code": "NMD",
+    "latitude": "51.82416534",
+    "longitude": "5.79555559",
+    "type": "stoptreinstation",
+    "name_long": "Nijmegen Dukenburg",
+    "name_middle": "Dukenburg",
+    "name_short": "Dukenburg"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 675,
+  "fields": {
+    "code": "NMGO",
+    "latitude": "51.82730000",
+    "longitude": "5.82272200",
+    "type": "stoptreinstation",
+    "name_long": "Nijmegen Goffert",
+    "name_middle": "Nijmegen Goffert",
+    "name_short": "Goffert"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 676,
+  "fields": {
+    "code": "NMH",
+    "latitude": "51.82694626",
+    "longitude": "5.86749983",
+    "type": "stoptreinstation",
+    "name_long": "Nijmegen Heyendaal",
+    "name_middle": "Nm Heyendaal",
+    "name_short": "Heyendaal"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 677,
+  "fields": {
+    "code": "NML",
+    "latitude": "51.86181100",
+    "longitude": "5.85968600",
+    "type": "stoptreinstation",
+    "name_long": "Nijmegen Lent",
+    "name_middle": "Nijmegen Lent",
+    "name_short": "Lent"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 678,
+  "fields": {
+    "code": "NVD",
+    "latitude": "52.36555000",
+    "longitude": "6.47111100",
+    "type": "stoptreinstation",
+    "name_long": "Nijverdal",
+    "name_middle": "Nijverdal",
+    "name_short": "Nijverdal"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 679,
+  "fields": {
+    "code": "NS",
+    "latitude": "52.37083435",
+    "longitude": "5.78527784",
+    "type": "stoptreinstation",
+    "name_long": "Nunspeet",
+    "name_middle": "Nunspeet",
+    "name_short": "Nunspeet"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 680,
+  "fields": {
+    "code": "NH",
+    "latitude": "50.91944504",
+    "longitude": "5.89277792",
+    "type": "stoptreinstation",
+    "name_long": "Nuth",
+    "name_middle": "Nuth",
+    "name_short": "Nuth"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 681,
+  "fields": {
+    "code": "OBD",
+    "latitude": "52.67805481",
+    "longitude": "4.90722227",
+    "type": "stoptreinstation",
+    "name_long": "Obdam",
+    "name_middle": "Obdam",
+    "name_short": "Obdam"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 682,
+  "fields": {
+    "code": "OT",
+    "latitude": "51.58222198",
+    "longitude": "5.19416666",
+    "type": "stoptreinstation",
+    "name_long": "Oisterwijk",
+    "name_middle": "Oisterwijk",
+    "name_short": "Oisterwijk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 683,
+  "fields": {
+    "code": "ODZ",
+    "latitude": "52.30638885",
+    "longitude": "6.93472242",
+    "type": "stoptreinstation",
+    "name_long": "Oldenzaal",
+    "name_middle": "Oldenzaal",
+    "name_short": "Oldenzaal"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 684,
+  "fields": {
+    "code": "OST",
+    "latitude": "52.33472061",
+    "longitude": "6.11305571",
+    "type": "stoptreinstation",
+    "name_long": "Olst",
+    "name_middle": "Olst",
+    "name_short": "Olst"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 685,
+  "fields": {
+    "code": "OMN",
+    "latitude": "52.50944519",
+    "longitude": "6.41583347",
+    "type": "knooppuntSneltreinstation",
+    "name_long": "Ommen",
+    "name_middle": "Ommen",
+    "name_short": "Ommen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 686,
+  "fields": {
+    "code": "OTB",
+    "latitude": "51.99499893",
+    "longitude": "5.84000015",
+    "type": "stoptreinstation",
+    "name_long": "Oosterbeek",
+    "name_middle": "Oosterbeek",
+    "name_short": "Oosterbeek"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 687,
+  "fields": {
+    "code": "OP",
+    "latitude": "51.92616150",
+    "longitude": "5.63711450",
+    "type": "stoptreinstation",
+    "name_long": "Opheusden",
+    "name_middle": "Opheusden",
+    "name_short": "Opheusden"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 688,
+  "fields": {
+    "code": "O",
+    "latitude": "51.76555634",
+    "longitude": "5.53222227",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Oss",
+    "name_middle": "Oss",
+    "name_short": "Oss"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 689,
+  "fields": {
+    "code": "OW",
+    "latitude": "51.75805664",
+    "longitude": "5.50555563",
+    "type": "stoptreinstation",
+    "name_long": "Oss West",
+    "name_middle": "Oss West",
+    "name_short": "Oss W"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 690,
+  "fields": {
+    "code": "ODB",
+    "latitude": "51.58777618",
+    "longitude": "4.53333330",
+    "type": "stoptreinstation",
+    "name_long": "Oudenbosch",
+    "name_middle": "Oudenbosch",
+    "name_short": "Oudenbosch"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 691,
+  "fields": {
+    "code": "OVN",
+    "latitude": "52.39110947",
+    "longitude": "4.60611105",
+    "type": "stoptreinstation",
+    "name_long": "Overveen",
+    "name_middle": "Overveen",
+    "name_short": "Overveen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 692,
+  "fields": {
+    "code": "PMR",
+    "latitude": "52.50305557",
+    "longitude": "4.95361090",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Purmerend",
+    "name_middle": "Purmerend",
+    "name_short": "Purmerend"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 693,
+  "fields": {
+    "code": "PMO",
+    "latitude": "52.51139069",
+    "longitude": "4.96833324",
+    "type": "stoptreinstation",
+    "name_long": "Purmerend Overwhere",
+    "name_middle": "Overwhere",
+    "name_short": "Overwhere"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 694,
+  "fields": {
+    "code": "PMW",
+    "latitude": "52.49659063",
+    "longitude": "4.93562937",
+    "type": "stoptreinstation",
+    "name_long": "Purmerend Weidevenne",
+    "name_middle": "Weidevenne",
+    "name_short": "Weidevenne"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 695,
+  "fields": {
+    "code": "PT",
+    "latitude": "52.26499939",
+    "longitude": "5.57527781",
+    "type": "stoptreinstation",
+    "name_long": "Putten",
+    "name_middle": "Putten",
+    "name_short": "Putten"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 696,
+  "fields": {
+    "code": "RAT",
+    "latitude": "52.39166641",
+    "longitude": "6.27750015",
+    "type": "stoptreinstation",
+    "name_long": "Raalte",
+    "name_middle": "Raalte",
+    "name_short": "Raalte"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 697,
+  "fields": {
+    "code": "RVS",
+    "latitude": "51.79416656",
+    "longitude": "5.63583326",
+    "type": "stoptreinstation",
+    "name_long": "Ravenstein",
+    "name_middle": "Ravenstein",
+    "name_short": "Ravenstein"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 698,
+  "fields": {
+    "code": "RV",
+    "latitude": "51.28321917",
+    "longitude": "6.07895851",
+    "type": "stoptreinstation",
+    "name_long": "Reuver",
+    "name_middle": "Reuver",
+    "name_short": "Reuver"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 699,
+  "fields": {
+    "code": "RH",
+    "latitude": "52.00999832",
+    "longitude": "6.03055573",
+    "type": "stoptreinstation",
+    "name_long": "Rheden",
+    "name_middle": "Rheden",
+    "name_short": "Rheden"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 700,
+  "fields": {
+    "code": "RHN",
+    "latitude": "51.95861053",
+    "longitude": "5.57833338",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Rhenen",
+    "name_middle": "Rhenen",
+    "name_short": "Rhenen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 701,
+  "fields": {
+    "code": "RSN",
+    "latitude": "52.31222153",
+    "longitude": "6.52027798",
+    "type": "stoptreinstation",
+    "name_long": "Rijssen",
+    "name_middle": "Rijssen",
+    "name_short": "Rijssen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 702,
+  "fields": {
+    "code": "RSW",
+    "latitude": "52.03972244",
+    "longitude": "4.31916666",
+    "type": "stoptreinstation",
+    "name_long": "Rijswijk",
+    "name_middle": "Rijswijk",
+    "name_short": "Rijswijk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 703,
+  "fields": {
+    "code": "RB",
+    "latitude": "51.42277908",
+    "longitude": "4.16111088",
+    "type": "stoptreinstation",
+    "name_long": "Rilland-Bath",
+    "name_middle": "Rilland-Bath",
+    "name_short": "Rilland-B"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 704,
+  "fields": {
+    "code": "RM",
+    "latitude": "51.19305420",
+    "longitude": "5.99416685",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Roermond",
+    "name_middle": "Roermond",
+    "name_short": "Roermond"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 705,
+  "fields": {
+    "code": "RD",
+    "latitude": "53.41921280",
+    "longitude": "6.76061670",
+    "type": "stoptreinstation",
+    "name_long": "Roodeschool",
+    "name_middle": "Roodeschool",
+    "name_short": "Roodesch"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 706,
+  "fields": {
+    "code": "RSD",
+    "latitude": "51.54027939",
+    "longitude": "4.45833349",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Roosendaal",
+    "name_middle": "Roosendaal",
+    "name_short": "Roosendaal"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 707,
+  "fields": {
+    "code": "RS",
+    "latitude": "51.71472168",
+    "longitude": "5.36805534",
+    "type": "stoptreinstation",
+    "name_long": "Rosmalen",
+    "name_middle": "Rosmalen",
+    "name_short": "Rosmalen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 708,
+  "fields": {
+    "code": "RTA",
+    "latitude": "51.95194626",
+    "longitude": "4.55361128",
+    "type": "intercitystation",
+    "name_long": "Rotterdam Alexander",
+    "name_middle": "Alexander",
+    "name_short": "Alexander"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 709,
+  "fields": {
+    "code": "RTB",
+    "latitude": "51.92027664",
+    "longitude": "4.48888874",
+    "type": "intercitystation",
+    "name_long": "Rotterdam Blaak",
+    "name_middle": "Rotterdam Blaak",
+    "name_short": "Blaak"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 710,
+  "fields": {
+    "code": "RTD",
+    "latitude": "51.92499924",
+    "longitude": "4.46888876",
+    "type": "megastation",
+    "name_long": "Rotterdam Centraal",
+    "name_middle": "Rotterdam C.",
+    "name_short": "R'dam C"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 711,
+  "fields": {
+    "code": "RLB",
+    "latitude": "51.88000107",
+    "longitude": "4.53138876",
+    "type": "stoptreinstation",
+    "name_long": "Rotterdam Lombardijen",
+    "name_middle": "Lombardijen",
+    "name_short": "Lombardije"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 712,
+  "fields": {
+    "code": "RTN",
+    "latitude": "51.94222260",
+    "longitude": "4.48166656",
+    "type": "stoptreinstation",
+    "name_long": "Rotterdam Noord",
+    "name_middle": "Rotterdam Noord",
+    "name_short": "R'dam N"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 713,
+  "fields": {
+    "code": "RTST",
+    "latitude": "51.89389038",
+    "longitude": "4.51972198",
+    "type": "facultatiefStation",
+    "name_long": "Rotterdam Stadion",
+    "name_middle": "R'dam Stadion",
+    "name_short": "R'dam Sta"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 714,
+  "fields": {
+    "code": "RTZ",
+    "latitude": "51.90444565",
+    "longitude": "4.51027775",
+    "type": "stoptreinstation",
+    "name_long": "Rotterdam Zuid",
+    "name_middle": "Rotterdam Zuid",
+    "name_short": "R'dam Z"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 715,
+  "fields": {
+    "code": "RL",
+    "latitude": "52.08108880",
+    "longitude": "6.44926560",
+    "type": "stoptreinstation",
+    "name_long": "Ruurlo",
+    "name_middle": "Ruurlo",
+    "name_short": "Ruurlo"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 716,
+  "fields": {
+    "code": "SPTN",
+    "latitude": "52.43388748",
+    "longitude": "4.63250017",
+    "type": "stoptreinstation",
+    "name_long": "Santpoort Noord",
+    "name_middle": "Santpoort Noord",
+    "name_short": "Santprt N"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 717,
+  "fields": {
+    "code": "SPTZ",
+    "latitude": "52.41972351",
+    "longitude": "4.63138866",
+    "type": "stoptreinstation",
+    "name_long": "Santpoort Zuid",
+    "name_middle": "Santpoort Zuid",
+    "name_short": "Santprt Z"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 718,
+  "fields": {
+    "code": "SPM",
+    "latitude": "53.15891830",
+    "longitude": "6.79556480",
+    "type": "stoptreinstation",
+    "name_long": "Sappemeer Oost",
+    "name_middle": "Sappemeer Oost",
+    "name_short": "Sappemr O"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 719,
+  "fields": {
+    "code": "SSH",
+    "latitude": "52.21527800",
+    "longitude": "4.51722200",
+    "type": "stoptreinstation",
+    "name_long": "Sassenheim",
+    "name_middle": "Sassenheim",
+    "name_short": "Sassenheim"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 720,
+  "fields": {
+    "code": "SWD",
+    "latitude": "53.29113000",
+    "longitude": "6.54040000",
+    "type": "stoptreinstation",
+    "name_long": "Sauwerd",
+    "name_middle": "Sauwerd",
+    "name_short": "Sauwerd"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 721,
+  "fields": {
+    "code": "SGN",
+    "latitude": "52.78444290",
+    "longitude": "4.80527782",
+    "type": "stoptreinstation",
+    "name_long": "Schagen",
+    "name_middle": "Schagen",
+    "name_short": "Schagen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 722,
+  "fields": {
+    "code": "SDA",
+    "latitude": "53.16553620",
+    "longitude": "6.97777750",
+    "type": "stoptreinstation",
+    "name_long": "Scheemda",
+    "name_middle": "Scheemda",
+    "name_short": "Scheemda"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 723,
+  "fields": {
+    "code": "SDM",
+    "latitude": "51.92124381",
+    "longitude": "4.40899372",
+    "type": "intercitystation",
+    "name_long": "Schiedam Centrum",
+    "name_middle": "Schiedam C.",
+    "name_short": "Schiedam C"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 724,
+  "fields": {
+    "code": "NWL",
+    "latitude": "51.92222214",
+    "longitude": "4.38222218",
+    "type": "stoptreinstation",
+    "name_long": "Schiedam Nieuwland",
+    "name_middle": "Nieuwland",
+    "name_short": "Nieuwland"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 725,
+  "fields": {
+    "code": "SOG",
+    "latitude": "50.85638809",
+    "longitude": "5.87222242",
+    "type": "stoptreinstation",
+    "name_long": "Schin op Geul",
+    "name_middle": "Schin op Geul",
+    "name_short": "Schin op G"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 726,
+  "fields": {
+    "code": "SN",
+    "latitude": "50.93916702",
+    "longitude": "5.87444448",
+    "type": "stoptreinstation",
+    "name_long": "Schinnen",
+    "name_middle": "Schinnen",
+    "name_short": "Schinnen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 727,
+  "fields": {
+    "code": "SHL",
+    "latitude": "52.30944443",
+    "longitude": "4.76194429",
+    "type": "megastation",
+    "name_long": "Schiphol Airport",
+    "name_middle": "Schiphol Airport",
+    "name_short": "Schiphol"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 728,
+  "fields": {
+    "code": "SPV",
+    "latitude": "50.83147507",
+    "longitude": "5.97973824",
+    "type": "facultatiefStation",
+    "name_long": "Simpelveld",
+    "name_middle": "Simpelveld",
+    "name_short": "Simpelveld"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 729,
+  "fields": {
+    "code": "STD",
+    "latitude": "51.00166702",
+    "longitude": "5.85861111",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Sittard",
+    "name_middle": "Sittard",
+    "name_short": "Sittard"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 730,
+  "fields": {
+    "code": "SDT",
+    "latitude": "51.82972336",
+    "longitude": "4.77833319",
+    "type": "stoptreinstation",
+    "name_long": "Sliedrecht",
+    "name_middle": "Sliedrecht",
+    "name_short": "Sliedrecht"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 731,
+  "fields": {
+    "code": "SDTB",
+    "latitude": "51.82972200",
+    "longitude": "4.74333300",
+    "type": "stoptreinstation",
+    "name_long": "Sliedrecht Baanhoek",
+    "name_middle": "Baanhoek",
+    "name_short": "Baanhoek"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 732,
+  "fields": {
+    "code": "SK",
+    "latitude": "53.03286880",
+    "longitude": "5.65239690",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Sneek",
+    "name_middle": "Sneek",
+    "name_short": "Sneek"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 733,
+  "fields": {
+    "code": "SKND",
+    "latitude": "53.04093190",
+    "longitude": "5.66318080",
+    "type": "stoptreinstation",
+    "name_long": "Sneek Noord",
+    "name_middle": "Sneek Noord",
+    "name_short": "Sneek N"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 734,
+  "fields": {
+    "code": "ST",
+    "latitude": "52.17333221",
+    "longitude": "5.30999994",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Soest",
+    "name_middle": "Soest",
+    "name_short": "Soest"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 735,
+  "fields": {
+    "code": "STZ",
+    "latitude": "52.16527939",
+    "longitude": "5.30305576",
+    "type": "stoptreinstation",
+    "name_long": "Soest Zuid",
+    "name_middle": "Soest Zuid",
+    "name_short": "Soest Z"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 736,
+  "fields": {
+    "code": "SD",
+    "latitude": "52.18361282",
+    "longitude": "5.30000019",
+    "type": "stoptreinstation",
+    "name_long": "Soestdijk",
+    "name_middle": "Soestdijk",
+    "name_short": "Soestdijk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 737,
+  "fields": {
+    "code": "SBK",
+    "latitude": "50.94305420",
+    "longitude": "5.85166645",
+    "type": "stoptreinstation",
+    "name_long": "Spaubeek",
+    "name_middle": "Spaubeek",
+    "name_short": "Spaubeek"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 738,
+  "fields": {
+    "code": "SPH",
+    "latitude": "50.85355000",
+    "longitude": "6.02578000",
+    "type": "facultatiefStation",
+    "name_long": "Spekholzerheide",
+    "name_middle": "Spekholzerheide",
+    "name_short": "Spekholzer"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 739,
+  "fields": {
+    "code": "STV",
+    "latitude": "52.88655350",
+    "longitude": "5.36002120",
+    "type": "stoptreinstation",
+    "name_long": "Stavoren",
+    "name_middle": "Stavoren",
+    "name_short": "Stavoren"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 740,
+  "fields": {
+    "code": "STM",
+    "latitude": "53.32620920",
+    "longitude": "6.68755510",
+    "type": "stoptreinstation",
+    "name_long": "Stedum",
+    "name_middle": "Stedum",
+    "name_short": "Stedum"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 741,
+  "fields": {
+    "code": "SWK",
+    "latitude": "52.79151099",
+    "longitude": "6.11455576",
+    "type": "intercitystation",
+    "name_long": "Steenwijk",
+    "name_middle": "Steenwijk",
+    "name_short": "Steenwijk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 742,
+  "fields": {
+    "code": "SRN",
+    "latitude": "51.06138992",
+    "longitude": "5.86305571",
+    "type": "stoptreinstation",
+    "name_long": "Susteren",
+    "name_middle": "Susteren",
+    "name_short": "Susteren"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 743,
+  "fields": {
+    "code": "SM",
+    "latitude": "51.23582000",
+    "longitude": "6.03228000",
+    "type": "stoptreinstation",
+    "name_long": "Swalmen",
+    "name_middle": "Swalmen",
+    "name_short": "Swalmen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 744,
+  "fields": {
+    "code": "TG",
+    "latitude": "51.33894000",
+    "longitude": "6.14253000",
+    "type": "stoptreinstation",
+    "name_long": "Tegelen",
+    "name_middle": "Tegelen",
+    "name_short": "Tegelen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 745,
+  "fields": {
+    "code": "TBG",
+    "latitude": "51.92245490",
+    "longitude": "6.36424660",
+    "type": "stoptreinstation",
+    "name_long": "Terborg",
+    "name_middle": "Terborg",
+    "name_short": "Terborg"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 746,
+  "fields": {
+    "code": "TL",
+    "latitude": "51.88944626",
+    "longitude": "5.42222214",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Tiel",
+    "name_middle": "Tiel",
+    "name_short": "Tiel"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 747,
+  "fields": {
+    "code": "TPSW",
+    "latitude": "51.87388992",
+    "longitude": "5.39222240",
+    "type": "stoptreinstation",
+    "name_long": "Tiel Passewaaij",
+    "name_middle": "Tiel Passewaaij",
+    "name_short": "Passewaaij"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 748,
+  "fields": {
+    "code": "TB",
+    "latitude": "51.56055450",
+    "longitude": "5.08361101",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Tilburg",
+    "name_middle": "Tilburg",
+    "name_short": "Tilburg"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 749,
+  "fields": {
+    "code": "TBR",
+    "latitude": "51.57361221",
+    "longitude": "4.99444437",
+    "type": "stoptreinstation",
+    "name_long": "Tilburg Reeshof",
+    "name_middle": "Tilburg Reeshof",
+    "name_short": "Reeshof"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 750,
+  "fields": {
+    "code": "TBU",
+    "latitude": "51.56499863",
+    "longitude": "5.05111122",
+    "type": "stoptreinstation",
+    "name_long": "Tilburg Universiteit",
+    "name_middle": "Tilburg Univers.",
+    "name_short": "Tilburg U"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 751,
+  "fields": {
+    "code": "TWL",
+    "latitude": "52.23777771",
+    "longitude": "6.09861088",
+    "type": "stoptreinstation",
+    "name_long": "Twello",
+    "name_middle": "Twello",
+    "name_short": "Twello"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 752,
+  "fields": {
+    "code": "UTG",
+    "latitude": "52.52166748",
+    "longitude": "4.70166683",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Uitgeest",
+    "name_middle": "Uitgeest",
+    "name_short": "Uitgeest"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 753,
+  "fields": {
+    "code": "UHZ",
+    "latitude": "53.40995680",
+    "longitude": "6.67488690",
+    "type": "stoptreinstation",
+    "name_long": "Uithuizen",
+    "name_middle": "Uithuizen",
+    "name_short": "Uithuizen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 754,
+  "fields": {
+    "code": "UHM",
+    "latitude": "53.41458450",
+    "longitude": "6.72029750",
+    "type": "stoptreinstation",
+    "name_long": "Uithuizermeeden",
+    "name_middle": "Uithuizermeeden",
+    "name_short": "Uithuizerm"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 755,
+  "fields": {
+    "code": "UST",
+    "latitude": "53.40147420",
+    "longitude": "6.60937760",
+    "type": "stoptreinstation",
+    "name_long": "Usquert",
+    "name_middle": "Usquert",
+    "name_short": "Usquert"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 756,
+  "fields": {
+    "code": "UT",
+    "latitude": "52.08889008",
+    "longitude": "5.11027765",
+    "type": "megastation",
+    "name_long": "Utrecht Centraal",
+    "name_middle": "Utrecht C.",
+    "name_short": "Utrecht C"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 757,
+  "fields": {
+    "code": "UTLR",
+    "latitude": "52.09896000",
+    "longitude": "5.06523000",
+    "type": "stoptreinstation",
+    "name_long": "Utrecht Leidsche Rijn",
+    "name_middle": "Leidsche Rijn",
+    "name_short": "Leidsche R"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 758,
+  "fields": {
+    "code": "UTL",
+    "latitude": "52.06555557",
+    "longitude": "5.14416647",
+    "type": "stoptreinstation",
+    "name_long": "Utrecht Lunetten",
+    "name_middle": "Utrecht Lunetten",
+    "name_short": "Lunetten"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 759,
+  "fields": {
+    "code": "UTM",
+    "latitude": "52.08777618",
+    "longitude": "5.13138866",
+    "type": "stoptreinstation",
+    "name_long": "Utrecht Maliebaan",
+    "name_middle": "Maliebaan",
+    "name_short": "Maliebaan"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 760,
+  "fields": {
+    "code": "UTO",
+    "latitude": "52.11000061",
+    "longitude": "5.12472200",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Utrecht Overvecht",
+    "name_middle": "Overvecht",
+    "name_short": "Overvecht"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 761,
+  "fields": {
+    "code": "UTT",
+    "latitude": "52.10055542",
+    "longitude": "5.04166651",
+    "type": "stoptreinstation",
+    "name_long": "Utrecht Terwijde",
+    "name_middle": "Utrecht Terwijde",
+    "name_short": "Terwijde"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 762,
+  "fields": {
+    "code": "UTZL",
+    "latitude": "52.10305500",
+    "longitude": "5.09000000",
+    "type": "stoptreinstation",
+    "name_long": "Utrecht Zuilen",
+    "name_middle": "Utrecht Zuilen",
+    "name_short": "Zuilen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 763,
+  "fields": {
+    "code": "VK",
+    "latitude": "50.86972046",
+    "longitude": "5.83222198",
+    "type": "knooppuntSneltreinstation",
+    "name_long": "Valkenburg",
+    "name_middle": "Valkenburg",
+    "name_short": "Valkenburg"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 764,
+  "fields": {
+    "code": "VSV",
+    "latitude": "51.93725700",
+    "longitude": "6.45883900",
+    "type": "stoptreinstation",
+    "name_long": "Varsseveld",
+    "name_middle": "Varsseveld",
+    "name_short": "Varsseveld"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 765,
+  "fields": {
+    "code": "VDM",
+    "latitude": "53.10324000",
+    "longitude": "6.88475000",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Veendam",
+    "name_middle": "Veendam",
+    "name_short": "Veendam"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 766,
+  "fields": {
+    "code": "VNDC",
+    "latitude": "52.02000046",
+    "longitude": "5.54861116",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Veenendaal Centrum",
+    "name_middle": "Veenendaal C.",
+    "name_short": "Veenendl C"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 767,
+  "fields": {
+    "code": "VNDW",
+    "latitude": "52.02805710",
+    "longitude": "5.53138876",
+    "type": "stoptreinstation",
+    "name_long": "Veenendaal West",
+    "name_middle": "Veenendaal West",
+    "name_short": "Veenendl W"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 768,
+  "fields": {
+    "code": "KLP",
+    "latitude": "52.04583359",
+    "longitude": "5.57388878",
+    "type": "stoptreinstation",
+    "name_long": "Veenendaal-De Klomp",
+    "name_middle": "De Klomp",
+    "name_short": "De Klomp"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 769,
+  "fields": {
+    "code": "VP",
+    "latitude": "51.99472046",
+    "longitude": "5.98027802",
+    "type": "stoptreinstation",
+    "name_long": "Velp",
+    "name_middle": "Velp",
+    "name_short": "Velp"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 770,
+  "fields": {
+    "code": "VL",
+    "latitude": "51.36360931",
+    "longitude": "6.17277765",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Venlo",
+    "name_middle": "Venlo",
+    "name_short": "Venlo"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 771,
+  "fields": {
+    "code": "VRY",
+    "latitude": "51.52656810",
+    "longitude": "6.01417780",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Venray",
+    "name_middle": "Venray",
+    "name_short": "Venray"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 772,
+  "fields": {
+    "code": "VLB",
+    "latitude": "51.59193000",
+    "longitude": "5.99714000",
+    "type": "stoptreinstation",
+    "name_long": "Vierlingsbeek",
+    "name_middle": "Vierlingsbeek",
+    "name_short": "Vierlingsb"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 773,
+  "fields": {
+    "code": "VDG",
+    "latitude": "51.90305710",
+    "longitude": "4.34416676",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Vlaardingen Centrum",
+    "name_middle": "Vlaardingen C.",
+    "name_short": "Vlaard C"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 774,
+  "fields": {
+    "code": "VDO",
+    "latitude": "51.91027832",
+    "longitude": "4.36166668",
+    "type": "stoptreinstation",
+    "name_long": "Vlaardingen Oost",
+    "name_middle": "Vlaardingen Oost",
+    "name_short": "Vlaard O"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 775,
+  "fields": {
+    "code": "VDW",
+    "latitude": "51.90416718",
+    "longitude": "4.31305552",
+    "type": "stoptreinstation",
+    "name_long": "Vlaardingen West",
+    "name_middle": "Vlaardingen West",
+    "name_short": "Vlaard W"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 776,
+  "fields": {
+    "code": "VTN",
+    "latitude": "52.10305405",
+    "longitude": "5.01083326",
+    "type": "stoptreinstation",
+    "name_long": "Vleuten",
+    "name_middle": "Vleuten",
+    "name_short": "Vleuten"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 777,
+  "fields": {
+    "code": "VS",
+    "latitude": "51.44583511",
+    "longitude": "3.59527779",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Vlissingen",
+    "name_middle": "Vlissingen",
+    "name_short": "Vlissingen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 778,
+  "fields": {
+    "code": "VSS",
+    "latitude": "51.46472168",
+    "longitude": "3.59527779",
+    "type": "stoptreinstation",
+    "name_long": "Vlissingen Souburg",
+    "name_middle": "Souburg",
+    "name_short": "Souburg"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 779,
+  "fields": {
+    "code": "VDL",
+    "latitude": "50.88722229",
+    "longitude": "5.93027782",
+    "type": "stoptreinstation",
+    "name_long": "Voerendaal",
+    "name_middle": "Voerendaal",
+    "name_short": "Voerendaal"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 780,
+  "fields": {
+    "code": "VB",
+    "latitude": "52.06666565",
+    "longitude": "4.35944462",
+    "type": "stoptreinstation",
+    "name_long": "Voorburg",
+    "name_middle": "Voorburg",
+    "name_short": "Voorburg"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 781,
+  "fields": {
+    "code": "VH",
+    "latitude": "52.22444534",
+    "longitude": "4.48444462",
+    "type": "stoptreinstation",
+    "name_long": "Voorhout",
+    "name_middle": "Voorhout",
+    "name_short": "Voorhout"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 782,
+  "fields": {
+    "code": "VST",
+    "latitude": "52.12527847",
+    "longitude": "4.43249989",
+    "type": "stoptreinstation",
+    "name_long": "Voorschoten",
+    "name_middle": "Voorschoten",
+    "name_short": "Voorschtn"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 783,
+  "fields": {
+    "code": "VEM",
+    "latitude": "52.15750122",
+    "longitude": "6.14361095",
+    "type": "stoptreinstation",
+    "name_long": "Voorst-Empe",
+    "name_middle": "Voorst-Empe",
+    "name_short": "Voorst-E"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 784,
+  "fields": {
+    "code": "VD",
+    "latitude": "52.10719490",
+    "longitude": "6.31704570",
+    "type": "stoptreinstation",
+    "name_long": "Vorden",
+    "name_middle": "Vorden",
+    "name_short": "Vorden"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 785,
+  "fields": {
+    "code": "VZ",
+    "latitude": "52.40203000",
+    "longitude": "6.60041000",
+    "type": "stoptreinstation",
+    "name_long": "Vriezenveen",
+    "name_middle": "Vriezenveen",
+    "name_short": "Vriezenvn"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 786,
+  "fields": {
+    "code": "VHP",
+    "latitude": "52.45719210",
+    "longitude": "6.56966790",
+    "type": "stoptreinstation",
+    "name_long": "Vroomshoop",
+    "name_middle": "Vroomshoop",
+    "name_short": "Vroomshoop"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 787,
+  "fields": {
+    "code": "VG",
+    "latitude": "51.65555573",
+    "longitude": "5.29194450",
+    "type": "stoptreinstation",
+    "name_long": "Vught",
+    "name_middle": "Vught",
+    "name_short": "Vught"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 788,
+  "fields": {
+    "code": "WAD",
+    "latitude": "52.04416656",
+    "longitude": "4.64972210",
+    "type": "stoptreinstation",
+    "name_long": "Waddinxveen",
+    "name_middle": "Waddinxveen",
+    "name_short": "Waddinxv"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 789,
+  "fields": {
+    "code": "WADN",
+    "latitude": "52.05500031",
+    "longitude": "4.64833355",
+    "type": "stoptreinstation",
+    "name_long": "Waddinxveen Noord",
+    "name_middle": "Waddinxveen N.",
+    "name_short": "Waddinxv N"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 790,
+  "fields": {
+    "code": "WFM",
+    "latitude": "53.39084310",
+    "longitude": "6.56713640",
+    "type": "stoptreinstation",
+    "name_long": "Warffum",
+    "name_middle": "Warffum",
+    "name_short": "Warffum"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 791,
+  "fields": {
+    "code": "WT",
+    "latitude": "51.24861145",
+    "longitude": "5.70361090",
+    "type": "intercitystation",
+    "name_long": "Weert",
+    "name_middle": "Weert",
+    "name_short": "Weert"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 792,
+  "fields": {
+    "code": "WP",
+    "latitude": "52.31277847",
+    "longitude": "5.04305553",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Weesp",
+    "name_middle": "Weesp",
+    "name_short": "Weesp"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 793,
+  "fields": {
+    "code": "WL",
+    "latitude": "51.95780650",
+    "longitude": "6.21384400",
+    "type": "stoptreinstation",
+    "name_long": "Wehl",
+    "name_middle": "Wehl",
+    "name_short": "Wehl"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 794,
+  "fields": {
+    "code": "WTV",
+    "latitude": "51.96286000",
+    "longitude": "5.96950000",
+    "type": "stoptreinstation",
+    "name_long": "Westervoort",
+    "name_middle": "Westervoort",
+    "name_short": "Westervrt"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 795,
+  "fields": {
+    "code": "WZ",
+    "latitude": "52.45416641",
+    "longitude": "6.00250006",
+    "type": "stoptreinstation",
+    "name_long": "Wezep",
+    "name_middle": "Wezep",
+    "name_short": "Wezep"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 796,
+  "fields": {
+    "code": "WDN",
+    "latitude": "52.36138916",
+    "longitude": "6.59166670",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Wierden",
+    "name_middle": "Wierden",
+    "name_short": "Wierden"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 797,
+  "fields": {
+    "code": "WC",
+    "latitude": "51.81166840",
+    "longitude": "5.73083353",
+    "type": "stoptreinstation",
+    "name_long": "Wijchen",
+    "name_middle": "Wijchen",
+    "name_short": "Wijchen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 798,
+  "fields": {
+    "code": "WH",
+    "latitude": "52.39027786",
+    "longitude": "6.14055538",
+    "type": "stoptreinstation",
+    "name_long": "Wijhe",
+    "name_middle": "Wijhe",
+    "name_short": "Wijhe"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 799,
+  "fields": {
+    "code": "WS",
+    "latitude": "53.13923770",
+    "longitude": "7.03510100",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Winschoten",
+    "name_middle": "Winschoten",
+    "name_short": "Winschoten"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 800,
+  "fields": {
+    "code": "WSM",
+    "latitude": "53.33009940",
+    "longitude": "6.52029050",
+    "type": "stoptreinstation",
+    "name_long": "Winsum",
+    "name_middle": "Winsum",
+    "name_short": "Winsum"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 801,
+  "fields": {
+    "code": "WW",
+    "latitude": "51.96773070",
+    "longitude": "6.71551810",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Winterswijk",
+    "name_middle": "Winterswijk",
+    "name_short": "Winterswk"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 802,
+  "fields": {
+    "code": "WWW",
+    "latitude": "51.97453000",
+    "longitude": "6.70417000",
+    "type": "stoptreinstation",
+    "name_long": "Winterswijk West",
+    "name_middle": "Winterswijk West",
+    "name_short": "Wintersw W"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 803,
+  "fields": {
+    "code": "WD",
+    "latitude": "52.08499908",
+    "longitude": "4.89361095",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Woerden",
+    "name_middle": "Woerden",
+    "name_short": "Woerden"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 804,
+  "fields": {
+    "code": "WF",
+    "latitude": "52.00555420",
+    "longitude": "5.79361105",
+    "type": "stoptreinstation",
+    "name_long": "Wolfheze",
+    "name_middle": "Wolfheze",
+    "name_short": "Wolfheze"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 805,
+  "fields": {
+    "code": "WV",
+    "latitude": "52.88083267",
+    "longitude": "6.00361109",
+    "type": "stoptreinstation",
+    "name_long": "Wolvega",
+    "name_middle": "Wolvega",
+    "name_short": "Wolvega"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 806,
+  "fields": {
+    "code": "WK",
+    "latitude": "52.97248640",
+    "longitude": "5.45642850",
+    "type": "stoptreinstation",
+    "name_long": "Workum",
+    "name_middle": "Workum",
+    "name_short": "Workum"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 807,
+  "fields": {
+    "code": "WM",
+    "latitude": "52.48916626",
+    "longitude": "4.79222202",
+    "type": "stoptreinstation",
+    "name_long": "Wormerveer",
+    "name_middle": "Wormerveer",
+    "name_short": "Wormerveer"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 808,
+  "fields": {
+    "code": "ZD",
+    "latitude": "52.43888855",
+    "longitude": "4.81361103",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Zaandam",
+    "name_middle": "Zaandam",
+    "name_short": "Zaandam"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 809,
+  "fields": {
+    "code": "ZDK",
+    "latitude": "52.45666504",
+    "longitude": "4.82027769",
+    "type": "stoptreinstation",
+    "name_long": "Zaandam Kogerveld",
+    "name_middle": "Kogerveld",
+    "name_short": "Kogerveld"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 810,
+  "fields": {
+    "code": "ZBM",
+    "latitude": "51.80888748",
+    "longitude": "5.26333332",
+    "type": "stoptreinstation",
+    "name_long": "Zaltbommel",
+    "name_middle": "Zaltbommel",
+    "name_short": "Zaltbommel"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 811,
+  "fields": {
+    "code": "ZVT",
+    "latitude": "52.37527847",
+    "longitude": "4.53277779",
+    "type": "stoptreinstation",
+    "name_long": "Zandvoort aan Zee",
+    "name_middle": "Zandvoort a Zee",
+    "name_short": "Zandvoort"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 812,
+  "fields": {
+    "code": "ZA",
+    "latitude": "51.92005600",
+    "longitude": "5.72284080",
+    "type": "stoptreinstation",
+    "name_long": "Zetten-Andelst",
+    "name_middle": "Zetten-Andelst",
+    "name_short": "Zetten-A"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 813,
+  "fields": {
+    "code": "ZV",
+    "latitude": "51.92305374",
+    "longitude": "6.07194424",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Zevenaar",
+    "name_middle": "Zevenaar",
+    "name_short": "Zevenaar"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 814,
+  "fields": {
+    "code": "ZVB",
+    "latitude": "51.64042000",
+    "longitude": "4.60904000",
+    "type": "stoptreinstation",
+    "name_long": "Zevenbergen",
+    "name_middle": "Zevenbergen",
+    "name_short": "Zevenbergn"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 815,
+  "fields": {
+    "code": "ZTM",
+    "latitude": "52.04750061",
+    "longitude": "4.47722244",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Zoetermeer",
+    "name_middle": "Zoetermeer",
+    "name_short": "Zoetermeer"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 816,
+  "fields": {
+    "code": "ZTMO",
+    "latitude": "52.04639053",
+    "longitude": "4.49277782",
+    "type": "stoptreinstation",
+    "name_long": "Zoetermeer Oost",
+    "name_middle": "Zoetermeer Oost",
+    "name_short": "Z'meer O"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 817,
+  "fields": {
+    "code": "ZB",
+    "latitude": "53.15961228",
+    "longitude": "6.86791420",
+    "type": "knooppuntStoptreinstation",
+    "name_long": "Zuidbroek",
+    "name_middle": "Zuidbroek",
+    "name_short": "Zuidbroek"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 818,
+  "fields": {
+    "code": "ZH",
+    "latitude": "53.24862920",
+    "longitude": "6.40623610",
+    "type": "stoptreinstation",
+    "name_long": "Zuidhorn",
+    "name_middle": "Zuidhorn",
+    "name_short": "Zuidhorn"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 819,
+  "fields": {
+    "code": "ZP",
+    "latitude": "52.14527893",
+    "longitude": "6.19416666",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Zutphen",
+    "name_middle": "Zutphen",
+    "name_short": "Zutphen"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 820,
+  "fields": {
+    "code": "ZWD",
+    "latitude": "51.81499863",
+    "longitude": "4.64166689",
+    "type": "stoptreinstation",
+    "name_long": "Zwijndrecht",
+    "name_middle": "Zwijndrecht",
+    "name_short": "Zwijndrcht"
+  }
+},
+{
+  "model": "stations.station",
+  "pk": 821,
+  "fields": {
+    "code": "ZL",
+    "latitude": "52.50472260",
+    "longitude": "6.09194422",
+    "type": "knooppuntIntercitystation",
+    "name_long": "Zwolle",
+    "name_middle": "Zwolle",
+    "name_short": "Zwolle"
+  }
+}
+]
