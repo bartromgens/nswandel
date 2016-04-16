@@ -4,6 +4,7 @@ from django.core.management.base import BaseCommand, CommandError
 
 import gpxpy.geo
 import gpxpy.parser
+import gpxpy.gpx
 
 from nswandel.stations.models import Station
 from nswandel.trails.models import NSTrail
@@ -22,8 +23,12 @@ class Command(BaseCommand):
             gpxfilepath = os.path.join(MEDIA_ROOT, trail.gpx_file.path)
             self.stdout.write(gpxfilepath)
             with open(gpxfilepath, 'r') as gpx_file:
-                gpx_parser = gpxpy.parser.GPXParser(gpx_file)
-                gpx = gpx_parser.parse()
+                try:
+                    gpx_parser = gpxpy.parser.GPXParser(gpx_file)
+                    gpx = gpx_parser.parse()
+                except gpxpy.gpx.GPXXMLSyntaxException as e:
+                    self.stdout.write(e)
+                    continue
                 self.stdout.write('gpx file parsed')
 
                 stations = Station.objects.all()
@@ -53,6 +58,7 @@ class Command(BaseCommand):
                 self.stdout.write(str(station_nearest_end))
                 self.stdout.write(str(min_distance_begin))
                 self.stdout.write(str(min_distance_end))
+                trail.title = station_nearest_begin.name_middle + ' - ' + station_nearest_end.name_middle
                 trail.station_begin = station_nearest_begin
                 trail.station_end = station_nearest_end
                 trail.save()
