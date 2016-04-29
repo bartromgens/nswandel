@@ -19,7 +19,11 @@ $.ajaxSetup({beforeSend: function(xhr){
 }
 });
 
-var map = new ol.Map({target: 'map'});
+var map = new ol.Map({
+    target: 'map',
+    loadTilesWhileInteracting: true
+});
+
 var view = new ol.View( {center: [0, 0], zoom: 10, projection: 'EPSG:3857'} );
 map.setView(view);
 
@@ -355,7 +359,7 @@ var trailLayer = new ol.layer.VectorTile({
       minZoom: 6,
       tileSize: [256, 256]
     }),
-    url: '/static/data/test/{z}/{x}/{y}.json',
+    url: '/static/data/tiles/{z}/{x}/{y}.geojson',
   }),
   style: tileStyleFunction
 });

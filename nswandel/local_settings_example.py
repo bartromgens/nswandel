@@ -2,7 +2,6 @@ import os
 APP_DIR = os.path.dirname(os.path.dirname(__file__))
 
 DEBUG = True
-TEMPLATE_DEBUG = True
 
 # SECURITY WARNING: Make this unique, and don't share it with anybody.
 SECRET_KEY = ''
@@ -36,4 +35,12 @@ STATIC_ROOT = ''
 #STATIC_URL = 'http://www.domain.com/static/'
 STATIC_URL = "/static/"
 
-REGISTRATION_OPEN = True
+#MEDIA_ROOT = '/home/username/webapps/rbbingo_static/media/'
+MEDIA_ROOT = os.path.join(APP_DIR, 'static/media/')
+
+#MEDIA_URL = 'http://www.domain.com/static/media/'
+MEDIA_URL = '/static/media/'
+
+
+# The location of the tippecanoe (C++) binaries, needed for togeojsonfiles
+TIPPECANOE_DIR = './lib/'
