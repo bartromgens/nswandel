@@ -355,7 +355,7 @@ var trailLayer = new ol.layer.VectorTile({
     format: new ol.format.GeoJSON(),
     projection: 'EPSG:3857',
     tileGrid: ol.tilegrid.createXYZ({
-      maxZoom: 12,
+      maxZoom: 13,
       minZoom: 6,
       tileSize: [256, 256]
     }),
