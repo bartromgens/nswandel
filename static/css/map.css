@@ -1,17 +1,30 @@
-html {
+html, body {
     height:100%;
 }
 
 body {
-    height:100%;
+    padding-top: 70px;
+}
+
+#top-info {
+    position: absolute;
+    right:0;
+    top: 7%;
+    margin: auto;
+    z-index: 10;
+    background: white;
 }
 
 #map-container {
     position: relative;
-    height:80%;
+    padding: 0;
+    height: 100%;
+    width: 100%;
 }
 
 #map {
+    position: relative;
+    padding: 0;
     height: 100%;
     width: 100%;
 }

@@ -4,6 +4,7 @@ extract/
 data/gpx/
 env/
 static/media/
+static/data/
 
 *.zip
 *.pyc
