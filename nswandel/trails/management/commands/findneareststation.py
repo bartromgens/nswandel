@@ -12,7 +12,7 @@ from nswandel.local_settings import MEDIA_ROOT
 
 
 class Command(BaseCommand):
-    help = 'finds the nearest stations for a all trails'
+    help = 'finds and sets the nearest train station for all trails, deletes trailes not near a station'
 
     # def add_arguments(self, parser):
     #     parser.add_argument('json_file', type=str)
@@ -62,12 +62,9 @@ class Command(BaseCommand):
                     for track in gpx.tracks:
                         trail_distance += track.length_3d()
 
-                self.stdout.write(str(station_nearest_begin))
-                self.stdout.write(str(station_nearest_end))
-                self.stdout.write(str(min_distance_begin))
-                self.stdout.write(str(min_distance_end))
                 trail.title = station_nearest_begin.name_middle + ' - ' + station_nearest_end.name_middle
                 trail.station_begin = station_nearest_begin
                 trail.station_end = station_nearest_end
                 trail.distance = trail_distance
                 trail.save()
+                self.stdout.write('trail created')
