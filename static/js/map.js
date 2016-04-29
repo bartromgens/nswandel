@@ -24,8 +24,8 @@ var view = new ol.View( {center: [0, 0], zoom: 10, projection: 'EPSG:3857'} );
 map.setView(view);
 
 var osmSource = new ol.source.OSM("OpenStreetMap");
-// osmSource.setUrl("http://a.tile.opencyclemap.org/transport/{z}/{x}/{y}.png ");
-osmSource.setUrl("http://a.tile.openstreetmap.org/{z}/{x}/{y}.png ");
+ osmSource.setUrl("http://a.tile.opencyclemap.org/transport/{z}/{x}/{y}.png ");
+//osmSource.setUrl("http://a.tile.openstreetmap.org/{z}/{x}/{y}.png ");
 var osmLayer = new ol.layer.Tile({source: osmSource});
 
 map.addLayer(osmLayer);
@@ -72,37 +72,37 @@ var style = {
 var vectorSources = [];
 var vectorLayers = [];
 
-function createTrailLayer(json_trail)
-{
-    var vectorSource = new ol.source.Vector({
-        projection: 'EPSG:3857',
-        format: new ol.format.GPX(),
-        url: json_trail.gpx_file
-    });
-    vectorSources.push(vectorSource);
-    var trailVector = new ol.layer.Vector({
-        source: vectorSource,
-        style: function(feature, resolution) {
-            return style[feature.getGeometry().getType()];
-        },
-        name: json_trail.title,
-        url: json_trail.gpx_file,
-        distance: json_trail.distance,
-        url_extern: json_trail.url_extern,
-    });
-    vectorLayers.push(trailVector);
-    return trailVector;
-}
-
-
-$.getJSON("/api/nstrails/?format=json", function(json) {
-    for (var i in json) {
-        var trail = json[i];
-        // console.log(trail)
-        var trailLayer = createTrailLayer(trail);
-        map.addLayer(trailLayer);
-    }
-});
+//function createTrailLayer(json_trail)
+//{
+//    var vectorSource = new ol.source.Vector({
+//        projection: 'EPSG:3857',
+//        format: new ol.format.GPX(),
+//        url: json_trail.gpx_file
+//    });
+//    vectorSources.push(vectorSource);
+//    var trailVector = new ol.layer.Vector({
+//        source: vectorSource,
+//        style: function(feature, resolution) {
+//            return style[feature.getGeometry().getType()];
+//        },
+//        name: json_trail.title,
+//        url: json_trail.gpx_file,
+//        distance: json_trail.distance,
+//        url_extern: json_trail.url_extern,
+//    });
+//    vectorLayers.push(trailVector);
+//    return trailVector;
+//}
+//
+//
+//$.getJSON("/api/nstrails/?format=json", function(json) {
+//    for (var i in json) {
+//        var trail = json[i];
+//        // console.log(trail)
+//        var trailLayer = createTrailLayer(trail);
+//        map.addLayer(trailLayer);
+//    }
+//});
 
 
 function createStationLayer(typeScales, stations)
@@ -214,12 +214,19 @@ var displayLayerTooltip = function(pixel) {
         top: (pixel[1] - 50) + 'px'
     });
 
-    var layer = map.forEachLayerAtPixel(pixel, function(layer) {
-        return layer;
+    var features = [];
+    map.forEachFeatureAtPixel(pixel, function(feature, layer) {
+        features.push(feature);
     });
 
-    if (layer && layer.get('name')) {
-        info.text(layer.get('name') + " (" + Math.ceil(layer.get("distance")/1000) + " km)");
+    var feature = features[0];
+    for (var i in features) {
+//        console.log(features[i]);
+    }
+
+    if (feature && feature.get('name')) {
+//        info.text(feature.get('name') + " (" + Math.ceil(layer.get("distance")/1000) + " km)");
+        info.text(feature.get('name'));
         info.show();
     } else {
         info.hide();
@@ -309,6 +316,8 @@ geolocation.on('change:position', function() {
         new ol.geom.Point(coordinates) : null);
 });
 
+// trail tiles
+
 var featuresOverlay = new ol.layer.Vector({
     map: map,
     source: new ol.source.Vector({
@@ -316,4 +325,46 @@ var featuresOverlay = new ol.layer.Vector({
     })
 });
 
-//geolocation.setTracking(true);
+
+var tileStyleFunction = function(feature, resolution) {
+    return new ol.style.Style({
+        stroke: new ol.style.Stroke({
+            color: 'green',
+            width: 3
+        }),
+//        image: new ol.style.Circle({
+//            fill: new ol.style.Fill({
+//                color: 'green'
+//            }),
+//            radius: 6,
+//            stroke: new ol.style.Stroke({
+//                color: 'green',
+//                width: 3
+//            })
+//        })
+    })
+};
+
+
+var trailLayer = new ol.layer.VectorTile({
+  source: new ol.source.VectorTile({
+    format: new ol.format.GeoJSON(),
+    projection: 'EPSG:3857',
+    tileGrid: ol.tilegrid.createXYZ({
+      maxZoom: 12,
+      minZoom: 6,
+      tileSize: [256, 256]
+    }),
+    url: '/static/data/test/{z}/{x}/{y}.json',
+  }),
+  style: tileStyleFunction
+});
+
+trailLayer.getSource().on('tileloaderror', function (evt) {
+//        console.log(evt.tile);
+});
+
+//trailLayer.set("useInterimTilesOnError", false);
+
+
+map.addLayer(trailLayer);
