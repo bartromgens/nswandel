@@ -66,5 +66,9 @@ class Command(BaseCommand):
                 trail.station_begin = station_nearest_begin
                 trail.station_end = station_nearest_end
                 trail.distance = trail_distance
-                trail.save()
-                self.stdout.write('trail created')
+                if min_distance_begin > 2000 or min_distance_end > 2000:
+                    trail.delete()
+                    self.stdout.write('trail too far from station')
+                else:
+                    trail.save()
+                    self.stdout.write('trail created')
